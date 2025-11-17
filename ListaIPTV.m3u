@@ -158,8 +158,8 @@ https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlis
 https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://i.imgur.com/YTWxRSp.png",[12.4] RedeBrasil! | Sul | WebTV
 https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
-#EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://tinyurl.com/27drrobr",[13.0] Band TV Rede
-http://15.235.50.115:14522
+#EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://tinyurl.com/27drrobr",[13.0] Band TV BandPlay
+https://beyond.spalla.io/player/?live=019861d2-261b-7c52-b0b1-9dd659a24e1d&liveId=019861d2-261b-7c52-b0b1-9dd659a24e1d&videoId=undefined&width=100%25&height=100%25&autoplay=1&messages=1&bar=0&pip=0&search=0&muted=0&audioplayer=0&offline=0&t=20&subtitlePosition=inner&subtitleLanguage=es&aid=11111111-2222-4bb6-4444-000000000000&resume=0&enableLikes=0&enableCc=0&live=1&playbackSpeeds=-&controls=play,pause,fullscreen,volume,quality,live,info&bookmarks=%255Bobject%2520Object%255D,%255Bobject%2520Object%255D,%255Bobject%2520Object%255D,%255Bobject%2520Object%255D,%255Bobject%2520Object%255D&parentURL=https://bandplay.com/band-ao-vivo
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://tinyurl.com/27drrobr",[13.0] Band TV Rede - SPP
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Ye7yzLuRC/chunklist.m3u8
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://i.imgur.com/b92nQTD.png",[13.0] Band TV | PA | RBA TV | Link 1
@@ -1025,5 +1025,6 @@ https://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CamerasBrasil" tvg-logo="",[CAM] Ponte da Amizade | Brasil
 https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
 #EXT-X-ENDLIST
+
 
 
