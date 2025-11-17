@@ -2,6 +2,7 @@
 # --- Canais Youtube Públicos ---
 #EXTINF:-1  tvg-logo="" group-title="Justiça", TV Justiça (BR)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763426929/ei/EW4bafrNFvyynOAPhYHCwA0/ip/2804%3A7f0%3Ab982%3Ac476%3A88b7%3Acf33%3A25a1%3Ad8d7/id/ApT_HyPWXhc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631266/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AdEuB5TpnLZ89zgmv9wHP4rh81cny-kESKgteEf7kG0yzC0vXgWbs_3TZiqCtmGmgnnHcnGNIQ/spc/6b0G_HTTRKS8-6j68VUC6qEtYobJSZ-5nMOkcQ3bP79ctyhadvUO/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgeFQD6z-QbQzcrDlYUqBk4NcVCi_h8X6EgZ7NrQig17cCICAdQNte72MWqUWIghL4Wcrc9tA0uIYF69zmJK2J5tfi/file/index.m3u8
+
 # --- Canais Internacionais Públicos ---
 #EXTINF:-1  tvg-logo="" group-title="Internacional", Deutsche Welle (DW)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8#EXTINF:-1  tvg-logo="" group-title="Internacional", France 24 (Inglês)
@@ -84,10 +85,15 @@ http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://i.imgur.com/u6DuMQk.png",[03.1] Rede NGT | Link 2
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp",[04.0] SBT | SP | YouTube 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763428486/ei/JnQbabSbOqif4dUP9vyl2AE/ip/2804%3A7f0%3Ab982%3Ac476%3A88b7%3Acf33%3A25a1%3Ad8d7/id/ABVQXgr2LW4.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631266/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/siu/1/bui/AdEuB5QH3pao-KqJ-SDoCkI1_3ZeuViLcmJQL5cm-fTTU-dHjEDOBx8UmzsgC0JmwxrYxl2sIw/spc/6b0G_MdcFOdnxAJxciGN1mM85kYnseHQSvITggIZyNcOU5vZVeMB/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgC1TG_zOeWs_6g3AHKfvceeoeYg05hx-3r5Pdx_c-PMECIHv9Pi7sAkz5AzNpxLgOuU3W_SrMO1wc3uBd_iaN5lDY/file/index.m3u8
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp",[04.0] SBT | SP | TV Thathi
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5d386500ebc7f1be9d49188de6f44fa5.webp",[04.1] SBT | SP | Interior 1
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5d386500ebc7f1be9d49188de6f44fa5.webp",[04.1] SBT | SP | Interior 2
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp",[04.2] SBT | MT | Bem TV | Tangará da Serra | Link 1
@@ -105,7 +111,7 @@ http://24hrs.homelinux.com:8080/24H-pegadihassilviosantos.txt/video.m3u8?
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/436aee19fbd372235b2bfa131457f32c.webp",[06.0] RBI TV FHD
 https://live-ak.vimeocdn.com/exp=1742963882~acl=%2F23e940d1-81dd-492d-ae89-f64089affa15_fmp4%2F%2A~hmac=a8d9126ad1f93d050b35b4ded2232fe93c5f3a08775ae23ee2a13f2598a0f6b0/23e940d1-81dd-492d-ae89-f64089affa15_fmp4/chunklist_b56000_cmaf_a.m3u8?_HLS_skip=YES
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png",[07.1] RecordTV | SP 1 | TV Playplus
-https://spo4.akamaized.net/hls/live/2029736/spo4/index.m3u8?hdnts=exp=1763353144~acl=/*~hmac=118310c5c62912d02e350b2019931857e6514528930efd40e9ecc035e700000e
+https://spo4.akamaized.net/hls/live/2029736/spo4/index.m3u8?hdnts=exp=1763409028~acl=/*~hmac=d596e76dee1ad87c4938956c1877231ba1982ff6a3914ab715d25713bb96974c%27;
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://i.imgur.com/RDekR7e.png",[07.0] RecordTV | MT | TV Conquista
 https://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png",[07.1] RecordTV | MT 1 | TV Juina
@@ -154,6 +160,8 @@ https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
 https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://tinyurl.com/27drrobr",[13.0] Band TV Rede
 http://15.235.50.115:14522
+#EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://tinyurl.com/27drrobr",[13.0] Band TV Rede - SPP
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Ye7yzLuRC/chunklist.m3u8
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://i.imgur.com/b92nQTD.png",[13.0] Band TV | PA | RBA TV | Link 1
 https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://i.imgur.com/b92nQTD.png",[13.1] Band TV | PA | RBA TV | Link 2
@@ -1017,4 +1025,5 @@ https://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CamerasBrasil" tvg-logo="",[CAM] Ponte da Amizade | Brasil
 https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
 #EXT-X-ENDLIST
+
 
