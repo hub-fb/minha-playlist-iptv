@@ -1,4 +1,7 @@
 #EXTM3U
+# --- Canais Youtube Públicos ---
+#EXTINF:-1  tvg-logo="" group-title="Justiça", TV Justiça (BR)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763426929/ei/EW4bafrNFvyynOAPhYHCwA0/ip/2804%3A7f0%3Ab982%3Ac476%3A88b7%3Acf33%3A25a1%3Ad8d7/id/ApT_HyPWXhc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631266/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AdEuB5TpnLZ89zgmv9wHP4rh81cny-kESKgteEf7kG0yzC0vXgWbs_3TZiqCtmGmgnnHcnGNIQ/spc/6b0G_HTTRKS8-6j68VUC6qEtYobJSZ-5nMOkcQ3bP79ctyhadvUO/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgeFQD6z-QbQzcrDlYUqBk4NcVCi_h8X6EgZ7NrQig17cCICAdQNte72MWqUWIghL4Wcrc9tA0uIYF69zmJK2J5tfi/file/index.m3u8
 # --- Canais Internacionais Públicos ---
 #EXTINF:-1  tvg-logo="" group-title="Internacional", Deutsche Welle (DW)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8#EXTINF:-1  tvg-logo="" group-title="Internacional", France 24 (Inglês)
@@ -1014,3 +1017,4 @@ https://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CamerasBrasil" tvg-logo="",[CAM] Ponte da Amizade | Brasil
 https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
 #EXT-X-ENDLIST
+
