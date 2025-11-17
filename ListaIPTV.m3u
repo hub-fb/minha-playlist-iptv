@@ -1,9 +1,5 @@
 #EXTM3U
 # --- Canais Internacionais Públicos ---
-#EXTINF:-1  tvg-logo="" group-title="Internacional", Euronews (Inglês)
-https://euronews-euronews-world-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Internacional", Euronews (Espanhol)
-https://euronews-espanol-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Internacional", Deutsche Welle (DW)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8#EXTINF:-1  tvg-logo="" group-title="Internacional", France 24 (Inglês)
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
