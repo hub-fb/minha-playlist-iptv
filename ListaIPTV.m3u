@@ -1,8 +1,4 @@
 #EXTM3U
-# --- Canais Youtube Públicos ---
-#EXTINF:-1  tvg-logo="" group-title="Justiça", TV Justiça (BR)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763426929/ei/EW4bafrNFvyynOAPhYHCwA0/ip/2804%3A7f0%3Ab982%3Ac476%3A88b7%3Acf33%3A25a1%3Ad8d7/id/ApT_HyPWXhc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631266/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AdEuB5TpnLZ89zgmv9wHP4rh81cny-kESKgteEf7kG0yzC0vXgWbs_3TZiqCtmGmgnnHcnGNIQ/spc/6b0G_HTTRKS8-6j68VUC6qEtYobJSZ-5nMOkcQ3bP79ctyhadvUO/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgeFQD6z-QbQzcrDlYUqBk4NcVCi_h8X6EgZ7NrQig17cCICAdQNte72MWqUWIghL4Wcrc9tA0uIYF69zmJK2J5tfi/file/index.m3u8
-
 # --- Canais Internacionais Públicos ---
 #EXTINF:-1  tvg-logo="" group-title="Internacional", Deutsche Welle (DW)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8#EXTINF:-1  tvg-logo="" group-title="Internacional", France 24 (Inglês)
@@ -85,17 +81,12 @@ http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://i.imgur.com/u6DuMQk.png",[03.1] Rede NGT | Link 2
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp",[04.0] SBT | SP | YouTube 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1763428486/ei/JnQbabSbOqif4dUP9vyl2AE/ip/2804%3A7f0%3Ab982%3Ac476%3A88b7%3Acf33%3A25a1%3Ad8d7/id/ABVQXgr2LW4.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631266/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/siu/1/bui/AdEuB5QH3pao-KqJ-SDoCkI1_3ZeuViLcmJQL5cm-fTTU-dHjEDOBx8UmzsgC0JmwxrYxl2sIw/spc/6b0G_MdcFOdnxAJxciGN1mM85kYnseHQSvITggIZyNcOU5vZVeMB/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgC1TG_zOeWs_6g3AHKfvceeoeYg05hx-3r5Pdx_c-PMECIHv9Pi7sAkz5AzNpxLgOuU3W_SrMO1wc3uBd_iaN5lDY/file/index.m3u8
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp",[04.0] SBT | SP | TV Thathi
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
-
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5d386500ebc7f1be9d49188de6f44fa5.webp",[04.1] SBT | SP | Interior 1
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5d386500ebc7f1be9d49188de6f44fa5.webp",[04.1] SBT | SP | Interior 2
-https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp",[04.2] SBT | MT | Bem TV | Tangará da Serra | Link 1
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp",[04.3] SBT | MT | Bem TV | Tangará da Serra | Link 2
@@ -176,7 +167,6 @@ https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png",[13.6] BandNews | NOTICIAS 
 http://supersonictv.live:8080/968896/903421/84941
-#EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png",[13.6] BandNews | NOTICIAS 
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7pakstinpyajo/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="",[13.7] BandSports
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290-4-main.m3u8
@@ -251,7 +241,6 @@ https://a.cdni.live/tvcanalricos/tvcanalricos/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/458/2023/11/logoCanalDez-1.png",[59.7] Canal 10
 https://canaldez.acessaradios.com.br/canaldez/canaldez/chunklist_w2041611527.m3u8
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/721/2024/01/tv-chroma-2024-1-2.png",[59.8] CHROMA
-https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="https://i.ibb.co/xC1nTt2/802.jpg",[59.9] D+ | Brasil
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="Canais Abertos" tvg-logo="",[60.0] Jovem Pan News | SP (Parabolica)
@@ -298,7 +287,6 @@ https://acesso.ecast.site:3104/hybrid/play.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Aracati
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Assembleia Maceio
 https://5c483b9d1019c.streamlock.net/staffvideotv/staffvideotv/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] ALTERNATIVA
@@ -362,7 +350,6 @@ https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] M2O
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Music Top
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] KURIAKOS CINE
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Central TV
@@ -382,7 +369,6 @@ https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Canal 29 - WebTV
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Bons Tempos TV - WebTV
-https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Destak - WebTV
 https://video03.logicahost.com.br/pascoal/pascoal/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Series - WebTV
@@ -406,7 +392,6 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Brusque (SC)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Boas Novas
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="https://i.imgur.com/xXS3GTp.png",[TV] SIC | Portugal 
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] TV5 Monde Info
@@ -458,7 +443,6 @@ https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] BRICS
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] EU TV
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] SERIES 1 AS PANTERAS
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] DO POVO
@@ -532,7 +516,6 @@ http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="https://i.imgur.com/IK3F9Uq.png",[TV] Nova Era | Lages SC | 2
 http://wz3.dnip.com.br/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] CANDIDES
-https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] GALEGA | Blumenau SC Brasil 1
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] GALEGA | Blumenau SC Brasil 2
@@ -614,11 +597,9 @@ https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] GLN | Brasil
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] ISTV | Brasil
-https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Life Channel Brasil
 https://cdn2.connectbr.com.br/life/index.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Top Mix 
-https://video03.logicahost.com.br/topmixtv/topmixtv/chunklist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Carioca | Brasil
 https://a.cdni.live/tvcarioca/tvcarioca/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] CNB
@@ -626,8 +607,6 @@ https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Gramado | RS Brasil
 https://isaocorp.cloudecast.com/tvgramado/index.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Grande Natal | Brasil
-http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-#EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Japi
 https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Mais Brasil
 https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist.m3u8
@@ -636,7 +615,6 @@ https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] MAX Rio | Brasil
 https://5cf4a2c2512a2.streamlock.net:443/tvmax/tvmax/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Mon | Montenegro RS Brasil
-https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] SulBA | Brasil
 https://video05.logicahost.com.br/tvsulba/tvsulba/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Surubim PE | Brasil
@@ -648,7 +626,6 @@ https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Uniao | Natal | Brasil
 https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Uniao | Rio Branco | Brasil
-https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] WTJ | MG Brasil
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CANAIS-Diversos" tvg-logo="",[TV] Zoom
@@ -700,7 +677,6 @@ https://srv1.zcast.com.br/tvhistoria/tvhistoria/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="SoulTV" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/295/img_background_image_all.jpg",[TV] TV Gente | SoulTV  
 https://pop.uniquetv.com.br/tvgentebrasil/video.m3u8
 #EXTINF:-1 type="stream" group-title="SoulTV" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/163/163_img_bg_image_1280x720_big.jpg",[TV] GLN Filmes | SoulTV  
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="SoulTV" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/105/105_img_bg_image_1280x720_big.jpg",[TV] Sonata | SoulTV 
 https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="SoulTV" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/98/98_img_bg_image_1280x720_big.jpg",[TV] BR Super TV | SoulTV  
@@ -771,7 +747,6 @@ https://newidco-newkid-1-mx.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png", Novo Kpop 3 | SamsungTv
 https://newidco-newkid-1-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="SamsungTv" tvg-logo="", Tv Aracati
-https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png", Gln Tv | SamsungTv
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8
 #EXTINF:-1 type="stream" group-title="SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png", Tv Mais Brasil | SamsungTv
@@ -781,15 +756,11 @@ https://isaocorp.cloudecast.com/playtv/index.m3u8
 #EXTINF:-1 type="stream" group-title="SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png", Otaku | SamsungTv
 http://200.194.238.229:8383/live/otaku/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png", Geekdot | SamsungTv
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 type="stream" group-title="SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png", Redação | SamsungTv
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png", Fox Kids | SamsungTv
-https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png", Cocô TV | SamsungTv
-https://stream.ichibantv.com:3522/hybrid/play.m3u8
 #EXTINF:-1 type="stream" group-title="SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png", XtremeTV | SamsungTv
-https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png", Pokemon 24h | SamsungTv
 http://24hrs.homelinux.com:8080/24H-pokemon/video.m3u8?
 #EXTINF:-1 type="stream" group-title="SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png", Digimon 24h | SamsungTv
@@ -872,7 +843,6 @@ http://24hrs.homelinux.com:8080/24H-standup/video.m3u8?
 #EXTINF:-1 type="stream" group-title="Radios" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp",[Radio] REGIONAL FM (102,3MHz) - M3U8
 http://stream.zeno.fm/auauo2vfekltv.m3u8
 #EXTINF:-1 type="stream" group-title="Radios" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp",[Radio] REGIONAL FM (102,3MHz) Santo Adré SP
-http://stream.zeno.fm/auauo2vfekltv/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="Radios" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp",[Radio] REGIONAL FM (102,3MHz) - M3U
 http://stream.zeno.fm/auauo2vfekltv.m3u
 #EXTINF:-1 type="stream" group-title="Radios" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp",[Radio] REGIONAL FM (102,3MHz) - MP3
@@ -917,7 +887,6 @@ https://cdn17.fntvchannel.com/index.m3u8
 #EXTINF:-1 type="stream" group-title="Variedades" tvg-logo="",[VAR] Classic Rock Network | link 2
 https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/index.m3u8
 #EXTINF:-1 type="stream" group-title="Variedades" tvg-logo="",[VAR] Classic Rock Network | link 3
-https://cdn17.fntvchannel.com/index.m3u8
 #EXTINF:-1 type="stream" group-title="Variedades" tvg-logo="",[VAR] Georgia Hollywood Review TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1507
 #EXTINF:-1 type="stream" group-title="Variedades" tvg-logo="",[VAR] Hollywire
@@ -1024,1088 +993,452 @@ https://crackle-crackle-lg.amagi.tv/playlist.m3u8
 https://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="CamerasBrasil" tvg-logo="",[CAM] Ponte da Amizade | Brasil
 https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
-
 ===============================outras listas=============================
-#EXTM3U
 #EXTINF:-1,Unknown Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6128
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1,Unknown Channel
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
-#EXTINF:-1,Unknown Channel
-https://acesso.ecast.site:3500/hybrid/play.m3u8
-#EXTINF:-1,Unknown Channel
-https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
-#EXTINF:-1,Unknown Channel
-https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://video09.logicahost.com.br/paieterno/paieterno/master.m3u8
-#EXTINF:-1,Unknown Channel
-https://acesso.ecast.site:3104/hybrid/play.m3u8
-#EXTINF:-1,Unknown Channel
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
-#EXTINF:-1,Unknown Channel
-https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1,Unknown Channel
-https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
-#EXTINF:-1,Unknown Channel
-https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
-#EXTINF:-1,Unknown Channel
-https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
-#EXTINF:-1,Unknown Channel
 https://clubeinternacionalcod.akamaized.net/internacional/internacional/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://011news.akamaized.net/011news/011news/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=465
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1296
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
-#EXTINF:-1,Unknown Channel
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/master.m3u8
-#EXTINF:-1,Unknown Channel
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
-#EXTINF:-1,Unknown Channel
-https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/master.m3u8
-#EXTINF:-1,Unknown Channel
-https://streaming.almg.gov.br/live/tvalmg.m3u8
-#EXTINF:-1,Unknown Channel
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1,Unknown Channel
-https://stream3.camara.gov.br/tv2/manifest.m3u8
-#EXTINF:-1,Unknown Channel
-https://stream3.camara.gov.br/tv2/manifest.m3u8
-#EXTINF:-1,Unknown Channel
-https://5a57bda70564a.streamlock.net/bandnewsgo/bandnewsgo.stream/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://acesso.ecast.site:3070/live/awtvlive.m3u8
-#EXTINF:-1,Unknown Channel
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
-#EXTINF:-1,Unknown Channel
-https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
-#EXTINF:-1,Unknown Channel
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Unknown Channel
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
-#EXTINF:-1,Unknown Channel
-https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/master.m3u8
-#EXTINF:-1,Unknown Channel
 https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
-#EXTINF:-1,Unknown Channel
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1,Unknown Channel
-https://video03.logicahost.com.br/topmixtv/topmixtv/chunklist.m3u8
-#EXTINF:-1,Unknown Channel
 https://video01.logicahost.com.br/tvafolha/tvafolha/master.m3u8
-#EXTINF:-1,Unknown Channel
-https://tbc.zoeweb.tv/tbc/tbc/master.m3u8
-#EXTINF:-1,Unknown Channel
-https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist.m3u8
-#EXTINF:-1,Unknown Channel
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://cdn.live.br1.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://isaocorp.cloudecast.com/tvgramado/index.m3u8
-#EXTINF:-1,Unknown Channel
-https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://5cf4a2c2512a2.streamlock.net:443/tvmax/tvmax/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://acesso.ecast.site:3675/live/novatvlive.m3u8
-#EXTINF:-1,Unknown Channel
-https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1503
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1165
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1504
-#EXTINF:-1,Unknown Channel
-https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/index.m3u8
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1507
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=763
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1501
-#EXTINF:-1,Unknown Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-To
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2160
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1356
-#EXTINF:-1,Unknown Channel
-https://magnolia-cinelife.amagi.tv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1871
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2579
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=70
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=151
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2184
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=166
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=202
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=228
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=532
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1756
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=552
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=181
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1315
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=284
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=81
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2582
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2594
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2595
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1119
-#EXTINF:-1,Unknown Channel
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-#EXTINF:-1,Unknown Channel
 https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=85
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2587
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2598
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1236
-#EXTINF:-1,Unknown Channel
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=165
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=180
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=207
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=46
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=476
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=816
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1682
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=47
-#EXTINF:-1,Unknown Channel
 https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=901&partner=distro&device_id=af56109e-ef74-4f31-b201-55dcce3b60d1&device_model=Web&device_width=530&device_height=298&us_privacy=1&gdpr=0&device_language=en&is_lat=0
-#EXTINF:-1,Unknown Channel
 https://gusto-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1149
-#EXTINF:-1,Unknown Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1253
-#EXTINF:-1,Unknown Channel
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1,Unknown Channel
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=567
-#EXTINF:-1,Unknown Channel
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1320
-#EXTINF:-1,Unknown Channel
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=72
-#EXTINF:-1,Unknown Channel
-https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://wildearth-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://lds-wonder-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=y_HMAMzw1oNcdLetH1FS&channelId=5f74cf83ffbe690040689f4d&uid=1g64pmepo-hn2i-jo-9p0t-a2lsb68a1u/hls/amagi_hls_data_ldsAAAAAA-wonder-plex/CDN/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://web.onair-radio.eu/explorecy/explorecy/master.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1650
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=757
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1677
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2182
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1289
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1998
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2538
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=840
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2167
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2005
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=843
-#EXTINF:-1,Unknown Channel
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2000
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=842
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1132
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=379
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1353
-#EXTINF:-1,Unknown Channel
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1,Unknown Channel
 https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master.m3u8
-#EXTINF:-1,Unknown Channel
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
-#EXTINF:-1,Unknown Channel
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=72
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2585
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2596
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1555
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1346
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=297
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=869
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=874
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=963
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1062
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1999
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=443
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=444
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=460
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1314
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=445
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=633
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=692
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=846
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1322
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1755
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2020
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=732
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=733
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=734
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=735
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2010
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1352
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2351
-#EXTINF:-1,Unknown Channel
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1986
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1985
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=380
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=681
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=918
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1361
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1023
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1849
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1268
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=533
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=658
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1746
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1297
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2365
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=823
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1398
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=60
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=563
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=264
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=285
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=271
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=465
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=292
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=294
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=294
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=41
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=696
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2613
-#EXTINF:-1,Unknown Channel
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=134
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=221
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=50
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=239
-#EXTINF:-1,Unknown Channel
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=35
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=826
-#EXTINF:-1,Unknown Channel
 https://janson-supersimplesongs-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=36
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=264
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=824
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=286
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=827
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=285
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=291
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=293
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=33
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=142
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=100
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=58
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=59
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=143
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=157
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=158
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=172
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=189
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=191
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=193
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=199
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=188
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=190
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=192
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=198
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=195
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=222
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=223
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=60
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=61
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=173
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=225
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1312
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1316
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=264
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=275
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=592
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=562
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=619
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=805
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2541
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=125
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1378
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=84
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2586
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2597
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=40
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=467
-#EXTINF:-1,Unknown Channel
 https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=738
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=753
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=609
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1275
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1273
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1274
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=884
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=887
-#EXTINF:-1,Unknown Channel
 https://qwest-jazz-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://web.onair-radio.eu/video/video/master.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1389
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1387
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1385
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2704
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=568
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1390
-#EXTINF:-1,Unknown Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/xiteaaaaa-xite-samsung-de/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=570
-#EXTINF:-1,Unknown Channel
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5301
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5301
-#EXTINF:-1,Unknown Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=y_HMAMzw1oNcdLetH1FS&channelId=61bb9a63e0b39cfe304c9a8a
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=147
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1342
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=63
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=214
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=48
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=64
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=146
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=161
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=162
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=176
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=177
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=203
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=204
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1302
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=710
-#EXTINF:-1,Unknown Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-carolburnettshow-plex/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1,Unknown Channel
 https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
-#EXTINF:-1,Unknown Channel
-https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
-#EXTINF:-1,Unknown Channel
 https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=76
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=102
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=620
-#EXTINF:-1,Unknown Channel
 https://livestream.chdrstatic.com/e1bced8988f6a21da2206247c69538b6d4b12898ae8245c3a72f57e21384ccba/localnow/localnowlive/cheddardigital/index.m3u8
-#EXTINF:-1,Unknown Channel
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1654
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1265
-#EXTINF:-1,Unknown Channel
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1,Unknown Channel
 https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
-#EXTINF:-1,Unknown Channel
 https://ajo.prod.reuters.tv/rest/v2/playlist/assets/58197,464695,464688,464478,57445,58156,464697,127706,464687,58089,464661,58117,464511,127694,464474,58090,464715,127785,464752,127680,464740,58118,464712,127800,464733,127800,464701,58061,464541,127710,464507,58048,464622,127681,464625,58147,464452,58061,464617,127711,464449,58018,464479,58058,464539,127679,464466,318501/master.m3u8
-#EXTINF:-1,Unknown Channel
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2578
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2590
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2506
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1505
-#EXTINF:-1,Unknown Channel
 https://yahoofinance-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist.m3u8
-#EXTINF:-1,Unknown Channel
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist.m3u8
-#EXTINF:-1,Unknown Channel
 https://live3vox.antenaplay.ro/a3free/a3free.m3u8
-#EXTINF:-1,Unknown Channel
 https://live.playstop.me/LS-63503-4/index.m3u8
-#EXTINF:-1,Unknown Channel
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://brat-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=70
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=151
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=82
-#EXTINF:-1,Unknown Channel
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2581
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2593
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1956
-#EXTINF:-1,Unknown Channel
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=80
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=117
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1453
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1457
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=978
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=117
-#EXTINF:-1,Unknown Channel
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1453
-#EXTINF:-1,Unknown Channel
 https://cdn21.fntvchannel.com/index.m3u8
-#EXTINF:-1,Unknown Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenen-xiaomi/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1502
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=970
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1011
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1016
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1504
-#EXTINF:-1,Unknown Channel
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
-#EXTINF:-1,Unknown Channel
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_1_av-p.m3u8
-#EXTINF:-1,Unknown Channel
 https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/chunklist.m3u8
-#EXTINF:-1,Unknown Channel
 https://live-hls-web-aja.getaj.net/AJA/06.m3u8
-#EXTINF:-1,Unknown Channel
 https://live-hls-web-ajm.getaj.net/AJM/06.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1276
-#EXTINF:-1,Unknown Channel
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream04/streamPlaylist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1,Unknown Channel
 https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/master.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-#EXTINF:-1,Unknown Channel
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=426
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=880
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=882
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1283
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=424
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1475
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1237
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1400
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1259
-#EXTINF:-1,Unknown Channel
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
-#EXTINF:-1,Unknown Channel
 https://d24sa4vr9gvjv.cloudfront.net/index.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=764
-#EXTINF:-1,Unknown Channel
 https://59959724487e3.streamlock.net/stream/live/chunklist.m3u8
-#EXTINF:-1,Unknown Channel
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1,Unknown Channel
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
-#EXTINF:-1,Unknown Channel
 https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Unknown Channel
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
-#EXTINF:-1,Unknown Channel
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://live.neatv.gr:8888/hls/neatv_mid/index.m3u8
-#EXTINF:-1,Unknown Channel
-https://web.onair-radio.eu/explorecy/explorecy/master.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=587
-#EXTINF:-1,Unknown Channel
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1500
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1508
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=967
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=968
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=969
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=811
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1161
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1319
-#EXTINF:-1,Unknown Channel
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
-#EXTINF:-1,Unknown Channel
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
-#EXTINF:-1,Unknown Channel
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
-#EXTINF:-1,Unknown Channel
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/master.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=919
-#EXTINF:-1,Unknown Channel
 https://aweencore-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1,Unknown Channel
 https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/chunklist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2584
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1321
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=762
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=852
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=765
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=763
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1028
-#EXTINF:-1,Unknown Channel
 https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=vB1fQVteisRvSpyJtSgH&channelId=60df3e18541143002f3b8607
-#EXTINF:-1,Unknown Channel
 https://1494836162.rsc.cdn77.org/LS-PRG-59570-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=949
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=947
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=941
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=936
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=952
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=956
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=938
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=942
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=948
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=945
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=955
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=933
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=946
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=943
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=953
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=930
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=944
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=940
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=932
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=937
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=935
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=934
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=931
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=939
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=893
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=950
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=951
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=954
-#EXTINF:-1,Unknown Channel
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1426
-#EXTINF:-1,Unknown Channel
 https://e5-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
-#EXTINF:-1,Unknown Channel
-https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1,Unknown Channel
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1,Unknown Channel
-https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Unknown Channel
-https://live3.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1,Unknown Channel
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1,Unknown Channel
 https://muxip-alliedesports-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-muxip-allied-e-sports/CDN/playlist.m3u8
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=79
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2580
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2592
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1954
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=38
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=39
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=200
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=71
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=115
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=144
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=145
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=201
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=38
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1295
-#EXTINF:-1,Unknown Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=39
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=159
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=160
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=174
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=175
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=217
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=220
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=468
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=564
-#EXTINF:-1,Unknown Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1035
-===============================outras listas=============================
 #EXT-X-ENDLIST
