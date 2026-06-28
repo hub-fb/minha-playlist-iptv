@@ -1,4 +1,4 @@
-name: Atualizar Playlist IPTV
+name: Atualizar lista de reprodução IPTV
 
 on:
   workflow_dispatch:
@@ -8,8 +8,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Confira
         uses: actions/checkout@v4
 
       - name: Teste
-        run: echo "GitHub Actions funcionando!"
+        run: echo "Ações do GitHub em execução!"
