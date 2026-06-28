@@ -2,14 +2,91 @@ name: Atualizar lista de reprodução IPTV
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 9 * * *'
+
+permissions:
+  contents: write
 
 jobs:
-  teste:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Confira
+      - name: Checkout do repositório
         uses: actions/checkout@v4
 
-      - name: Teste
-        run: echo "Ações do GitHub em execução!"
+      - name: Construir lista IPTV consolidada
+        run: |
+          set -e
+
+          TMP="all.m3u"
+          OUT="ListaIPTV.m3u"
+
+          # base do arquivo temporário
+          echo "#EXTM3U" > $TMP
+
+          # fontes (sempre snapshot atual)
+          curl -fsSL "https://raw.githubusercontent.com/fabianobassetti-dotcom/minha-playlist-iptv/main/ListaIPTV.m3u" \
+            | sed '/^#EXTM3U/d' >> $TMP || true
+
+          curl -fsSL "https://raw.githubusercontent.com/helenfernanda/gratis/main/iptvlegal.m3u" \
+            | sed '/^#EXTM3U/d' >> $TMP || true
+
+          curl -fsSL "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8" \
+            | sed '/^#EXTM3U/d' >> $TMP || true
+
+          # deduplicação segura (EXTINF + hash da URL)
+          awk '
+          BEGIN { extinf=""; grp="" }
+
+          /^#EXTGRP/ { grp=$0; next }
+          /^#EXTINF/ { extinf=$0; next }
+
+          {
+            if (extinf && $0 !~ /^#/) {
+              url=$0
+
+              # hash seguro da URL
+              cmd = "printf \"%s\" \"" url "\" | sha1sum"
+              cmd | getline h
+              close(cmd)
+
+              split(h, arr, " ")
+              key = extinf "|" arr[1]
+
+              if (!(key in seen)) {
+                seen[key]=1
+
+                if (grp != "") print grp
+                print extinf
+                print url
+              }
+
+              extinf=""
+            }
+          }
+          ' $TMP > $OUT
+
+          # garante cabeçalho válido
+          echo "#EXTM3U" | cat - $OUT > tmp && mv tmp $OUT
+
+          # validação final
+          if [ ! -s $OUT ]; then
+            echo "Erro: lista final vazia"
+            exit 1
+          fi
+
+      - name: Commit e push
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "actions@github.com"
+
+          git add ListaIPTV.m3u
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualização IPTV consolidada"
+            git push
+          else
+            echo "Nenhuma alteração detectada"
+          fi
