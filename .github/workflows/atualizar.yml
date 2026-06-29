@@ -24,17 +24,25 @@ jobs:
           OUT="ListaIPTV.m3u"
 
           # base do arquivo temporário
-          echo "#EXTM3U" > $TMP
+          echo "#EXTM3U" > "$TMP"
 
-          # fontes (sempre snapshot atual)
+          # Mantém a lista principal como base
           curl -fsSL "https://raw.githubusercontent.com/fabianobassetti-dotcom/minha-playlist-iptv/main/ListaIPTV.m3u" \
-            | sed '/^#EXTM3U/d' >> $TMP || true
+            | sed '/^#EXTM3U/d' >> "$TMP" || true
 
-          curl -fsSL "https://raw.githubusercontent.com/helenfernanda/gratis/main/iptvlegal.m3u" \
-            | sed '/^#EXTM3U/d' >> $TMP || true
+          echo "Lendo fontes.txt..."
 
-          curl -fsSL "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8" \
-            | sed '/^#EXTM3U/d' >> $TMP || true
+          while IFS= read -r URL || [ -n "$URL" ]; do
+
+            # Ignora linhas vazias
+            [ -z "$URL" ] && continue
+
+            echo "Importando: $URL"
+
+            curl -fsSL "$URL" \
+              | sed '/^#EXTM3U/d' >> "$TMP" || echo "Falha ao importar $URL"
+
+          done < fontes.txt
 
           # deduplicação segura (EXTINF + hash da URL)
           awk '
@@ -66,13 +74,13 @@ jobs:
               extinf=""
             }
           }
-          ' $TMP > $OUT
+          ' "$TMP" > "$OUT"
 
           # garante cabeçalho válido
-          echo "#EXTM3U" | cat - $OUT > tmp && mv tmp $OUT
+          echo "#EXTM3U" | cat - "$OUT" > tmp && mv tmp "$OUT"
 
           # validação final
-          if [ ! -s $OUT ]; then
+          if [ ! -s "$OUT" ]; then
             echo "Erro: lista final vazia"
             exit 1
           fi
