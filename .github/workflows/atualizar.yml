@@ -23,10 +23,9 @@ jobs:
           TMP="all.m3u"
           OUT="ListaIPTV.m3u"
 
-          # base do arquivo temporário
           echo "#EXTM3U" > "$TMP"
 
-          # Mantém a lista principal como base
+          # lista base (sua própria lista)
           curl -fsSL "https://raw.githubusercontent.com/fabianobassetti-dotcom/minha-playlist-iptv/main/ListaIPTV.m3u" \
             | sed '/^#EXTM3U/d' >> "$TMP" || true
 
@@ -34,28 +33,33 @@ jobs:
 
           while IFS= read -r URL || [ -n "$URL" ]; do
 
-            # Ignora linhas vazias
             [ -z "$URL" ] && continue
 
             echo "Importando: $URL"
 
             curl -fsSL "$URL" \
-              | sed '/^#EXTM3U/d' >> "$TMP" || echo "Falha ao importar $URL"
+              | sed '/^#EXTM3U/d' \
+              | sed '/^[[:space:]]*$/d' >> "$TMP" || echo "Falha: $URL"
 
           done < fontes.txt
 
-          # deduplicação segura (EXTINF + hash da URL)
+          # deduplicação robusta EXTINF + URL
           awk '
           BEGIN { extinf=""; grp="" }
 
           /^#EXTGRP/ { grp=$0; next }
-          /^#EXTINF/ { extinf=$0; next }
+
+          /^#EXTINF/ {
+            extinf=$0
+            next
+          }
+
+          /^[[:space:]]*$/ { next }
 
           {
-            if (extinf && $0 !~ /^#/) {
+            if (extinf && $0 ~ /^http/) {
               url=$0
 
-              # hash seguro da URL
               cmd = "printf \"%s\" \"" url "\" | sha1sum"
               cmd | getline h
               close(cmd)
@@ -76,10 +80,8 @@ jobs:
           }
           ' "$TMP" > "$OUT"
 
-          # garante cabeçalho válido
           echo "#EXTM3U" | cat - "$OUT" > tmp && mv tmp "$OUT"
 
-          # validação final
           if [ ! -s "$OUT" ]; then
             echo "Erro: lista final vazia"
             exit 1
