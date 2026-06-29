@@ -16,7 +16,7 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v4
 
-      - name: Construir lista IPTV consolidada
+      - name: Construir lista IPTV consolidada com contagem por fonte
         run: |
           set -e
 
@@ -25,42 +25,47 @@ jobs:
 
           echo "#EXTM3U" > "$TMP"
 
-          # lista base (sua própria lista)
-          curl -fsSL "https://raw.githubusercontent.com/fabianobassetti-dotcom/minha-playlist-iptv/main/ListaIPTV.m3u" \
-            | sed '/^#EXTM3U/d' >> "$TMP" || true
+          echo "==== INICIANDO COLETA IPTV ===="
 
-          echo "Lendo fontes.txt..."
+          count_base=0
+          count_hl=0
+          count_ftv=0
+          count_ramys=0
 
-          while IFS= read -r URL || [ -n "$URL" ]; do
+          process_source () {
+            URL="$1"
+            LABEL="$2"
 
-            [ -z "$URL" ] && continue
+            echo "Importando: $LABEL"
 
-            echo "Importando: $URL"
+            lines=$(curl -fsSL "$URL" \
+              | sed '/#EXTM3U/d' \
+              | sed '/^[[:space:]]*$/d')
 
-            curl -fsSL "$URL" \
-              | sed '/^#EXTM3U/d' \
-              | sed '/^[[:space:]]*$/d' >> "$TMP" || echo "Falha: $URL"
+            echo "$lines" >> "$TMP"
 
-          done < fontes.txt
+            echo "$lines" | grep -c "#EXTINF" || true
+          }
 
-          # deduplicação robusta EXTINF + URL
+          count_base=$(process_source "https://raw.githubusercontent.com/fabianobassetti-dotcom/minha-playlist-iptv/main/ListaIPTV.m3u" "BASE")
+          count_hl=$(process_source "https://raw.githubusercontent.com/helenfernanda/gratis/main/iptvlegal.m3u" "HELEN FERNANDA")
+          count_ftv=$(process_source "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8" "FREE-TV")
+          count_ramys=$(process_source "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/master/CanaisBR01.m3u8" "RAMYS")
+
+          echo "==== PROCESSANDO DEDUPLICAÇÃO ===="
+
           awk '
           BEGIN { extinf=""; grp="" }
 
           /^#EXTGRP/ { grp=$0; next }
-
-          /^#EXTINF/ {
-            extinf=$0
-            next
-          }
-
+          /^#EXTINF/ { extinf=$0; next }
           /^[[:space:]]*$/ { next }
 
           {
             if (extinf && $0 ~ /^http/) {
               url=$0
 
-              cmd = "printf \"%s\" \"" url "\" | sha1sum"
+              cmd = "printf \"%s\" \"" url "\" | cksum"
               cmd | getline h
               close(cmd)
 
@@ -73,17 +78,30 @@ jobs:
                 if (grp != "") print grp
                 print extinf
                 print url
+                total++
               }
 
               extinf=""
             }
           }
+
+          END {
+            print "====================" > "/dev/stderr"
+            print "TOTAL CANAIS ÚNICOS: " total > "/dev/stderr"
+            print "====================" > "/dev/stderr"
+          }
           ' "$TMP" > "$OUT"
 
           echo "#EXTM3U" | cat - "$OUT" > tmp && mv tmp "$OUT"
 
+          echo "==== RESUMO DAS FONTES ===="
+          echo "BASE: $count_base"
+          echo "HELEN FERNANDA: $count_hl"
+          echo "FREE-TV: $count_ftv"
+          echo "RAMYS: $count_ramys"
+
           if [ ! -s "$OUT" ]; then
-            echo "Erro: lista final vazia"
+            echo "Erro: lista vazia"
             exit 1
           fi
 
