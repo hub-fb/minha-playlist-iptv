@@ -1,0 +1,32 @@
+{
+  "fontes": [
+    {
+      "nome": "Minha Playlist",
+      "tipo": "m3u",
+      "url": "https://raw.githubusercontent.com/fabianobassetti-dotcom/minha-playlist-iptv/main/ListaIPTV.m3u",
+      "ativa": true,
+      "prioridade": 100
+    },
+    {
+      "nome": "Free-TV",
+      "tipo": "m3u",
+      "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
+      "ativa": true,
+      "prioridade": 90
+    },
+    {
+      "nome": "Ramys BR01",
+      "tipo": "m3u",
+      "url": "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/master/CanaisBR01.m3u8",
+      "ativa": true,
+      "prioridade": 80
+    },
+    {
+      "nome": "Famelack Brasil",
+      "tipo": "json",
+      "url": "https://raw.githubusercontent.com/famelack/famelack-data/main/tv/raw/countries/br.json",
+      "ativa": true,
+      "prioridade": 95
+    }
+  ]
+}
