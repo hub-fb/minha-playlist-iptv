@@ -1,15 +1,3 @@
-{
-  "versao": "1.0",
-  "ultimaAtualizacao": "",
-  "fontes": [
-    {
-      "nome": "Minha Playlist",
-      "tipo": "m3u",
-      "url": "https://raw.githubusercontent.com/fabianobassetti-dotcom/minha-playlist-iptv/main/ListaIPTV.m3u",
-      "ativa": true,
-      "prioridade": 100,
-      "categoria": "Principal"
-    },
     {
       "nome": "Free-TV",
       "tipo": "m3u",
