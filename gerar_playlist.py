@@ -2,6 +2,9 @@ import json
 import urllib.request
 from datetime import datetime
 
+from parsers.parser_m3u import ler_playlist
+from parsers.parser_json import ler_json
+
 print("=" * 50)
 print("Bassetti IPTV Hub")
 print("=" * 50)
@@ -16,7 +19,7 @@ for fonte in dados["fontes"]:
     if not fonte["ativa"]:
         continue
 
-    print(f"Baixando: {fonte['nome']}")
+    print(f"\nBaixando: {fonte['nome']}")
 
     try:
         resposta = urllib.request.urlopen(fonte["url"], timeout=20)
@@ -29,8 +32,19 @@ for fonte in dados["fontes"]:
             destino.write(conteudo)
 
         if fonte["tipo"] == "m3u":
+
+            canais = ler_playlist(conteudo)
+
+            print(f"{len(canais)} canais encontrados.")
+
             playlist_final.append(f"# ===== {fonte['nome']} =====")
             playlist_final.append(conteudo)
+
+        elif fonte["tipo"] == "json":
+
+            canais = ler_json(conteudo)
+
+            print(f"{len(canais)} registros JSON encontrados.")
 
         print("OK")
 
@@ -45,4 +59,4 @@ dados["ultimaAtualizacao"] = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
 with open("fontes.json", "w", encoding="utf-8") as arquivo:
     json.dump(dados, arquivo, indent=4, ensure_ascii=False)
 
-print("Playlist consolidada criada.")
+print("\nPlaylist consolidada criada com sucesso.")
