@@ -1,120 +1,34 @@
-name: Atualizar lista de reprodução IPTV
+name: Atualização IPTV Consolidada
 
 on:
   workflow_dispatch:
+
   schedule:
-    - cron: '0 9 * * *'
+    - cron: '0 */6 * * *'
 
 permissions:
   contents: write
 
 jobs:
-  build:
+
+  atualizar:
+
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout do repositório
+
+      - name: Baixar repositório
         uses: actions/checkout@v4
 
-      - name: Construir lista IPTV consolidada com contagem por fonte
-        run: |
-          set -e
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-          TMP="all.m3u"
-          OUT="ListaIPTV.m3u"
+      - name: Executar atualização
+        run: python gerar_playlist.py
 
-          echo "#EXTM3U" > "$TMP"
-
-          echo "==== INICIANDO COLETA IPTV ===="
-
-          count_base=0
-          count_hl=0
-          count_ftv=0
-          count_ramys=0
-
-          process_source () {
-            URL="$1"
-            LABEL="$2"
-
-            echo "Importando: $LABEL"
-
-            lines=$(curl -fsSL "$URL" \
-              | sed '/#EXTM3U/d' \
-              | sed '/^[[:space:]]*$/d')
-
-            echo "$lines" >> "$TMP"
-
-            echo "$lines" | grep -c "#EXTINF" || true
-          }
-
-          count_base=$(process_source "https://raw.githubusercontent.com/fabianobassetti-dotcom/minha-playlist-iptv/main/ListaIPTV.m3u" "BASE")
-          count_hl=$(process_source "https://raw.githubusercontent.com/helenfernanda/gratis/main/iptvlegal.m3u" "HELEN FERNANDA")
-          count_ftv=$(process_source "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8" "FREE-TV")
-          count_ramys=$(process_source "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/master/CanaisBR01.m3u8" "RAMYS")
-
-          echo "==== PROCESSANDO DEDUPLICAÇÃO ===="
-
-          awk '
-          BEGIN { extinf=""; grp="" }
-
-          /^#EXTGRP/ { grp=$0; next }
-          /^#EXTINF/ { extinf=$0; next }
-          /^[[:space:]]*$/ { next }
-
-          {
-            if (extinf && $0 ~ /^http/) {
-              url=$0
-
-              cmd = "printf \"%s\" \"" url "\" | cksum"
-              cmd | getline h
-              close(cmd)
-
-              split(h, arr, " ")
-              key = extinf "|" arr[1]
-
-              if (!(key in seen)) {
-                seen[key]=1
-
-                if (grp != "") print grp
-                print extinf
-                print url
-                total++
-              }
-
-              extinf=""
-            }
-          }
-
-          END {
-            print "====================" > "/dev/stderr"
-            print "TOTAL CANAIS ÚNICOS: " total > "/dev/stderr"
-            print "====================" > "/dev/stderr"
-          }
-          ' "$TMP" > "$OUT"
-
-          echo "#EXTM3U" | cat - "$OUT" > tmp && mv tmp "$OUT"
-
-          echo "==== RESUMO DAS FONTES ===="
-          echo "BASE: $count_base"
-          echo "HELEN FERNANDA: $count_hl"
-          echo "FREE-TV: $count_ftv"
-          echo "RAMYS: $count_ramys"
-
-          if [ ! -s "$OUT" ]; then
-            echo "Erro: lista vazia"
-            exit 1
-          fi
-
-      - name: Commit e push
-        run: |
-          git config user.name "GitHub Action"
-          git config user.email "actions@github.com"
-
-          git add ListaIPTV.m3u
-
-          if ! git diff --cached --quiet; then
-            git commit -m "Atualização IPTV consolidada"
-            git push
-          else
-            echo "Nenhuma alteração detectada"
-          fi
+      - name: Publicar alterações
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Atualização automática da playlist IPTV
