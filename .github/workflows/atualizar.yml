@@ -20,10 +20,15 @@ jobs:
       - name: Baixar repositório
         uses: actions/checkout@v4
 
-      - name: Instalar Python
+      - name: Configurar Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
+
+      - name: Criar pastas necessárias
+        run: |
+          mkdir -p cache
+          mkdir -p registros
 
       - name: Executar atualização
         run: python gerar_playlist.py
@@ -32,3 +37,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Atualização automática da playlist IPTV
+          commit_user_name: GitHub Actions
+          commit_user_email: actions@github.com
