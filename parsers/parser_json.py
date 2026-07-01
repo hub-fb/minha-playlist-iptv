@@ -16,21 +16,33 @@ def ler_json(conteudo):
 
             nome = canal.get("nome", "Sem nome")
 
+            grupo = canal.get("categoria", "Brasil")
+
             fontes = canal.get("fontes", {})
 
             fluxos = fontes.get("fluxos", [])
 
-            if not fluxos:
-                continue
+            contador = 1
 
-            url = fluxos[0]
+            for url in fluxos:
 
-            info = f'#EXTINF:-1 group-title="Brasil",{nome}'
+                if not url:
+                    continue
 
-            canais.append({
-                "info": info,
-                "url": url
-            })
+                if contador == 1:
+                    titulo = nome
+                else:
+                    titulo = f"{nome} ({contador})"
+
+                canais.append({
+
+                    "info": f'#EXTINF:-1 group-title="{grupo}",{titulo}',
+
+                    "url": url.strip()
+
+                })
+
+                contador += 1
 
     except Exception as erro:
 
