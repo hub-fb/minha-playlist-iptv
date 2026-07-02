@@ -3,7 +3,7 @@
     "fontes": [
         {
             "nome": "Famelack Brasil",
-            "tipo": "m3u",
+            "tipo": "json",
             "url": "https://raw.githubusercontent.com/famelack/famelack-data/main/tv/raw/countries/br.json",
             "ativa": true,
             "prioridade": 100,
