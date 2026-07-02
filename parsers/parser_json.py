@@ -1,9 +1,13 @@
 import json
 
-def normalizar_grupo(grupo, nome):
+def normalizar_grupo(grupo, nome, origem=None):
     """Normaliza o grupo para o país correspondente."""
     grupo_lower = grupo.lower()
     nome_lower = nome.lower()
+
+    # Regra especial: se a origem for explicitamente o JSON do Brasil (Famelack)
+    if origem and "countries/br.json" in origem:
+        return "BRAZIL"
 
     if "brasil" in grupo_lower or "brazil" in grupo_lower or nome_lower.startswith("br:"):
         return "BRAZIL"
@@ -22,7 +26,7 @@ def normalizar_grupo(grupo, nome):
     else:
         return grupo or "INTERNACIONAL"
 
-def ler_json(conteudo):
+def ler_json(conteudo, origem=None):
     """
     Lê uma fonte JSON e retorna lista de dicionários no formato:
     { "nome": ..., "url": ..., "grupo": ..., "tvg-id": ..., "tvg-name": ..., "tvg-logo": ... }
@@ -39,7 +43,12 @@ def ler_json(conteudo):
             tvg_logo = item.get("tvg-logo", "")
 
             if url:
-                grupo = normalizar_grupo(grupo, nome)
+                grupo = normalizar_grupo(grupo, nome, origem)
+
+                # Regra especial: se for a lista do Brasil (Famelack), força logo da bandeira
+                if origem and "countries/br.json" in origem:
+                    tvg_logo = "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"
+
                 canais.append({
                     "nome": nome,
                     "url": url,
