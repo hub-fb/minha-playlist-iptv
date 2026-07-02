@@ -1,1049 +1,1049 @@
 #EXTM3U
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 [
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 {
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "SM0FavCZG665bI",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Adesso TV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "sources": {
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "streams": [
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 ]
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 },
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "languages": [
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "por"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 ],
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "country": "br",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "isGeoBlocked": false
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "wjGP3n4DkSPVQ1",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Amazon Sat",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "K0FRmHrggxRl0x",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Araruna TV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "lua1c7mx0j9rv8",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Aratu On",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "1q3kaCpiJgYIgc",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Assembleia SC: AO VIVO",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "youtube": [
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/2PpN1Eptp-E"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "aPpjoxS7Oyu4bM",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "AWTV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://awtv.nuvemplay.live/hls/stream.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "isGeoBlocked": true
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "L3YkR6AcwrR8JI",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Bem Mais TV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "gg2Z8qlfdXD9gs",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Blitstv",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "ok2dBHadmprdM8",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Bluey Brasil",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/OBe-ehVPKKk"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "XE8rvC5epgLQsZ",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Boa Vontade TV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/vE_nZQBJe4A"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "bKmPdhZgXyjLSL",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "BR8 TV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "yeGOxGUEcp1bap",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Canal 25 Jundiai",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "rC9liFbpQiV2AH",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Canal 38",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "7nyUSJn5aAWm7k",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Canal Educacao",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://canaleducacao-stream.ebc.com.br/index.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "nvi12xPQhPg1F5",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Canal Gov",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://canalgov-stream.ebc.com.br/index.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/rH8iPiAP8YI"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "B0c8pgDo5wjDfW",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Canal Libras",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://canallibras-stream.ebc.com.br/index.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "ROiTYYd6LEWlIu",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Canal Metropolitano de Noticias",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "SB7baTrTU4uzJM",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Canal Saude",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "haAQVTXfQJECVE",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "CazeTV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "4OYwTQMokvaR3R",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Chroma TV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "zPf2V7QxJLXO2P",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "CINDIE TV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8?ads.vf=grWTpG3NQNi"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "eng",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "por",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "spa"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "UOMFXhyr1JXaa5",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Classique TV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stmv1.srvif.com/classique/classique/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "DqexB6yaP4LscU",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "CNN Brasil",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/8WTouC90DyQ"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "bXLcz6uiJ323gF",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Conecta Mais TV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "UgU49sPYs4BxYb",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "ConecTV Brasil",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "2nMTmYzlgyLzZn",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Demais TV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "x5mwCmjYC8lT9Y",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Despertar TV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://br.conectmy.com.br/DespertarTV/index.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "4OBpGuyDtNrr8o",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "DiaTV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/Df3g76Y25gs"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "nPDIsm1p9jTzDO",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Diva Depressão",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/GhWw4JYa0cM"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "uBGBZ1tmmDfH55",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Elemental Channel",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "zCrJeuAQK2v5dx",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "ElyTV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "vTgAI9VGNp0y8I",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "EUTV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "b3HmytgXpnq9Lw",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Fala Litoral",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "GhFNKINnqmhJYK",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Fonte TV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "LAzGmzfDmBkZX9",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Fora Tedio TV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "lagHJficp6nYbz",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "ge Fast",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "ntF6dI5Mg2NTKt",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Geekdot",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stream.ichibantv.com:3764/hybrid/play.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "GLW48tFAwFimWP",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "GloboNews",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://41.205.70.146/GLOBONEWS/index.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "a9d7JKx2qFGJdJ",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Gospel Cartoon",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "g6KFBBvO5NqNqG",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Gospel Movie TV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "Z0bdPfjOBa9QKp",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Igreja Presbiteriana de Pinheiros",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/S3p5StJwHSg"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "5Qp2TZPAiKhcdU",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "IMPD TV Worldwide",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://igrejamundial.nuvemplay.live/hls/stream.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "qSyu5IDtM6ZOyX",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "J3NEWS TV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "jsKaliNIblEwB9",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "L!ke",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "NxqeGIVjUY8tcI",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Loading",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "es6wiTOOe1y1gn",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Loupe",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "AWbO3MTrOLeQig",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "MyTime Movie Network",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "1JYYpqQgnjcE3u",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "NickOnline",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://x1co.com.br/hls/stream.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "VvHhOWwHL2G6fH",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "NickToons Brasil",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "OpSrCbImNuNiXk",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Novo Tempo",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "kuBm514WWhIzx5",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "NTV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "cjEG8uZCZ337nx",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Nuevo Tiempo",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "2SkwDt1DzEdQq9",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Peppa Pig Brasil",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/-A2IsBkx2rI"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "yzZp6BhMvaS7qt",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "PJ Masks Brasil",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/aKtUWVDW10E"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "RyOVqbmtMSnxSw",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Play TV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://isaocorp.cloudecast.com/playtv/index.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "uyFy17QwvWeu6p",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Rádio Temas de Novelas",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://eu1.servers10.com:8081/8126/index.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "jKDEdNqLxjs3LB",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "RBATV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "TPTBqvtnc5kyaM",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Record News",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/6eLgMRnfWtY"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "Uk3TstZNoN0RvI",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Red Bull TV BR",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "OKRKy0KkktDnXu",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Rede Brasil",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://redebrasil.nuvemplay.live/hls/stream.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "G7hfnJjWbtmF49",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Rede Gospel",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "Po4Shf4tXLTh89",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Rede Minas",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "jGHLE7FGPpDgid",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Rede NGT",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://isaocorp.cloudecast.com/ngt/index.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "NWLIfBBcI49xNF",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Rede Novo Tempo de Comunicação",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/l2_O7pDT0Fg"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "zcoCA9mHfb19F8",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "REDE SPi",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://video11.logicahost.com.br/redespi/redespi/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "trGjHBEHG2rfsL",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Rede SPTV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "TGxMGkMiPXHlY0",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Rio TV Câmara",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/-W727PeeOEQ"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "O8tFJhKTZ0GylR",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Santa Cruz Feira Digital",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/slsLOYqU5ME"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "iHsfcZXYEPAKKO",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "Santuário Nacional de Aparecida",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/juUt-rN5CVo"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "9d48GJ8ZkwJuHl",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "SBT Nacional",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "wQwzJWldq22ymG",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "SIC TV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "LLNkgpUxL9eFFQ",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "SOU TV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "7omf3emk4fDdL8",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "STZ TV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "tlMRtrczD2xa0E",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TCM 10 HD",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "AobTBdQ6p1JxiG",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TikTok Radio Brasil",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "nYK5boMixVyZNl",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV A Critica",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "uFUnpsEwjM0TgY",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV A Folha",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "WxSrWAmqcJscq8",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Aldeia",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "Ez0ifGwmo3aIjZ",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV ALERJ",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/bZfzA64DM_E"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "g9CYymT71D0CvN",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Alianca Catarinense",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "YT6xhGpFtzQ7eS",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Alternativa",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "sDQABoW0Q83Dxf",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Aparecida",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/4CAmwaFJo6k"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "ZJOYM3VaO0rhgL",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Brasil",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://tvbrasil-stream.ebc.com.br/index.m3u8",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://lbgo.bozztv.com/ssh101/ssh101/unitvms/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "2bhXPviPJO5yGg",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Brasil Oeste",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "KVllxnWTBDMvKb",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV BRICS Portuguese",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "riJfvbebPYWsNV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Brusque",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "zl4dG47LdOz5oN",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Camara",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stream3.camara.gov.br/tv1/manifest.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "eNtixsVkVoQMqL",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Cancao Nova",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/xeBnVHjF084"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "ZGv2yrRi6TGWoZ",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Cidade Verde Cuiaba",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "qCuTFdCquJLndB",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Clube",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "gmhCmWMyVhRnQj",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Comunitaria",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR="
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "V0XkCpZaBd9fMY",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Cultura",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://lbgo.bozztv.com/ssh101/ssh101/tvlafaietehd/playlist.m3u8",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "85wduTUF2OC9v0",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Curuca",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "FMVPKYrGsthGPD",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Encontro das Aguas",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "NoqDxZd1Xoy0q1",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Futuro",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "OXfFnCDtrQdqyq",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Guara",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "l4Wb4BRdTvGYCb",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Justiça",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/Loa9DFv2dpA"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "J4eb8pMfTeVAGZ",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Life America",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "xa4uQgENeLOjdU",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Mais Marica",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "J4DnDUqRUIuryu",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Marajoara",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "0isrEbC6bj9alD",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV MAX",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "pi2MZbrMdUBAEF",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Metropole",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "1D59YMlkgspAYG",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Mundo Maior",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/CfzHGtF5Enw"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "UyGsvptczRmJRz",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Nordestina",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/WU1As0FjPlE"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "9Z6UmtBHKa0451",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Notícia",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.youtube-nocookie.com/embed/bF0-XPU_yTY"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "dcIkvJvyHx3mhL",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Padre Cicero",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "Sw6EDU4cHh3J5I",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Pampa",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "krIsXMJD9xFHF6",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Pantanal MS",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "HZWd4go9om2ldn",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Paraense",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "AOuzDU3o0FoYy3",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Parana Turismo",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://200.189.113.201/hls/tve.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "9IRp7pJ3B28WfW",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Passo Fundo",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "83xAZSUasM37Zn",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Sao Raimundo",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "mYmsNZmHBieLeB",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Series",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "AOrzbD7QEj8vaf",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Sim Cachoeiro",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "26hxUXThjWRyJw",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Sim Sao Mateus",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "3SFbEQ5XiHL1nO",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Sul Bahia",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "9fu5cWbGv1LvVt",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Sul de Minas",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "RR1JUgMyYIDOOG",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Terceiro Anjo",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "HhUtzRJjCR6lUu",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV UFOP",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://app.tvufop.com.br/hls/tvufop.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "gCVJcKLK6bSl2b",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Universal",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "N95AOZ9ohWI6WG",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TV Vicosa",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "zBjyTtvDBTgspi",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TVC-Rio",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "UnzV9n8PzA8nFp",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TVCOM Maceio",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "eTCuy4QKHtum76",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TVE RS",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "PwSUtqNu2t8L9G",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TVideoNews",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "a7CMXw0bn8ka0Y",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TVitape",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "AOHnHwbs1j6atl",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TVLatinaSat",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://www.latinasat.com.br/hls/live/stream/index.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "XvuJoSDFPUMMIb",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "TVNBN",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "nanoid": "ttXq8ZNg7RXMjI",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "name": "UMA TV",
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 "https://umatv.nuvemplay.live/hls/stream.m3u8"
-#EXTINF:-1 group-title="",
+#EXTINF:-1 group-title="INTERNACIONAL",
 }
-#EXTINF:-1 group-title="Brasil: cinema",CineMonde | Soul TV Brasil
+#EXTINF:-1 group-title="BRAZIL",CineMonde | Soul TV Brasil
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: cinema",DarkFlix HD | Soul TV Brasil
+#EXTINF:-1 group-title="BRAZIL",DarkFlix HD | Soul TV Brasil
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: cinema",MovieSphere | Brasil
+#EXTINF:-1 group-title="BRAZIL",MovieSphere | Brasil
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: cinema",MyTime Movie Network | Brasil
+#EXTINF:-1 group-title="BRAZIL",MyTime Movie Network | Brasil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: cinema",RunTime | Brasil
+#EXTINF:-1 group-title="BRAZIL",RunTime | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 group-title="Brasil: cinema",RunTime Ação | Brasil
+#EXTINF:-1 group-title="BRAZIL",RunTime Ação | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 group-title="Brasil: cinema",RunTime Ação | Brasil ~ link 2
+#EXTINF:-1 group-title="BRAZIL",RunTime Ação | Brasil ~ link 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6128
-#EXTINF:-1 group-title="Brasil: cinema",RunTime CinEspanto | Suspense e Terror | Brasil
+#EXTINF:-1 group-title="BRAZIL",RunTime CinEspanto | Suspense e Terror | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:-1 group-title="Brasil: cinema",RunTime Comédia | Brasil
+#EXTINF:-1 group-title="BRAZIL",RunTime Comédia | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 group-title="Brasil: cinema",RunTime Crime | Brasil
+#EXTINF:-1 group-title="BRAZIL",RunTime Crime | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-#EXTINF:-1 group-title="Brasil: cinema",RunTime Família | Brasil
+#EXTINF:-1 group-title="BRAZIL",RunTime Família | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 group-title="Brasil: cinema",Soul Cine Clube | Brasil
+#EXTINF:-1 group-title="BRAZIL",Soul Cine Clube | Brasil
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: cristianismo",Evangelizar TV
+#EXTINF:-1 group-title="BRAZIL",Evangelizar TV
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
-#EXTINF:-1 group-title="Brasil: cristianismo",Novo Tempo | Brasil
+#EXTINF:-1 group-title="BRAZIL",Novo Tempo | Brasil
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: cristianismo",Rede Gospel | Brasil
+#EXTINF:-1 group-title="BRAZIL",Rede Gospel | Brasil
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: cristianismo",Rede Século 21 | Brasil
+#EXTINF:-1 group-title="BRAZIL",Rede Século 21 | Brasil
 https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/master.m3u8
-#EXTINF:-1 group-title="Brasil: cristianismo",Rede Super | Brasil
+#EXTINF:-1 group-title="BRAZIL",Rede Super | Brasil
 https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: cristianismo",Rede Vida | Brasil
+#EXTINF:-1 group-title="BRAZIL",Rede Vida | Brasil
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
-#EXTINF:-1 group-title="Brasil: cristianismo",SBN Global
+#EXTINF:-1 group-title="BRAZIL",SBN Global
 https://acesso.ecast.site:3500/hybrid/play.m3u8
-#EXTINF:-1 group-title="Brasil: cristianismo",Tenda TV | Brasil
+#EXTINF:-1 group-title="BRAZIL",Tenda TV | Brasil
 https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: cristianismo",TV Aparecida | Brasil
+#EXTINF:-1 group-title="BRAZIL",TV Aparecida | Brasil
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
-#EXTINF:-1 group-title="Brasil: cristianismo",TV Aparecida | PUC TV Goiás
+#EXTINF:-1 group-title="BRAZIL",TV Aparecida | PUC TV Goiás
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: cristianismo",TV Maná | Brasil
+#EXTINF:-1 group-title="BRAZIL",TV Maná | Brasil
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: cristianismo",TV Mão Amiga | Brasil
+#EXTINF:-1 group-title="BRAZIL",TV Mão Amiga | Brasil
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-#EXTINF:-1 group-title="Brasil: cristianismo",TV Pai Eterno | GO Brasil
+#EXTINF:-1 group-title="BRAZIL",TV Pai Eterno | GO Brasil
 https://video09.logicahost.com.br/paieterno/paieterno/master.m3u8
-#EXTINF:-1 group-title="Brasil: cristianismo",TV Verdade | Brasil e Filipinas
+#EXTINF:-1 group-title="BRAZIL",TV Verdade | Brasil e Filipinas
 https://acesso.ecast.site:3104/hybrid/play.m3u8
-#EXTINF:-1 group-title="Brasil: educativos e documentários",RBA TV | Rio do Sul | SC
+#EXTINF:-1 group-title="BRAZIL",RBA TV | Rio do Sul | SC
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
-#EXTINF:-1 group-title="Brasil: educativos e documentários",Phoenix TV | Soul TV Brasil
+#EXTINF:-1 group-title="BRAZIL",Phoenix TV | Soul TV Brasil
 http://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: educativos e documentários",Space Today TV | Brasil
+#EXTINF:-1 group-title="BRAZIL",Space Today TV | Brasil
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
-#EXTINF:-1 group-title="Brasil: educativos e documentários",Rede Minas | Brasil
+#EXTINF:-1 group-title="BRAZIL",Rede Minas | Brasil
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: educativos e documentários",TV Brasil Web
+#EXTINF:-1 group-title="BRAZIL",TV Brasil Web
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 group-title="Brasil: educativos e documentários",TV Brasil | TVE ~ RS
+#EXTINF:-1 group-title="BRAZIL",TV Brasil | TVE ~ RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: educativos e documentários",TV Cultura | São Paulo
+#EXTINF:-1 group-title="BRAZIL",TV Cultura | São Paulo
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
-#EXTINF:-1 group-title="Brasil: educativos e documentários",TV Cultura | Catve | PR
+#EXTINF:-1 group-title="BRAZIL",TV Cultura | Catve | PR
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: educativos e documentários",TV Cultura | TV Futuro | RN
+#EXTINF:-1 group-title="BRAZIL",TV Cultura | TV Futuro | RN
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: educativos e documentários",TV Escola | Brasil
+#EXTINF:-1 group-title="BRAZIL",TV Escola | Brasil
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: educativos e documentários",TV Paraná Turismo | Brasil
+#EXTINF:-1 group-title="BRAZIL",TV Paraná Turismo | Brasil
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 group-title="Brasil: esportes e e-sports",All Sports | Brasil
+#EXTINF:-1 group-title="BRAZIL",All Sports | Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 group-title="Brasil: esportes e e-sports",Motorvision | Pluto TV Brasil
+#EXTINF:-1 group-title="BRAZIL",Motorvision | Pluto TV Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
-#EXTINF:-1 group-title="Brasil: esportes e e-sports",Motorvision | Pluto TV Brasil
+#EXTINF:-1 group-title="BRAZIL",Motorvision | Pluto TV Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
-#EXTINF:-1 group-title="Brasil: esportes e e-sports",Ponte Preta | Campinas SP | Soul TV Brasil
+#EXTINF:-1 group-title="BRAZIL",Ponte Preta | Campinas SP | Soul TV Brasil
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: esportes e e-sports",Unique Sports | SC Brasil
+#EXTINF:-1 group-title="BRAZIL",Unique Sports | SC Brasil
 https://video05.logicahost.com.br/uniquetvsports/uniquetvsports/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: esportes e e-sports",Vitrine Esporte
+#EXTINF:-1 group-title="BRAZIL",Vitrine Esporte
 https://cdn.live.br1.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
-#EXTINF:-1 group-title="Brasil: humor; novelas e séries",Canal 29
+#EXTINF:-1 group-title="BRAZIL",Canal 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: humor; novelas e séries",TVI Ficção | Portugal
+#EXTINF:-1 group-title="BRAZIL",TVI Ficção | Portugal
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: humor; novelas e séries",Xtreme TV
+#EXTINF:-1 group-title="BRAZIL",Xtreme TV
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: infanto-juvenis",Toon Googles TG Brasil
+#EXTINF:-1 group-title="BRAZIL",Toon Googles TG Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
-#EXTINF:-1 group-title="Brasil: infanto-juvenis",Toon Googles TG Brasil 2
+#EXTINF:-1 group-title="BRAZIL",Toon Googles TG Brasil 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=465
-#EXTINF:-1 group-title="Brasil: infanto-juvenis",Toon Googles TG Brasil 3
+#EXTINF:-1 group-title="BRAZIL",Toon Googles TG Brasil 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1296
-#EXTINF:-1 group-title="Brasil: infanto-juvenis",Toon Googles TG Brasil | RunTime
+#EXTINF:-1 group-title="BRAZIL",Toon Googles TG Brasil | RunTime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
-#EXTINF:-1 group-title="Brasil: infanto-juvenis",TV R | Brasil
+#EXTINF:-1 group-title="BRAZIL",TV R | Brasil
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: lifestyle e realities",Assim é Portugal | Brasil
+#EXTINF:-1 group-title="BRAZIL",Assim é Portugal | Brasil
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: lifestyle e realities",Astral TV | Brasil
+#EXTINF:-1 group-title="BRAZIL",Astral TV | Brasil
 https://isaocorp.cloudecast.com/astraltv/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: lifestyle e realities",Bem Melhor | Soul TV
+#EXTINF:-1 group-title="BRAZIL",Bem Melhor | Soul TV
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: lifestyle e realities",MasterChef Brasil | RunTime TV
+#EXTINF:-1 group-title="BRAZIL",MasterChef Brasil | RunTime TV
 https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: lifestyle e realities",Nosey Escândalos | Samsung
+#EXTINF:-1 group-title="BRAZIL",Nosey Escândalos | Samsung
 https://nosey-4-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: lifestyle e realities",Oportunidades TV | full HD
+#EXTINF:-1 group-title="BRAZIL",Oportunidades TV | full HD
 http://maistop.net:80/live/meutedio/meutedio/1.m3u8
-#EXTINF:-1 group-title="Brasil: lifestyle e realities",Pet Lovers | Brasil
+#EXTINF:-1 group-title="BRAZIL",Pet Lovers | Brasil
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: lifestyle e realities",Trace Brazuca | Xiaomi
+#EXTINF:-1 group-title="BRAZIL",Trace Brazuca | Xiaomi
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: lifestyle e realities",U Miss TV | Soul TV Brasil
+#EXTINF:-1 group-title="BRAZIL",U Miss TV | Soul TV Brasil
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: lifestyle e realities",Viajando pelo Brasil | Soul TV Brasil
+#EXTINF:-1 group-title="BRAZIL",Viajando pelo Brasil | Soul TV Brasil
 https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: notícias",ARTV Canal Parlamento | Portugal
+#EXTINF:-1 group-title="BRAZIL",ARTV Canal Parlamento | Portugal
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/master.m3u8
-#EXTINF:-1 group-title="Brasil: notícias",Record News | RunTime Brasil
+#EXTINF:-1 group-title="BRAZIL",Record News | RunTime Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
-#EXTINF:-1 group-title="Brasil: notícias",RTP 3 | Portugal
+#EXTINF:-1 group-title="BRAZIL",RTP 3 | Portugal
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: notícias",RTP 3 | Portugal | link 2
+#EXTINF:-1 group-title="BRAZIL",RTP 3 | Portugal | link 2
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: notícias",TV Alego | GO Brasil
+#EXTINF:-1 group-title="BRAZIL",TV Alego | GO Brasil
 https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/master.m3u8
-#EXTINF:-1 group-title="Brasil: notícias",TV ALMG | MG Brasil
+#EXTINF:-1 group-title="BRAZIL",TV ALMG | MG Brasil
 https://streaming.almg.gov.br/live/tvalmg.m3u8
-#EXTINF:-1 group-title="Brasil: notícias",TV Câmara | Brasil
+#EXTINF:-1 group-title="BRAZIL",TV Câmara | Brasil
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 group-title="Brasil: notícias",TV Câmara 2 | Brasil
+#EXTINF:-1 group-title="BRAZIL",TV Câmara 2 | Brasil
 https://stream3.camara.gov.br/tv2/manifest.m3u8
-#EXTINF:-1 group-title="Brasil: rádios",Alpha FM | Goiânia
+#EXTINF:-1 group-title="BRAZIL",Alpha FM | Goiânia
 https://ice.fabricahost.com.br/alphafm1021
-#EXTINF:-1 group-title="Brasil: rádios",Cultura do Pará | Brasil
+#EXTINF:-1 group-title="BRAZIL",Cultura do Pará | Brasil
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: rádios",Rádio UFRGS | RS Brasil
+#EXTINF:-1 group-title="BRAZIL",Rádio UFRGS | RS Brasil
 http://radioaovivo.ufrgs.br:8000/stream.mp3
-#EXTINF:-1 group-title="Brasil: variedades",Bem Mais TV | RJ | Brasil
+#EXTINF:-1 group-title="BRAZIL",Bem Mais TV | RJ | Brasil
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",Central TV Brasil
+#EXTINF:-1 group-title="BRAZIL",Central TV Brasil
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",Coletiva TV | Brasil
+#EXTINF:-1 group-title="BRAZIL",Coletiva TV | Brasil
 https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",Com Brasil
+#EXTINF:-1 group-title="BRAZIL",Com Brasil
 https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",D+ TV | Brasil
+#EXTINF:-1 group-title="BRAZIL",D+ TV | Brasil
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",Demand Africa | Brasil
+#EXTINF:-1 group-title="BRAZIL",Demand Africa | Brasil
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",ISTV | Brasil
+#EXTINF:-1 group-title="BRAZIL",ISTV | Brasil
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",NGT SP
+#EXTINF:-1 group-title="BRAZIL",NGT SP
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",Nova Era TV | Lages SC Brasil
+#EXTINF:-1 group-title="BRAZIL",Nova Era TV | Lages SC Brasil
 http://wz3.dnip.com.br/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",Primer TV | Brasil
+#EXTINF:-1 group-title="BRAZIL",Primer TV | Brasil
 http://200.194.238.229:8383/live/primer/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",Record | TV Conquista | MT Brasil
+#EXTINF:-1 group-title="BRAZIL",Record | TV Conquista | MT Brasil
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",Rede Brasil | TBO | Mato Grosso
+#EXTINF:-1 group-title="BRAZIL",Rede Brasil | TBO | Mato Grosso
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",Rede SPTV | SP Brasil
+#EXTINF:-1 group-title="BRAZIL",Rede SPTV | SP Brasil
 https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",Rede TV | PR Brasil
+#EXTINF:-1 group-title="BRAZIL",Rede TV | PR Brasil
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",Rede TV | TV Arapuan | PB Brasil
+#EXTINF:-1 group-title="BRAZIL",Rede TV | TV Arapuan | PB Brasil
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",Rede UTV | Brasil
+#EXTINF:-1 group-title="BRAZIL",Rede UTV | Brasil
 https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",RTP 1 | Portugal
+#EXTINF:-1 group-title="BRAZIL",RTP 1 | Portugal
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",RTP Açores | Portugal
+#EXTINF:-1 group-title="BRAZIL",RTP Açores | Portugal
 https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",RTP África | Portugal
+#EXTINF:-1 group-title="BRAZIL",RTP África | Portugal
 https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",RTP Internacional | Portugal
+#EXTINF:-1 group-title="BRAZIL",RTP Internacional | Portugal
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",RTP Madeira | Portugal
+#EXTINF:-1 group-title="BRAZIL",RTP Madeira | Portugal
 https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",RTP Memória | Portugal
+#EXTINF:-1 group-title="BRAZIL",RTP Memória | Portugal
 https://streaming-live.rtp.pt/liverepeater/estudoemcasa.smil/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",SBT | interior de SP
+#EXTINF:-1 group-title="BRAZIL",SBT | interior de SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",SBT | TV Cidade Verde | Piauí
+#EXTINF:-1 group-title="BRAZIL",SBT | TV Cidade Verde | Piauí
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/master.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",SBT | TV Guajará | Tailândia | PA
+#EXTINF:-1 group-title="BRAZIL",SBT | TV Guajará | Tailândia | PA
 https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",Sol Brasil
+#EXTINF:-1 group-title="BRAZIL",Sol Brasil
 https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",Top Mix TV
+#EXTINF:-1 group-title="BRAZIL",Top Mix TV
 https://video03.logicahost.com.br/topmixtv/topmixtv/chunklist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",TV A Folha | Palmas PR Brasil
+#EXTINF:-1 group-title="BRAZIL",TV A Folha | Palmas PR Brasil
 https://video01.logicahost.com.br/tvafolha/tvafolha/master.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",TV CNB
+#EXTINF:-1 group-title="BRAZIL",TV CNB
 https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",TV Galega | Blumenau SC Brasil
+#EXTINF:-1 group-title="BRAZIL",TV Galega | Blumenau SC Brasil
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",TV Galega | Blumenau SC Brasil - link 2
+#EXTINF:-1 group-title="BRAZIL",TV Galega | Blumenau SC Brasil - link 2
 https://cdn.live.br1.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",TV Gramado | RS Brasil
+#EXTINF:-1 group-title="BRAZIL",TV Gramado | RS Brasil
 https://isaocorp.cloudecast.com/tvgramado/index.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",TV Grande Natal | Brasil
+#EXTINF:-1 group-title="BRAZIL",TV Grande Natal | Brasil
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",TV Marchetti
+#EXTINF:-1 group-title="BRAZIL",TV Marchetti
 https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",TV MAX Rio | Brasil
+#EXTINF:-1 group-title="BRAZIL",TV MAX Rio | Brasil
 https://5cf4a2c2512a2.streamlock.net:443/tvmax/tvmax/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",TV Metrópole | Caucaia CE Brasil
+#EXTINF:-1 group-title="BRAZIL",TV Metrópole | Caucaia CE Brasil
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",TV Nova Nordeste | Grande Recife PE Brasil
+#EXTINF:-1 group-title="BRAZIL",TV Nova Nordeste | Grande Recife PE Brasil
 https://acesso.ecast.site:3675/live/novatvlive.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",TVS Surubim PE | Brasil
+#EXTINF:-1 group-title="BRAZIL",TVS Surubim PE | Brasil
 https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",WTJ TV | MG Brasil
+#EXTINF:-1 group-title="BRAZIL",WTJ TV | MG Brasil
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
-#EXTINF:-1 group-title="Brasil: variedades",Zoom
+#EXTINF:-1 group-title="BRAZIL",Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 group-title="Caça; pesca e rodeio em inglês",Darcizzle Fishing Offshore | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1503
@@ -3843,21 +3843,21 @@ rtsp://185.50.56.16:554/neontelvizija
 https://stream.rtvze.ba/live/123/123.m3u8
 #EXTINF:-1 group-title="Bosnia and Herzegovina",TV BPK Ⓢ
 http://94.250.2.6:7374/play/a02u/index.m3u8
-#EXTINF:-1 group-title="Brazil",COM Brasil
+#EXTINF:-1 group-title="BRAZIL",COM Brasil
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1 group-title="Brazil",SBT Ⓨ
+#EXTINF:-1 group-title="BRAZIL",SBT Ⓨ
 https://www.youtube.com/watch?v=ABVQXgr2LW4
-#EXTINF:-1 group-title="Brazil",RBC Ⓨ
+#EXTINF:-1 group-title="BRAZIL",RBC Ⓨ
 https://www.youtube.com/watch?v=oUdd3CsxYaE
-#EXTINF:-1 group-title="Brazil",Record News
+#EXTINF:-1 group-title="BRAZIL",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
-#EXTINF:-1 group-title="Brazil",ISTV
+#EXTINF:-1 group-title="BRAZIL",ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
-#EXTINF:-1 group-title="Brazil",Rede Brasil
+#EXTINF:-1 group-title="BRAZIL",Rede Brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
-#EXTINF:-1 group-title="Brazil",TVE RS
+#EXTINF:-1 group-title="BRAZIL",TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 group-title="Brazil",TV Cultura
+#EXTINF:-1 group-title="BRAZIL",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 group-title="Bulgaria",City TV Ⓢ
 https://tv.city.bg/play/tshls/citytv/index.m3u8
@@ -5733,19 +5733,19 @@ https://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_124/201830-1293592-1/playlist.m3u8
 #EXTINF:-1 group-title="Malta",Smash TV
 http://a3.smashmalta.com/hls/smash/smash.m3u8
-#EXTINF:-1 group-title="Mexico",Alcarria TV
+#EXTINF:-1 group-title="MEXICO",Alcarria TV
 http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 group-title="Mexico",Hipodromo de las Americas
+#EXTINF:-1 group-title="MEXICO",Hipodromo de las Americas
 http://wms30.tecnoxia.com/soelvi/abr_soelvi/playlist.m3u8
-#EXTINF:-1 group-title="Mexico",MVM NoticiasⓈ
+#EXTINF:-1 group-title="MEXICO",MVM NoticiasⓈ
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
-#EXTINF:-1 group-title="Mexico",RCG 3 Saltillo
+#EXTINF:-1 group-title="MEXICO",RCG 3 Saltillo
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-#EXTINF:-1 group-title="Mexico",TeleFormula
+#EXTINF:-1 group-title="MEXICO",TeleFormula
 https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-#EXTINF:-1 group-title="Mexico",NRT 4 Monclova
+#EXTINF:-1 group-title="MEXICO",NRT 4 Monclova
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
-#EXTINF:-1 group-title="Mexico",Las Estrellas
+#EXTINF:-1 group-title="MEXICO",Las Estrellas
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Moldova",Moldova 1
 https://www.tvkaista.net/stream-forwarder/get.php?x=Moldova1
@@ -5937,29 +5937,29 @@ https://www.tvkaista.net/stream-forwarder/get.php?x=TVPKultura2
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 group-title="Poland",TV Republika
 https://redir.cache.orange.pl/jupiter/o1-cl7/ssl/live/tvrepublika/live.m3u8
-#EXTINF:-1 group-title="Portugal",RTP1
+#EXTINF:-1 group-title="PORTUGAL",RTP1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 group-title="Portugal",RTP2 Ⓖ
+#EXTINF:-1 group-title="PORTUGAL",RTP2 Ⓖ
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 group-title="Portugal",SIC
+#EXTINF:-1 group-title="PORTUGAL",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 group-title="Portugal",RTP Açores
+#EXTINF:-1 group-title="PORTUGAL",RTP Açores
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1 group-title="Portugal",RTP Madeira Ⓢ
+#EXTINF:-1 group-title="PORTUGAL",RTP Madeira Ⓢ
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 group-title="Portugal",RTP3
+#EXTINF:-1 group-title="PORTUGAL",RTP3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR=
-#EXTINF:-1 group-title="Portugal",RTP África
+#EXTINF:-1 group-title="PORTUGAL",RTP África
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 group-title="Portugal",RTP Mundo
+#EXTINF:-1 group-title="PORTUGAL",RTP Mundo
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 group-title="Portugal",Porto Canal Ⓢ
+#EXTINF:-1 group-title="PORTUGAL",Porto Canal Ⓢ
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:-1 group-title="Portugal",ADtv Ⓢ
+#EXTINF:-1 group-title="PORTUGAL",ADtv Ⓢ
 https://playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/playlist.m3u8
-#EXTINF:-1 group-title="Portugal",CNN Portugal
+#EXTINF:-1 group-title="PORTUGAL",CNN Portugal
 https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
-#EXTINF:-1 group-title="Portugal",Euronews em Português Ⓨ
+#EXTINF:-1 group-title="PORTUGAL",Euronews em Português Ⓨ
 https://www.youtube.com/euronewspt/live
 #EXTINF:-1 group-title="Qatar",Qatar Television
 https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
@@ -6741,97 +6741,97 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 group-title="United Arab Emirates",Al Wousta
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="USA",Buzzr Ⓖ
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Buzzr Ⓖ
 https://buzzrota-ono.amagi.tv/playlist1080.m3u8
-#EXTINF:-1 group-title="USA",Retro TV
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Retro TV
 https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/profile_1/chunklist.m3u8
-#EXTINF:-1 group-title="USA",Stadium
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Stadium
 https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/profile_1/976f34cf5a614518b7b539cbf9812080/chunklist_ssaiV.m3u8
-#EXTINF:-1 group-title="USA",Biz TV
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Biz TV
 https://thegateway.app/BizTV/BizTV-Tones/chunks.m3u8?nimblesessionid=94690008
-#EXTINF:-1 group-title="USA",Heartland
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Heartland
 https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/profile_1/chunklist.m3u8
-#EXTINF:-1 group-title="USA",Rev'n
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Rev'n
 https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/profile_1/chunklist.m3u8
-#EXTINF:-1 group-title="USA",CNN
+#EXTINF:-1 group-title="ESTADOS UNIDOS",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="USA",CNBC Ⓨ
+#EXTINF:-1 group-title="ESTADOS UNIDOS",CNBC Ⓨ
 https://www.youtube.com/c/CNBC/live
-#EXTINF:-1 group-title="USA",Bloomberg
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 group-title="USA",ABC News
+#EXTINF:-1 group-title="ESTADOS UNIDOS",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="USA",CBS News
+#EXTINF:-1 group-title="ESTADOS UNIDOS",CBS News
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 group-title="USA",NBC News
+#EXTINF:-1 group-title="ESTADOS UNIDOS",NBC News
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
-#EXTINF:-1 group-title="USA",Reuters TV
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Reuters TV
 https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="USA",NASA TV Media
+#EXTINF:-1 group-title="ESTADOS UNIDOS",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 group-title="USA",BBC Food
+#EXTINF:-1 group-title="ESTADOS UNIDOS",BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="USA",BBC Home
+#EXTINF:-1 group-title="ESTADOS UNIDOS",BBC Home
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="USA",Docurama
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1 group-title="USA",Drybar Comedy
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Drybar Comedy
 https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="USA",Music Channel
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Music Channel
 http://media.boni-records.com/index.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Aurora Live
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Aurora Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV AutoMoto
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV AutoMoto
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",BumblebeeTV Beaches Live
+#EXTINF:-1 group-title="ESTADOS UNIDOS",BumblebeeTV Beaches Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Classics 2
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Classics 2
 https://stitcheraws.unreel.me/wse-node05.powr.com/live/60f881602da3a5575eceb854/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV CoronaVirus.Gov
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV CoronaVirus.Gov
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e7559e8a46b495a2283c5e8/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Country Boy Kids Video.us
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Country Boy Kids Video.us
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Cute Zone
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Cute Zone
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Epic M
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Epic M
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV FGTV
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV FGTV
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Forest Live
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Forest Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Fun Zone
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Fun Zone
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Giggle Zone
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Giggle Zone
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Lake Live
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Lake Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Lego Toons
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Lego Toons
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Lets Play Minecraft
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Lets Play Minecraft
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV LifeBae
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV LifeBae
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22681932c8304fc453418/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Master Builder
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Master Builder
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Mountain Live
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Mountain Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Now You Know
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Now You Know
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5b284f40d5eeee07522b775e/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Recoil TV
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Recoil TV
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7dff0f932c8368bdbfd5fd/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Rivers Live
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Rivers Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Smosh
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Smosh
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625af5748670f12a3bee9/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Sunset Live
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Sunset Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Thinknoodles
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Thinknoodles
 https://stitcheraws.unreel.me/wse-node04.powr.com/live/5afc8Bumblebee+TV10e932c833522744733/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Toy Zone
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Toy Zone
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Trinity Beyond
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Trinity Beyond
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2626030145130f25474626/playlist.m3u8
-#EXTINF:-1 group-title="Usa VOD",Bumblebee TV Tropics Live
+#EXTINF:-1 group-title="ESTADOS UNIDOS",Bumblebee TV Tropics Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
 #EXTINF:-1 group-title="Venezuela",Venevisión
 https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
@@ -7325,199 +7325,199 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63c923944
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6536608b4f123d000876b78b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="VOD Italy",Le vite degli altri – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/653660b4295b840008a70ba3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: AMC
+#EXTINF:-1 group-title="BRAZIL",BR: AMC
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4830
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: ANIMAL PLANET
+#EXTINF:-1 group-title="BRAZIL",BR: ANIMAL PLANET
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4831
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: AXN
+#EXTINF:-1 group-title="BRAZIL",BR: AXN
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4832
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: BABY
+#EXTINF:-1 group-title="BRAZIL",BR: BABY
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4833
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: BAND NEWS
+#EXTINF:-1 group-title="BRAZIL",BR: BAND NEWS
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4834
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: BAND SPORT
+#EXTINF:-1 group-title="BRAZIL",BR: BAND SPORT
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4835
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: BOOMERANG
+#EXTINF:-1 group-title="BRAZIL",BR: BOOMERANG
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4836
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: CARTOON NETWORK
+#EXTINF:-1 group-title="BRAZIL",BR: CARTOON NETWORK
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4837
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: COMBATE
+#EXTINF:-1 group-title="BRAZIL",BR: COMBATE
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4838
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: COMEDY CENTRAL
+#EXTINF:-1 group-title="BRAZIL",BR: COMEDY CENTRAL
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4839
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: CONMEBOL 2
+#EXTINF:-1 group-title="BRAZIL",BR: CONMEBOL 2
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4840
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: DISCOVERY CHANNEL
+#EXTINF:-1 group-title="BRAZIL",BR: DISCOVERY CHANNEL
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4841
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: HGTV
+#EXTINF:-1 group-title="BRAZIL",BR: HGTV
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4842
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: DISCOVERY HOME & HEALTH
+#EXTINF:-1 group-title="BRAZIL",BR: DISCOVERY HOME & HEALTH
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4843
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: DISCOVERY ID
+#EXTINF:-1 group-title="BRAZIL",BR: DISCOVERY ID
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4844
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: DISCOVERY KIDS
+#EXTINF:-1 group-title="BRAZIL",BR: DISCOVERY KIDS
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4845
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: DISCOVERY SCIENCE
+#EXTINF:-1 group-title="BRAZIL",BR: DISCOVERY SCIENCE
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4846
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: DISCOVERY THEATER
+#EXTINF:-1 group-title="BRAZIL",BR: DISCOVERY THEATER
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4847
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: DISCOVERY TLC
+#EXTINF:-1 group-title="BRAZIL",BR: DISCOVERY TLC
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4848
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: DISCOVERY TURBO
+#EXTINF:-1 group-title="BRAZIL",BR: DISCOVERY TURBO
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4849
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: DISCOVERY WORLD
+#EXTINF:-1 group-title="BRAZIL",BR: DISCOVERY WORLD
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4850
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: DISNEY CHANNEL
+#EXTINF:-1 group-title="BRAZIL",BR: DISNEY CHANNEL
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4851
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: DISNEY JR
+#EXTINF:-1 group-title="BRAZIL",BR: DISNEY JR
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4852
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: E!
+#EXTINF:-1 group-title="BRAZIL",BR: E!
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4853
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: ESPN
+#EXTINF:-1 group-title="BRAZIL",BR: ESPN
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4854
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: ESPN 2
+#EXTINF:-1 group-title="BRAZIL",BR: ESPN 2
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4855
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: FOOD NETWORK
+#EXTINF:-1 group-title="BRAZIL",BR: FOOD NETWORK
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4856
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: STAR CHANNEL
+#EXTINF:-1 group-title="BRAZIL",BR: STAR CHANNEL
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4857
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: FOX LIFE
+#EXTINF:-1 group-title="BRAZIL",BR: FOX LIFE
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4858
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: ESPN4
+#EXTINF:-1 group-title="BRAZIL",BR: ESPN4
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4859
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: FOX SPORTS 2
+#EXTINF:-1 group-title="BRAZIL",BR: FOX SPORTS 2
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4860
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: FX
+#EXTINF:-1 group-title="BRAZIL",BR: FX
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4861
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: GLOBO EPTV CAMPINAS
+#EXTINF:-1 group-title="BRAZIL",BR: GLOBO EPTV CAMPINAS
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4862
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: GLOBO INTERNACIONAL
+#EXTINF:-1 group-title="BRAZIL",BR: GLOBO INTERNACIONAL
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4863
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: GLOBO NEWS
+#EXTINF:-1 group-title="BRAZIL",BR: GLOBO NEWS
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4864
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: GLOBO
+#EXTINF:-1 group-title="BRAZIL",BR: GLOBO
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4865
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: GLOOB
+#EXTINF:-1 group-title="BRAZIL",BR: GLOOB
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4866
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: GNT
+#EXTINF:-1 group-title="BRAZIL",BR: GNT
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4867
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: H2
+#EXTINF:-1 group-title="BRAZIL",BR: H2
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4868
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: HBO 1
+#EXTINF:-1 group-title="BRAZIL",BR: HBO 1
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4869
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: HBO 2
+#EXTINF:-1 group-title="BRAZIL",BR: HBO 2
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4870
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: HBO FAMILY
+#EXTINF:-1 group-title="BRAZIL",BR: HBO FAMILY
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4871
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: HBO PLUS
+#EXTINF:-1 group-title="BRAZIL",BR: HBO PLUS
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4872
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: HBO SIGNATURE
+#EXTINF:-1 group-title="BRAZIL",BR: HBO SIGNATURE
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4873
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: HISTORY CHANNEL
+#EXTINF:-1 group-title="BRAZIL",BR: HISTORY CHANNEL
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4874
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: LIFE TIME
+#EXTINF:-1 group-title="BRAZIL",BR: LIFE TIME
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4875
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: CINEMAX
+#EXTINF:-1 group-title="BRAZIL",BR: CINEMAX
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4876
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: MEGA PIX
+#EXTINF:-1 group-title="BRAZIL",BR: MEGA PIX
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4877
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: MTV
+#EXTINF:-1 group-title="BRAZIL",BR: MTV
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4878
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: MULTI SHOW
+#EXTINF:-1 group-title="BRAZIL",BR: MULTI SHOW
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4879
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: NAT GEO
+#EXTINF:-1 group-title="BRAZIL",BR: NAT GEO
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4880
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: NAT GEO KIDS
+#EXTINF:-1 group-title="BRAZIL",BR: NAT GEO KIDS
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4881
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: NAT GEO WILD
+#EXTINF:-1 group-title="BRAZIL",BR: NAT GEO WILD
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4882
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: NICKELODEON
+#EXTINF:-1 group-title="BRAZIL",BR: NICKELODEON
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4883
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: NOVO TEMPO
+#EXTINF:-1 group-title="BRAZIL",BR: NOVO TEMPO
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4884
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: OFF
+#EXTINF:-1 group-title="BRAZIL",BR: OFF
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4885
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: PARAMOUNT CHANNEL
+#EXTINF:-1 group-title="BRAZIL",BR: PARAMOUNT CHANNEL
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4886
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: PREMIERE 2
+#EXTINF:-1 group-title="BRAZIL",BR: PREMIERE 2
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4887
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: PREMIERE 3
+#EXTINF:-1 group-title="BRAZIL",BR: PREMIERE 3
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4888
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: PREMIERE 4
+#EXTINF:-1 group-title="BRAZIL",BR: PREMIERE 4
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4889
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: PREMIERE 5
+#EXTINF:-1 group-title="BRAZIL",BR: PREMIERE 5
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4890
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: PREMIERE 6
+#EXTINF:-1 group-title="BRAZIL",BR: PREMIERE 6
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4891
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: PREMIERE CLUBES
+#EXTINF:-1 group-title="BRAZIL",BR: PREMIERE CLUBES
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4892
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: RA TIM BUM
+#EXTINF:-1 group-title="BRAZIL",BR: RA TIM BUM
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4893
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: RECORD
+#EXTINF:-1 group-title="BRAZIL",BR: RECORD
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4894
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: RECORD NEWS
+#EXTINF:-1 group-title="BRAZIL",BR: RECORD NEWS
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4895
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: REDE TV
+#EXTINF:-1 group-title="BRAZIL",BR: REDE TV
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4896
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: RPC TV CURITIBA
+#EXTINF:-1 group-title="BRAZIL",BR: RPC TV CURITIBA
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4897
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: SBT
+#EXTINF:-1 group-title="BRAZIL",BR: SBT
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4898
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: SBT NORDESTE
+#EXTINF:-1 group-title="BRAZIL",BR: SBT NORDESTE
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4899
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: SONY
+#EXTINF:-1 group-title="BRAZIL",BR: SONY
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4900
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: SPACE
+#EXTINF:-1 group-title="BRAZIL",BR: SPACE
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4901
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: SPORTV 1
+#EXTINF:-1 group-title="BRAZIL",BR: SPORTV 1
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4902
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: SPORTV 2
+#EXTINF:-1 group-title="BRAZIL",BR: SPORTV 2
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4903
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: SPORTV 3
+#EXTINF:-1 group-title="BRAZIL",BR: SPORTV 3
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4904
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: STUDIO UNIVERSAL
+#EXTINF:-1 group-title="BRAZIL",BR: STUDIO UNIVERSAL
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4905
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: SYFY
+#EXTINF:-1 group-title="BRAZIL",BR: SYFY
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4906
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: TBS
+#EXTINF:-1 group-title="BRAZIL",BR: TBS
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4907
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: TCM
+#EXTINF:-1 group-title="BRAZIL",BR: TCM
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4908
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: TELE CINE ACTION
+#EXTINF:-1 group-title="BRAZIL",BR: TELE CINE ACTION
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4909
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: TELE CINE CULT
+#EXTINF:-1 group-title="BRAZIL",BR: TELE CINE CULT
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4910
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: TELE CINE FUN
+#EXTINF:-1 group-title="BRAZIL",BR: TELE CINE FUN
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4911
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: TELE CINE PIPOCA
+#EXTINF:-1 group-title="BRAZIL",BR: TELE CINE PIPOCA
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4912
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: TELE CINE PREMIUM
+#EXTINF:-1 group-title="BRAZIL",BR: TELE CINE PREMIUM
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4913
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: TELE CINE TOUCH
+#EXTINF:-1 group-title="BRAZIL",BR: TELE CINE TOUCH
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4914
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: TNT
+#EXTINF:-1 group-title="BRAZIL",BR: TNT
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4915
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: TNT SERIES
+#EXTINF:-1 group-title="BRAZIL",BR: TNT SERIES
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4916
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: TOONCAST
+#EXTINF:-1 group-title="BRAZIL",BR: TOONCAST
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4917
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: TV BRASIL
+#EXTINF:-1 group-title="BRAZIL",BR: TV BRASIL
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4918
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: TV DIARIO
+#EXTINF:-1 group-title="BRAZIL",BR: TV DIARIO
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4919
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: TV EVANGELIZAR
+#EXTINF:-1 group-title="BRAZIL",BR: TV EVANGELIZAR
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4920
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: UNIVERSAL CHANNEL
+#EXTINF:-1 group-title="BRAZIL",BR: UNIVERSAL CHANNEL
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4921
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: VIVA
+#EXTINF:-1 group-title="BRAZIL",BR: VIVA
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4922
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: WARNER CHANNEL
+#EXTINF:-1 group-title="BRAZIL",BR: WARNER CHANNEL
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4923
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: WOOHOO
+#EXTINF:-1 group-title="BRAZIL",BR: WOOHOO
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4924
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: Record RJ
+#EXTINF:-1 group-title="BRAZIL",BR: Record RJ
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/58729
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: Record RS
+#EXTINF:-1 group-title="BRAZIL",BR: Record RS
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/58730
-#EXTINF:-1 group-title="LAME | BRAZIL VIP",BR: Record SP
+#EXTINF:-1 group-title="BRAZIL",BR: Record SP
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/58731
