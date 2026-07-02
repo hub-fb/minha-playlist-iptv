@@ -25,11 +25,6 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Criar pastas necessárias
-        run: |
-          mkdir -p cache
-          mkdir -p registros
-
       - name: Executar atualização
         run: python gerar_playlist.py
 
