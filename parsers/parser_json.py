@@ -1,54 +1,31 @@
 import json
 
-
 def ler_json(conteudo):
-
+    """
+    Lê uma fonte JSON e retorna lista de dicionários no formato:
+    { "nome": ..., "url": ..., "grupo": ..., "tvg-id": ..., "tvg-name": ..., "tvg-logo": ... }
+    """
     canais = []
-
     try:
-
         dados = json.loads(conteudo)
+        for item in dados.get("canais", []):
+            nome = item.get("nome", "Sem Nome")
+            url = item.get("url", "").strip()
+            grupo = item.get("grupo", "Sem Categoria")
+            tvg_id = item.get("tvg-id", "")
+            tvg_name = item.get("tvg-name", nome)
+            tvg_logo = item.get("tvg-logo", "")
 
-    except Exception:
-
-        return canais
-
-    if not isinstance(dados, list):
-        return canais
-
-    for item in dados:
-
-        if not isinstance(item, dict):
-            continue
-
-        nome = (
-            item.get("name")
-            or item.get("title")
-            or item.get("channel")
-            or "Canal sem nome"
-        )
-
-        url = (
-            item.get("url")
-            or item.get("stream")
-            or item.get("src")
-            or ""
-        )
-
-        if not url.startswith("http"):
-            continue
-
-        grupo = (
-            item.get("category")
-            or item.get("group")
-            or item.get("country")
-            or "Outros"
-        )
-
-        canais.append({
-            "nome": nome.strip(),
-            "url": url.strip(),
-            "grupo": grupo.strip()
-        })
+            if url:
+                canais.append({
+                    "nome": nome,
+                    "url": url,
+                    "grupo": grupo,
+                    "tvg-id": tvg_id,
+                    "tvg-name": tvg_name,
+                    "tvg-logo": tvg_logo
+                })
+    except Exception as e:
+        print(f"Erro ao ler JSON: {e}")
 
     return canais
