@@ -9,43 +9,46 @@ def ler_json(conteudo):
 
         dados = json.loads(conteudo)
 
-        if not isinstance(dados, list):
-            return canais
+    except Exception:
 
-        for canal in dados:
+        return canais
 
-            nome = canal.get("nome", "Sem nome")
+    if not isinstance(dados, list):
+        return canais
 
-            grupo = canal.get("categoria", "Brasil")
+    for item in dados:
 
-            fontes = canal.get("fontes", {})
+        if not isinstance(item, dict):
+            continue
 
-            fluxos = fontes.get("fluxos", [])
+        nome = (
+            item.get("name")
+            or item.get("title")
+            or item.get("channel")
+            or "Canal sem nome"
+        )
 
-            contador = 1
+        url = (
+            item.get("url")
+            or item.get("stream")
+            or item.get("src")
+            or ""
+        )
 
-            for url in fluxos:
+        if not url.startswith("http"):
+            continue
 
-                if not url:
-                    continue
+        grupo = (
+            item.get("category")
+            or item.get("group")
+            or item.get("country")
+            or "Outros"
+        )
 
-                if contador == 1:
-                    titulo = nome
-                else:
-                    titulo = f"{nome} ({contador})"
-
-                canais.append({
-
-                    "info": f'#EXTINF:-1 group-title="{grupo}",{titulo}',
-
-                    "url": url.strip()
-
-                })
-
-                contador += 1
-
-    except Exception as erro:
-
-        print(f"Erro JSON: {erro}")
+        canais.append({
+            "nome": nome.strip(),
+            "url": url.strip(),
+            "grupo": grupo.strip()
+        })
 
     return canais
