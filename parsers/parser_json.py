@@ -1,5 +1,27 @@
 import json
 
+def normalizar_grupo(grupo, nome):
+    """Normaliza o grupo para o país correspondente."""
+    grupo_lower = grupo.lower()
+    nome_lower = nome.lower()
+
+    if "brasil" in grupo_lower or "brazil" in grupo_lower or nome_lower.startswith("br:"):
+        return "BRAZIL"
+    elif "usa" in grupo_lower or "united states" in grupo_lower or "estados unidos" in grupo_lower or nome_lower.startswith("us:"):
+        return "ESTADOS UNIDOS"
+    elif "portugal" in grupo_lower or nome_lower.startswith("pt:"):
+        return "PORTUGAL"
+    elif "mexico" in grupo_lower or nome_lower.startswith("mx:"):
+        return "MEXICO"
+    elif "pluto" in grupo_lower:
+        return "PLUTO TV"
+    elif "plex" in grupo_lower:
+        return "PLEX"
+    elif "samsung" in grupo_lower:
+        return "SAMSUNG TV PLUS"
+    else:
+        return grupo or "INTERNACIONAL"
+
 def ler_json(conteudo):
     """
     Lê uma fonte JSON e retorna lista de dicionários no formato:
@@ -17,6 +39,7 @@ def ler_json(conteudo):
             tvg_logo = item.get("tvg-logo", "")
 
             if url:
+                grupo = normalizar_grupo(grupo, nome)
                 canais.append({
                     "nome": nome,
                     "url": url,
