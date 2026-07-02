@@ -1,11 +1,9 @@
 import json
 
 def normalizar_grupo(grupo, nome, origem=None):
-    """Normaliza o grupo para o país correspondente."""
     grupo_lower = grupo.lower()
     nome_lower = nome.lower()
 
-    # Regra especial: se a origem for explicitamente o JSON do Brasil (Famelack)
     if origem and "countries/br.json" in origem:
         return "BRAZIL"
 
@@ -17,35 +15,44 @@ def normalizar_grupo(grupo, nome, origem=None):
         return "PORTUGAL"
     elif "mexico" in grupo_lower or nome_lower.startswith("mx:"):
         return "MEXICO"
-    elif "pluto" in grupo_lower:
-        return "PLUTO TV"
-    elif "plex" in grupo_lower:
-        return "PLEX"
-    elif "samsung" in grupo_lower:
-        return "SAMSUNG TV PLUS"
     else:
         return grupo or "INTERNACIONAL"
 
 def ler_json(conteudo, origem=None):
-    """
-    Lê uma fonte JSON e retorna lista de dicionários no formato:
-    { "nome": ..., "url": ..., "grupo": ..., "tvg-id": ..., "tvg-name": ..., "tvg-logo": ... }
-    """
     canais = []
     try:
         dados = json.loads(conteudo)
-        for item in dados.get("canais", []):
-            nome = item.get("nome", "Sem Nome")
-            url = item.get("url", "").strip()
+
+        # O Famelack Brasil tem estrutura diferente
+        if isinstance(dados, list):
+            itens = dados
+        else:
+            itens = dados.get("canais", [])
+
+        for item in itens:
+            nome = item.get("name") or item.get("nome") or "Sem Nome"
             grupo = item.get("grupo", "Sem Categoria")
             tvg_id = item.get("tvg-id", "")
             tvg_name = item.get("tvg-name", nome)
             tvg_logo = item.get("tvg-logo", "")
 
+            # Extrair URL de diferentes campos
+            url = ""
+            if "url" in item:
+                url = item["url"]
+            elif "sources" in item and "streams" in item["sources"]:
+                streams = item["sources"]["streams"]
+                if isinstance(streams, list) and streams:
+                    url = streams[0]
+            elif "youtube" in item:
+                yt = item["youtube"]
+                if isinstance(yt, list) and yt:
+                    url = yt[0]
+
             if url:
                 grupo = normalizar_grupo(grupo, nome, origem)
 
-                # Regra especial: se for a lista do Brasil (Famelack), força logo da bandeira
+                # Regra especial para Famelack Brasil
                 if origem and "countries/br.json" in origem:
                     tvg_logo = "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"
 
