@@ -23,10 +23,10 @@ def processar_fonte(fonte, urls_adicionadas):
         extensao = "json" if fonte["tipo"] == "json" else "m3u"
         salvar_cache(nome, extensao, conteudo)
 
+        # Usa o parser correto
         if fonte["tipo"] == "m3u":
             canais = ler_playlist(conteudo)
         else:
-            # Passa a origem (URL) para que o parser saiba que é o JSON do Brasil
             canais = ler_json(conteudo, origem=fonte["url"])
 
         for canal in canais:
