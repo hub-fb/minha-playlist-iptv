@@ -2,12 +2,12 @@
     "ultimaAtualizacao": "",
     "fontes": [
         {
-            "nome": "Minha Base",
+            "nome": "Famelack Brasil",
             "tipo": "m3u",
-            "url": "https://raw.githubusercontent.com/fabianobassetti-dotcom/minha-playlist-iptv/main/ListaIPTV.m3u",
+            "url": "https://raw.githubusercontent.com/famelack/famelack-data/main/tv/raw/countries/br.json",
             "ativa": true,
             "prioridade": 100,
-            "categoria": "Base"
+            "categoria": "Brasil"
         },
         {
             "nome": "Helen Fernanda",
@@ -31,14 +31,6 @@
             "url": "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/master/CanaisBR01.m3u8",
             "ativa": true,
             "prioridade": 70,
-            "categoria": "Brasil"
-        },
-        {
-            "nome": "Famelack Brasil",
-            "tipo": "json",
-            "url": "https://raw.githubusercontent.com/famelack/famelack-data/main/tv/raw/countries/br.json",
-            "ativa": true,
-            "prioridade": 95,
             "categoria": "Brasil"
         }
     ]
