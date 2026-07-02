@@ -5,122 +5,79 @@ from datetime import datetime
 from parsers.parser_m3u import ler_playlist
 from parsers.parser_json import ler_json
 
-print("=" * 60)
+print("=" * 50)
 print("Bassetti IPTV Hub")
-print("=" * 60)
+print("=" * 50)
 
 with open("fontes.json", "r", encoding="utf-8") as arquivo:
     dados = json.load(arquivo)
 
-playlist_final = []
+playlist_final = ["#EXTM3U"]
 
-urls_existentes = set()
+urls_adicionadas = set()
 
-playlist_final.append("#EXTM3U")
+for fonte in sorted(dados["fontes"], key=lambda x: x["prioridade"], reverse=True):
 
-for fonte in sorted(
-    dados["fontes"],
-    key=lambda x: x.get("prioridade", 0),
-    reverse=True
-):
-
-    if not fonte.get("ativa", True):
+    if not fonte["ativa"]:
         continue
 
-    print(f"\nBaixando: {fonte['nome']}")
+    print(f"\nImportando: {fonte['nome']}")
 
     try:
 
-        resposta = urllib.request.urlopen(
-            fonte["url"],
-            timeout=30
-        )
+        resposta = urllib.request.urlopen(fonte["url"], timeout=30)
+        conteudo = resposta.read().decode("utf-8", errors="ignore")
 
-        conteudo = resposta.read().decode(
-            "utf-8",
-            errors="ignore"
-        )
-
-        nome_arquivo = (
-            fonte["nome"]
-            .replace(" ", "_")
-            .replace("/", "_")
-        )
-
+        nome = fonte["nome"].replace(" ", "_")
         extensao = "json" if fonte["tipo"] == "json" else "m3u"
 
-        with open(
-            f"cache/{nome_arquivo}.{extensao}",
-            "w",
-            encoding="utf-8"
-        ) as destino:
-
+        with open(f"cache/{nome}.{extensao}", "w", encoding="utf-8") as destino:
             destino.write(conteudo)
 
         if fonte["tipo"] == "m3u":
 
             canais = ler_playlist(conteudo)
 
-        elif fonte["tipo"] == "json":
+        else:
 
             canais = ler_json(conteudo)
 
-        else:
-
-            canais = []
-
-        print(f"{len(canais)} canais encontrados.")
-
-        adicionados = 0
+        total = 0
 
         for canal in canais:
 
             url = canal["url"].strip()
 
-            if url in urls_existentes:
+            if url in urls_adicionadas:
                 continue
 
-            urls_existentes.add(url)
+            urls_adicionadas.add(url)
 
-            playlist_final.append(canal["info"])
+            grupo = canal.get("grupo", fonte["categoria"])
+            nome_canal = canal["nome"]
+
+            playlist_final.append(
+                f'#EXTINF:-1 group-title="{grupo}",{nome_canal}'
+            )
+
             playlist_final.append(url)
 
-            adicionados += 1
+            total += 1
 
-        print(f"{adicionados} canais adicionados.")
-
-        print("OK")
+        print(f"{total} canais adicionados.")
 
     except Exception as erro:
 
-        print(f"ERRO: {erro}")
+        print(f"Erro: {erro}")
 
-with open(
-    "ListaIPTV.m3u",
-    "w",
-    encoding="utf-8"
-) as destino:
+with open("ListaIPTV.m3u", "w", encoding="utf-8") as arquivo:
 
-    destino.write("\n".join(playlist_final))
+    arquivo.write("\n".join(playlist_final))
 
-dados["ultimaAtualizacao"] = datetime.now().strftime(
-    "%d/%m/%Y %H:%M:%S"
-)
+dados["ultimaAtualizacao"] = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
 
-with open(
-    "fontes.json",
-    "w",
-    encoding="utf-8"
-) as arquivo:
+with open("fontes.json", "w", encoding="utf-8") as arquivo:
 
-    json.dump(
-        dados,
-        arquivo,
-        indent=4,
-        ensure_ascii=False
-    )
+    json.dump(dados, arquivo, indent=4, ensure_ascii=False)
 
-print("\n" + "=" * 60)
-print(f"TOTAL DE CANAIS: {len(urls_existentes)}")
-print("=" * 60)
-print("Playlist atualizada com sucesso.")
+print("\nPlaylist criada com sucesso.")
