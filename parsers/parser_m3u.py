@@ -65,18 +65,33 @@ def ler_playlist(conteudo):
 
         elif linha and not linha.startswith("#"):
             url = linha.strip()
-            epg_info = {}
-            if tvg_id and tvg_id.lower() in EPG_DATA:
-                epg_info = EPG_DATA[tvg_id.lower()]
 
-            canais.append({
-                "nome": nome,
-                "url": url,
-                "grupo": grupo,
-                "tvg-id": epg_info.get("tvg-id", tvg_id),
-                "tvg-name": epg_info.get("tvg-name", tvg_name or nome),
-                "tvg-logo": epg_info.get("tvg-logo", tvg_logo)
-            })
+            # Se já vier com metadados completos, apenas replicar
+            if tvg_id or tvg_name or tvg_logo:
+                canais.append({
+                    "nome": nome,
+                    "url": url,
+                    "grupo": grupo,
+                    "tvg-id": tvg_id,
+                    "tvg-name": tvg_name or nome,
+                    "tvg-logo": tvg_logo
+                })
+            else:
+                # Caso contrário, tentar enriquecer com EPG externo
+                epg_info = {}
+                if nome and nome.lower() in EPG_DATA:
+                    epg_info = EPG_DATA[nome.lower()]
+                elif tvg_id and tvg_id.lower() in EPG_DATA:
+                    epg_info = EPG_DATA[tvg_id.lower()]
+
+                canais.append({
+                    "nome": nome,
+                    "url": url,
+                    "grupo": grupo,
+                    "tvg-id": epg_info.get("tvg-id", tvg_id),
+                    "tvg-name": epg_info.get("tvg-name", tvg_name or nome),
+                    "tvg-logo": epg_info.get("tvg-logo", tvg_logo)
+                })
 
             nome, grupo, url, tvg_id, tvg_name, tvg_logo = "", "", "", "", "", ""
 
