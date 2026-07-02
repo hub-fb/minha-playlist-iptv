@@ -26,7 +26,8 @@ def processar_fonte(fonte, urls_adicionadas):
         if fonte["tipo"] == "m3u":
             canais = ler_playlist(conteudo)
         else:
-            canais = ler_json(conteudo)
+            # Passa a origem (URL) para que o parser saiba que é o JSON do Brasil
+            canais = ler_json(conteudo, origem=fonte["url"])
 
         for canal in canais:
             url = canal.get("url", "").strip()
@@ -36,9 +37,12 @@ def processar_fonte(fonte, urls_adicionadas):
             urls_adicionadas.add(url)
             grupo = canal.get("grupo", fonte.get("categoria", "Sem Categoria"))
             nome_canal = canal.get("nome", "Sem Nome")
+            tvg_id = canal.get("tvg-id", "")
+            tvg_name = canal.get("tvg-name", nome_canal)
+            tvg_logo = canal.get("tvg-logo", "")
 
             canais_adicionados.append(
-                f'#EXTINF:-1 group-title="{grupo}",{nome_canal}\n{url}'
+                f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{tvg_name}" tvg-logo="{tvg_logo}" group-title="{grupo}",{nome_canal}\n{url}'
             )
 
         print(f"{len(canais_adicionados)} canais adicionados de {fonte['nome']}.")
