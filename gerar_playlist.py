@@ -65,7 +65,11 @@ for fonte in dados["fontes"]:
 
             grupo = canal.get("grupo", "OUTROS").upper()
 
-            if grupo == "BR":
+            # AGRUPAMENTO CORRETO IPTV-ORG BRASIL + PLUTO
+            if fonte["nome"] in ("IPTV-org Brasil", "IPTV-org Pluto Brasil"):
+                grupo = "BRAZIL"
+
+            elif grupo == "BR":
                 grupo = "BRAZIL"
 
             linha = (
