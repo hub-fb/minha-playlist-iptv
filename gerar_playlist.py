@@ -65,7 +65,7 @@ for fonte in dados["fontes"]:
 
             grupo = canal.get("grupo", "OUTROS").upper()
 
-            if grupo == "BR":
+            if grupo == ("BR", "BRAZIL", "PLUTO TV"):
                 grupo = "BRAZIL"
 
             linha = (
