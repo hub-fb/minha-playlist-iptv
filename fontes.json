@@ -32,6 +32,22 @@
             "ativa": true,
             "prioridade": 70,
             "categoria": "Brasil"
-        }
+        },
+        {
+    "nome": "IPTV-org Pluto Brasil",
+    "tipo": "m3u",
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/br_pluto.m3u",
+    "ativa": true,
+    "prioridade": 60,
+    "categoria": "Brasil"
+},
+{
+    "nome": "IPTV-org Brasil",
+    "tipo": "m3u",
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/br.m3u",
+    "ativa": true,
+    "prioridade": 50,
+    "categoria": "Brasil"
+}
     ]
 }
