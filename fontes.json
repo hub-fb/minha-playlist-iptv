@@ -10,27 +10,11 @@
             "categoria": "Brasil"
         },
         {
-            "nome": "Helen Fernanda",
+            "nome": "IPTV-org Brasil",
             "tipo": "m3u",
-            "url": "https://raw.githubusercontent.com/helenfernanda/gratis/main/iptvlegal.m3u",
+            "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/br.m3u",
             "ativa": true,
             "prioridade": 90,
-            "categoria": "Brasil"
-        },
-        {
-            "nome": "Free-TV",
-            "tipo": "m3u",
-            "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
-            "ativa": true,
-            "prioridade": 80,
-            "categoria": "Internacional"
-        },
-        {
-            "nome": "Ramys BR01",
-            "tipo": "m3u",
-            "url": "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/master/CanaisBR01.m3u8",
-            "ativa": true,
-            "prioridade": 70,
             "categoria": "Brasil"
         },
         {
@@ -38,13 +22,28 @@
             "tipo": "m3u",
             "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/br_pluto.m3u",
             "ativa": true,
-            "prioridade": 60,
+            "prioridade": 80,
             "categoria": "Brasil"
         },
         {
-            "nome": "IPTV-org Brasil",
+            "nome": "Free-TV",
             "tipo": "m3u",
-            "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/br.m3u",
+            "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
+            "ativa": true,
+            "prioridade": 70,
+            "categoria": "Internacional"
+        },
+        {
+            "nome": "Helen Fernanda",
+            "tipo": "m3u",
+            "url": "https://raw.githubusercontent.com/helenfernanda/gratis/main/iptvlegal.m3u",
+            "ativa": true,
+            "prioridade": 60,
+        },  "categoria": "Brasil"
+        {
+            "nome": "Ramys BR01",
+            "tipo": "m3u",
+            "url": "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/master/CanaisBR01.m3u8",
             "ativa": true,
             "prioridade": 50,
             "categoria": "Brasil"
