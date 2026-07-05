@@ -13,7 +13,22 @@ print("=" * 60)
 with open("fontes.json", "r", encoding="utf-8") as arquivo:
     dados = json.load(arquivo)
 
-playlist = ["#EXTM3U"]
+# Carrega EPGs
+epgs = []
+
+try:
+    with open("epgs.txt", "r", encoding="utf-8") as arquivo:
+        for linha in arquivo:
+            linha = linha.strip()
+            if linha and not linha.startswith("#"):
+                epgs.append(linha)
+except FileNotFoundError:
+    pass
+
+if epgs:
+    playlist = [f'#EXTM3U url-tvg="{",".join(epgs)}"']
+else:
+    playlist = ["#EXTM3U"]
 
 urls_vistas = set()
 total = 0
