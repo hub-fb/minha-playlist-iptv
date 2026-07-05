@@ -30,6 +30,9 @@ if epgs:
 else:
     playlist = ["#EXTM3U"]
 
+# Armazena todos os canais para ordenação
+todos_os_canais = []
+
 urls_vistas = set()
 total = 0
 
@@ -78,7 +81,8 @@ for fonte in dados["fontes"]:
 
             urls_vistas.add(url)
 
-            grupo = canal.get("grupo", "OUTROS").upper()
+            # Limpa espaços em branco e padroniza em maiúsculas
+            grupo = canal.get("grupo", "OUTROS").strip().upper()
 
             # AGRUPAMENTO CORRETO IPTV-ORG BRASIL + PLUTO
             if fonte["nome"] in ("IPTV-org Brasil", "IPTV-org Pluto Brasil"):
@@ -96,8 +100,13 @@ for fonte in dados["fontes"]:
                 f'{canal.get("nome","Sem Nome")}'
             )
 
-            playlist.append(linha)
-            playlist.append(url)
+            # Armazena os dados estruturados para posterior ordenação profissional
+            todos_os_canais.append({
+                "grupo": grupo,
+                "nome": canal.get("nome", ""),
+                "url": url,
+                "linha": linha
+            })
 
             adicionados += 1
 
@@ -108,6 +117,22 @@ for fonte in dados["fontes"]:
     except Exception as erro:
 
         print(f"Erro em {fonte['nome']}: {erro}")
+
+# ==========================================
+# Ordena os canais (BRAZIL primeiro, remove espaços)
+# ==========================================
+todos_os_canais.sort(
+    key=lambda c: (
+        0 if c["grupo"] == "BRAZIL" else 1,
+        c["grupo"],
+        c["nome"].strip().casefold(),
+        c["url"]
+    )
+)
+
+for canal in todos_os_canais:
+    playlist.append(canal["linha"])
+    playlist.append(canal["url"])
 
 # Salva playlist
 with open("ListaIPTV.m3u", "w", encoding="utf-8") as arquivo:
