@@ -1,5 +1,0 @@
-https://raw.githubusercontent.com/famelack/famelack-data/main/tv/raw/countries/br.json
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/br.m3u
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/br_pluto.m3u
-https://raw.githubusercontent.com/helenfernanda/gratis/main/iptvlegal.m3u
-https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
