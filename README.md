@@ -1,4 +1,4 @@
-# Bassetti IPTV Hub
+# IPTV Hub
 
 Projeto para consolidação automática de playlists IPTV públicas.
 
