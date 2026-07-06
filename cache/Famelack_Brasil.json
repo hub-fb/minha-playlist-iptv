@@ -301,20 +301,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DqexB6yaP4LscU",
-    "name": "CNN Brasil",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/4MJO1j4Fk3s"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UgU49sPYs4BxYb",
     "name": "ConecTV Brasil",
     "sources": {
@@ -376,6 +362,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/GhWw4JYa0cM"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uBGBZ1tmmDfH55",
+    "name": "Elemental Channel",
+    "sources": {
+      "streams": [
+        "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8"
       ]
     },
     "languages": [
@@ -553,20 +553,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Kqr3JHbCw7DAtR",
-    "name": "ISTV",
-    "sources": {
-      "streams": [
-        "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "j2PNx5Xg25mTJj",
     "name": "KpopTV Play",
     "sources": {
@@ -642,7 +628,7 @@
     "name": "NickOnline",
     "sources": {
       "streams": [
-        "https://x1co.com.br/hls/stream.m3u8"
+        "https://x1colegal.com/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -708,11 +694,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TTOE5JAF2dsOwo",
+    "name": "O Dia TV",
+    "sources": {
+      "streams": [
+        "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2SkwDt1DzEdQq9",
     "name": "Peppa Pig Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/26arDQNmvt8"
+        "https://www.youtube-nocookie.com/embed/FYwlDNjPZoQ"
       ]
     },
     "languages": [
@@ -963,18 +963,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kgLIBciurHYpOo",
-    "name": "Slime",
-    "sources": {
-      "streams": [
-        "https://slime.x1co.com.br/hls/stream.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LLNkgpUxL9eFFQ",
     "name": "SOU TV",
     "sources": {
@@ -1101,39 +1089,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YT6xhGpFtzQ7eS",
-    "name": "TV Alternativa",
-    "sources": {
-      "streams": [
-        "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sDQABoW0Q83Dxf",
     "name": "TV Aparecida",
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/4CAmwaFJo6k"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qIar6axvqjptwG",
-    "name": "TV Assembleia Minas Gerais",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/zNIaFK0LhQ4"
       ]
     },
     "languages": [
@@ -1149,6 +1109,20 @@
       "streams": [
         "https://tvbrasil-stream.ebc.com.br/index.m3u8",
         "https://lbgo.bozztv.com/ssh101/ssh101/unitvms/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2bhXPviPJO5yGg",
+    "name": "TV Brasil Oeste",
+    "sources": {
+      "streams": [
+        "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1264,20 +1238,6 @@
     "sources": {
       "streams": [
         "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gmhCmWMyVhRnQj",
-    "name": "TV Comunitaria",
-    "sources": {
-      "streams": [
-        "https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR="
       ]
     },
     "languages": [
@@ -1587,20 +1547,6 @@
     "sources": {
       "streams": [
         "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AOrzbD7QEj8vaf",
-    "name": "TV Sim Cachoeiro",
-    "sources": {
-      "streams": [
-        "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
       ]
     },
     "languages": [
