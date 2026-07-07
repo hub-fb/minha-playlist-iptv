@@ -40,6 +40,14 @@
             "ativa": true,
             "prioridade": 60,
             "categoria": "Brasil"
+        },
+        {
+            "nome": "hub-fb",
+            "tipo": "m3u",
+            "url": "https://raw.githubusercontent.com/hub-fb/minha-playlist-iptv/refs/heads/main/CanaisBR.m3u",
+            "ativa": true,
+            "prioridade": 55,
+            "categoria": "Brasil"
         }
     ]
 }
