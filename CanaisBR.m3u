@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-br.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
-
-#EXTINF:-1 tvg-id="" tvg-name="4Fun TV" tvg-logo="https://cdn.fbsbx.com/v/t65.102178-21/740486505_1556062966048126_5427866752790121381_n.jpg/bassetti_iptv_logo_cutout.png?_nc_ht=cdn.fbsbx.com&_nc_ohc=XJLfmiORTEkQ7kNvwGkPp5w&sdl=0&ccb=14-4&oh=00_AQB1NNPqtLX5jW7-hHmtCCvPjk6Xi96Fx3R9OF5mzY8AVw&oe=6A4F4083&_nc_sid=4ee932" group-title="BRAZIL", 4Fun TV
+#EXTINF:-1 tvg-id="" tvg-name="4Fun TV" tvg-logo="https://www.meta.ai/share/a/2cc40515-6b82-40b8-84c3-b2561542ddce" group-title="BRAZIL", 4Fun TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4FUN TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL", 4FUN TV
 https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
