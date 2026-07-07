@@ -1,9 +1,6 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-br.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
-
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-br.xml.gz, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
 #EXTINF:-1 tvg-id="" tvg-name="4Fun TV" tvg-logo="https://cdn.fbsbx.com/v/t65.102178-21/740486505_1556062966048126_5427866752790121381_n.jpg/bassetti_iptv_logo_cutout.png?_nc_ht=cdn.fbsbx.com&_nc_ohc=XJLfmiORTEkQ7kNvwGkPp5w&sdl=0&ccb=14-4&oh=00_AQB1NNPqtLX5jW7-hHmtCCvPjk6Xi96Fx3R9OF5mzY8AVw&oe=6A4F4083&_nc_sid=4ee932" group-title="BRAZIL", 4Fun TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="4FUN TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL", 4FUN TV
-https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="538" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL", 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A FOLHA" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL", A FOLHA
@@ -363,71 +360,71 @@ https://664398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.igrejauniversal.pt/wp-content/uploads/2024/05/universal_logo.webp" group-title="BRAZIL",[10.1] TV Templo | Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVBrasilCentral.br" tvg-logo="https://i.imgur.com/V9jVgsc.png" group-title="SoulTV",[02.7] Brasil Central | Goias
+#EXTINF:-1 tvg-id="TVBrasilCentral.br" tvg-logo="https://i.imgur.com/V9jVgsc.png" group-title="BRAZIL",[02.7] Brasil Central | Goias
 https://tbc.zoeweb.tv/tbc/tbc/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LLOjkCJ.png" group-title="SoulTV",[TV] Clouding TV 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LLOjkCJ.png" group-title="BRAZIL",[TV] Clouding TV 2
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/294/img_background_image_all.jpg" group-title="SoulTV",[TV] CNN Money | SoulTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/294/img_background_image_all.jpg" group-title="BRAZIL",[TV] CNN Money | SoulTV
 https://video03.logicahost.com.br/cnnmoney/cnnmoney/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/218/218_img_bg_image_1280x720_big.jpg" group-title="SoulTV",[TV] Tv Meio Norte | SoulTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/218/218_img_bg_image_1280x720_big.jpg" group-title="BRAZIL",[TV] Tv Meio Norte | SoulTV
 https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_istv_png.png" group-title="SoulTV",[TV] IS Tv | SoulTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_istv_png.png" group-title="BRAZIL",[TV] IS Tv | SoulTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/305/img_background_image_all.jpg" group-title="SoulTV",[TV] Noticias Agricolas | SoulTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/305/img_background_image_all.jpg" group-title="BRAZIL",[TV] Noticias Agricolas | SoulTV
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/304/img_v2_background_image_all.jpg" group-title="SoulTV",[TV] Canal 25 | SoulTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/304/img_v2_background_image_all.jpg" group-title="BRAZIL",[TV] Canal 25 | SoulTV
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/303/img_background_image_all.jpg" group-title="SoulTV",[TV] Vam Bora | SoulTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/303/img_background_image_all.jpg" group-title="BRAZIL",[TV] Vam Bora | SoulTV
 https://video07.logicahost.com.br/vamborachannel/vamborachannel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/302/img_background_image_all.jpg" group-title="SoulTV",[TV] VGS Tv | SoulTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/302/img_background_image_all.jpg" group-title="BRAZIL",[TV] VGS Tv | SoulTV
 https://isaocorp.cloudecast.com/vgstv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dy9Dkh2.png" group-title="SoulTV",[TV] CNBC | Indonesia | SoulTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dy9Dkh2.png" group-title="BRAZIL",[TV] CNBC | Indonesia | SoulTV
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/296/img_background_image_all.jpg" group-title="SoulTV",[TV] TV Historia | SoulTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/296/img_background_image_all.jpg" group-title="BRAZIL",[TV] TV Historia | SoulTV
 https://srv1.zcast.com.br/tvhistoria/tvhistoria/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/105/105_img_bg_image_1280x720_big.jpg" group-title="SoulTV",[TV] Sonata | SoulTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/105/105_img_bg_image_1280x720_big.jpg" group-title="BRAZIL",[TV] Sonata | SoulTV
 https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/34/34_img_bg_image_1280x720_big.jpg" group-title="SoulTV",[TV] UMiss TV | SoulTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/34/34_img_bg_image_1280x720_big.jpg" group-title="BRAZIL",[TV] UMiss TV | SoulTV
 https://test-soultvex.akamaized.net/umiss/umiss/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SamsungTv",Master Chef Brasil | SamsungTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",Master Chef Brasil | SamsungTv
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SamsungTv",Fuel Tv | SamsungTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",Fuel Tv | SamsungTv
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SamsungTv",Movie Sphere | SamsungTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",Movie Sphere | SamsungTv
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SamsungTv",Sony One Classics | SamsungTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",Sony One Classics | SamsungTv
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SamsungTv",As pessoas são incríveis | SamsungTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",As pessoas são incríveis | SamsungTv
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SamsungTv",apenas para rir GAGS | SamsungTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",apenas para rir GAGS | SamsungTv
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SamsungTv",FailArmy | SamsungTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",FailArmy | SamsungTv
 https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SamsungTv",The Pet Collective | SamsungTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",The Pet Collective | SamsungTv
 https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SamsungTv",WeatherSpy 1 | SamsungTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",WeatherSpy 1 | SamsungTv
 https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SamsungTv",WeatherSpy 2 | SamsungTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",WeatherSpy 2 | SamsungTv
 https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SamsungTv",Revry Brasil | SamsungTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",Revry Brasil | SamsungTv
 https://dletvjdknba4f.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SamsungTv",Qwest TV Mix | SamsungTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",Qwest TV Mix | SamsungTv
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SamsungTv",Novo Kpop 1 | SamsungTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",Novo Kpop 1 | SamsungTv
 https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SamsungTv",Novo Kpop 2 | SamsungTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",Novo Kpop 2 | SamsungTv
 https://newidco-newkid-1-mx.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SamsungTv",Novo Kpop 3 | SamsungTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",Novo Kpop 3 | SamsungTv
 https://newidco-newkid-1-ca.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="SamsungTv",Tv Aracati
+#EXTINF:-1 tvg-id="" group-title="BRAZIL",Tv Aracati
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SamsungTv",Reproduzir TV | SamsungTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",Reproduzir TV | SamsungTv
 https://isaocorp.cloudecast.com/playtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SamsungTv",Redação REGIONAL FM | SamsungTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",Redação FM | SamsungTv
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.buscaradio.com.br/arquivos/radios/49/155/logo/49155.jpg" group-title="SamsungTv",REGIONAL FM (102,3MHz) | SamsungTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.buscaradio.com.br/arquivos/radios/49/155/logo/49155.jpg" group-title="BRAZIL",REGIONAL FM | FM 102.3 Mhz
 http://stream.zeno.fm/auauo2vfekltv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SamsungTv",Fox Kids | SamsungTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",Fox Kids | SamsungTv
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SamsungTv",XtremeTV | SamsungTv
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",XtremeTV | SamsungTv
 https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
