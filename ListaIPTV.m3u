@@ -201,6 +201,12 @@ https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
 https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ElyTV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",ElyTV
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN.br@SD" tvg-name="ESPN (1080p)" tvg-logo="" group-title="BRAZIL",ESPN (1080p)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3.br@SD" tvg-name="ESPN 3 (720p)" tvg-logo="" group-title="BRAZIL",ESPN 3 (720p)
+http://181.78.197.59:8000/play/a081/index.m3u8
+#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-name="ESPN 4 (1080p)" tvg-logo="" group-title="BRAZIL",ESPN 4 (1080p)
+http://181.78.197.59:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="656e2a81954b020008ed17a4" tvg-name="Estado Paranormal" tvg-logo="https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG_1732041604478.png" group-title="BRAZIL",Estado Paranormal
 https://jmp2.uk/plu-656e2a81954b020008ed17a4.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr@SD" tvg-name="Euronews Portuguese (720p)" tvg-logo="" group-title="BRAZIL",Euronews Portuguese (720p)
