@@ -301,6 +301,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DqexB6yaP4LscU",
+    "name": "CNN Brasil",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/-n0-qpWXkQw"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UgU49sPYs4BxYb",
     "name": "ConecTV Brasil",
     "sources": {
@@ -553,15 +567,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j2PNx5Xg25mTJj",
-    "name": "KpopTV Play",
+    "nanoid": "Kqr3JHbCw7DAtR",
+    "name": "ISTV",
     "sources": {
       "streams": [
-        "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+        "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
       ]
     },
     "languages": [
-      "kor",
       "por"
     ],
     "country": "br",
@@ -652,20 +665,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OpSrCbImNuNiXk",
-    "name": "Novo Tempo",
-    "sources": {
-      "streams": [
-        "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kuBm514WWhIzx5",
     "name": "NTV",
     "sources": {
@@ -680,39 +679,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cjEG8uZCZ337nx",
-    "name": "Nuevo Tiempo",
-    "sources": {
-      "streams": [
-        "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TTOE5JAF2dsOwo",
     "name": "O Dia TV",
     "sources": {
       "streams": [
         "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2SkwDt1DzEdQq9",
-    "name": "Peppa Pig Brasil",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/FYwlDNjPZoQ"
       ]
     },
     "languages": [
@@ -799,7 +770,7 @@
         "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/KMtS9kMYRTE"
+        "https://www.youtube-nocookie.com/embed/vhpkOKPDPqY"
       ]
     },
     "languages": [
@@ -963,6 +934,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wQwzJWldq22ymG",
+    "name": "SIC TV",
+    "sources": {
+      "streams": [
+        "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LLNkgpUxL9eFFQ",
     "name": "SOU TV",
     "sources": {
@@ -1089,11 +1074,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YT6xhGpFtzQ7eS",
+    "name": "TV Alternativa",
+    "sources": {
+      "streams": [
+        "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sDQABoW0Q83Dxf",
     "name": "TV Aparecida",
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/4CAmwaFJo6k"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qIar6axvqjptwG",
+    "name": "TV Assembleia Minas Gerais",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/vZNAuGbwQYk"
       ]
     },
     "languages": [
@@ -1420,7 +1433,7 @@
     "name": "TV Nordestina",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/WU1As0FjPlE"
+        "https://www.youtube-nocookie.com/embed/cH_TsN9_urY"
       ]
     },
     "languages": [
@@ -1434,7 +1447,7 @@
     "name": "TV Notícia",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/bF0-XPU_yTY"
+        "https://www.youtube-nocookie.com/embed/sMnep9zq9II"
       ]
     },
     "languages": [
@@ -1556,11 +1569,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AOrzbD7QEj8vaf",
+    "name": "TV Sim Cachoeiro",
+    "sources": {
+      "streams": [
+        "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "26hxUXThjWRyJw",
     "name": "TV Sim Sao Mateus",
     "sources": {
       "streams": [
         "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3SFbEQ5XiHL1nO",
+    "name": "TV Sul Bahia",
+    "sources": {
+      "streams": [
+        "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
       ]
     },
     "languages": [
