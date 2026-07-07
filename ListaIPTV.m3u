@@ -1,10 +1,76 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-br.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
 #EXTINF:-1 tvg-id="1001Noites.br@SD" tvg-name="1001 Noites (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",1001 Noites (720p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4FUN TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",4FUN TV
+https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="538" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",538
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="BR - TV Brasil" tvg-logo="https://iptv-epg.org/images/nkMmDpfmwLfPJafOYbhSCCwe05CiXYdKMJtcO2oCwM62oBkKr1pv-bZoe8BoQ-vutfd6_UDx-sfoBUe2FYJyo_Q5nRhZR-JIOgm3Ey1jthrI" group-title="BRAZIL",[01.0] TV Brasil | SC
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSaude.br" tvg-name="[01.5] Canal Saude" tvg-logo="https://eitv7.cdn.broadpeak.io/account351-i1495/portal-logo-1715282293.png" group-title="BRAZIL",[01.5] Canal Saude
+https://eitv2.cdn.broadpeak.io/account351-i1495/event/canalsaude/auto.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="[02.2] Cultura | RTV CANAL 38" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="BRAZIL",[02.2] Cultura | RTV CANAL 38
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="[02.4] Cultura | PA" tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="BRAZIL",[02.4] Cultura | PA
+https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="[04.5] SBT | PA | TV Guajara" tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp" group-title="BRAZIL",[04.5] SBT | PA | TV Guajara
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[06.0] RBI TV FHD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/436aee19fbd372235b2bfa131457f32c.webp" group-title="BRAZIL",[06.0] RBI TV FHD
+https://live-ak.vimeocdn.com/exp=1742963882~acl=%2F23e940d1-81dd-492d-ae89-f64089affa15_fmp4%2F%2A~hmac=a8d9126ad1f93d050b35b4ded2232fe93c5f3a08775ae23ee2a13f2598a0f6b0/23e940d1-81dd-492d-ae89-f64089affa15_fmp4/chunklist_b56000_cmaf_a.m3u8?_HLS_skip=YES
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="[07.1] RecordTV | MT 1 | TV Juina" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="BRAZIL",[07.1] RecordTV | MT 1 | TV Juina
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="[07.2] RecordTV | MT 2 | TV Juara" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="BRAZIL",[07.2] RecordTV | MT 2 | TV Juara
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="[07.3] RecordTV | MT 3 | TV Vila Real" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="BRAZIL",[07.3] RecordTV | MT 3 | TV Vila Real
+https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="[07.6] Record News | Link 2" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="BRAZIL",[07.6] Record News | Link 2
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="[07.7] Record News | SoulTV" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="BRAZIL",[07.7] Record News | SoulTV
+https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[10.0] TV Templo | Universal" tvg-logo="https://www.igrejauniversal.pt/wp-content/uploads/2024/05/universal_logo.webp" group-title="BRAZIL",[10.0] TV Templo | Universal
+https://664398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Band.br" tvg-name="[13.0] Band TV | PA | RBA TV | Link 1" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="BRAZIL",[13.0] Band TV | PA | RBA TV | Link 1
+https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[17.0] TV A Critica 1 | Barueri | SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_da_TV_A_Critica.png?20231216192446" group-title="BRAZIL",[17.0] TV A Critica 1 | Barueri | SP
+https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[25.1] TV Pai Eterno WEB" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="BRAZIL",[25.1] TV Pai Eterno WEB
+https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="BR - TV Aparecida" tvg-logo="https://iptv-epg.org/images/kYT6RRrdTnnihZU7AYqoa8_cAQifZoENzKSNOLu5Qv3KCEj1B81PY2H6xvBNFNLh-U6SDlao72P8bBF44ZWNegXukBye4Deo67Mcy8h3mnaBtQ3B" group-title="BRAZIL",[41.2] TV Aparecida | 3
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[41.4] TV Imaculada 1 | MT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LOGO_TV_2019.png/200px-LOGO_TV_2019.png" group-title="BRAZIL",[41.4] TV Imaculada 1 | MT
+https://5cf4a2c2512a2.streamlock.net/sjbcampinas/sjbcampinas/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[41.5] TV Imaculada 2 | MT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LOGO_TV_2019.png/200px-LOGO_TV_2019.png" group-title="BRAZIL",[41.5] TV Imaculada 2 | MT
+https://caikron.com.br:19360/tvmi/tvmi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[53.3] Rede Gospel 2" tvg-logo="https://i.imgur.com/H6oHlis.pngRede Gospel" group-title="BRAZIL",[53.3] Rede Gospel 2
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[53.4] Rede Gospel | Music" tvg-logo="https://i.imgur.com/H6oHlis.pngRede Gospel" group-title="BRAZIL",[53.4] Rede Gospel | Music
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[58.0] Rede Século 21" tvg-logo="https://back.ww-cdn.com/superstatic/version/1821384/iphone/1021/photo/navBar_titleImage@2x.png?v=1714055001" group-title="BRAZIL",[58.0] Rede Século 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[59.3] Nossa TV - WebTV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",[59.3] Nossa TV - WebTV
+https://video01.logicahost.com.br/canal09/canal09/chunklist_w1608560800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[59.6] CANAL RICOS" tvg-logo="https://www.canalricos.com.br/public/89592-2024-02-20.png" group-title="BRAZIL",[59.6] CANAL RICOS
+https://a.cdni.live/tvcanalricos/tvcanalricos/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[59.7] Canal 10" tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/458/2023/11/logoCanalDez-1.png" group-title="BRAZIL",[59.7] Canal 10
+https://canaldez.acessaradios.com.br/canaldez/canaldez/chunklist_w2041611527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[60.4] Q Tal? Channel" tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/145/2023/08/IMG-20230118-WA0076-e1692189250896.jpg" group-title="BRAZIL",[60.4] Q Tal? Channel
+https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[60.6] Rede UTV 2 | SoulTV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",[60.6] Rede UTV 2 | SoulTV
+https://utvsoultv.acessaRADIOS.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[60.9] Rede QDM" tvg-logo="https://redeitv.com.br/wp-content/uploads/jet-engine-forms/145/2023/08/IMG-20230328-WA0040-e1692190261211.jpg" group-title="BRAZIL",[60.9] Rede QDM
+https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[70.1] Rede Familia | Americana" tvg-logo="https://s3minio.webativa.com.br/redeitv/thumb-redefamilia.png" group-title="BRAZIL",[70.1] Rede Familia | Americana
+https://tv03.zas.media:1936/rftv/rftv/chunklist_w1114950277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[70.4] Rede Smart" tvg-logo="https://redesmartplay.com/imagens/logo.png" group-title="BRAZIL",[70.4] Rede Smart
+https://5ffab78b24f94.streamlock.net/smart/smart/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[70.5] TV Mão Amiga" tvg-logo="https://www.tvmaoamiga.com.br/wp-content/uploads/sites/25/2022/01/logotipo.png" group-title="BRAZIL",[70.5] TV Mão Amiga
+https://tv02.zas.media:1936/redemaoamiga/redemaoamiga/chunklist_w58663761.m3u8
 #EXTINF:-1 tvg-id="67e59a6557487a8b7fe73e23" tvg-name="A Caçadora de Relíquias" tvg-logo="https://images.pluto.tv/channels/67e59a6557487a8b7fe73e23/colorLogoPNG_1745618050777.png" group-title="BRAZIL",A Caçadora de Relíquias
 https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8
 #EXTINF:-1 tvg-id="631fa8dd7f25240007099a40" tvg-name="A Feiticeira" tvg-logo="https://images.pluto.tv/channels/631fa8dd7f25240007099a40/colorLogoPNG.png" group-title="BRAZIL",A Feiticeira
 https://jmp2.uk/plu-631fa8dd7f25240007099a40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A7 CALDAS NOVAS" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",A7 CALDAS NOVAS
+https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 #EXTINF:-1 tvg-id="656e2a4b4261ca00083aa99e" tvg-name="Acumuladores Obsessivos" tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png" group-title="BRAZIL",Acumuladores Obsessivos
 https://jmp2.uk/plu-656e2a4b4261ca00083aa99e.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br@SD" tvg-name="Adesso TV (720p)" tvg-logo="" group-title="BRAZIL",Adesso TV (720p)
@@ -23,16 +89,24 @@ https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
 https://ice.fabricahost.com.br/alphafm1021
 #EXTINF:-1 tvg-id="" tvg-name="Amazon Sat" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anime TV - WebTV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Anime TV - WebTV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aracati" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Aracati
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Araruna TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aratu On" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Aratu On
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Arte1.br@SD" tvg-name="Arte 1 (1080p)" tvg-logo="" group-title="BRAZIL",Arte 1 (1080p)
 http://143.14.178.40:7777/Arte_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="ARTV" tvg-name="ARTV Canal Parlamento | Portugal" tvg-logo="https://i.imgur.com/UaQXbL1.png" group-title="BRAZIL",ARTV Canal Parlamento | Portugal
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/master.m3u8
 #EXTINF:-1 tvg-id="AsTartarugasNinja.us@BR" tvg-name="As Tartarugas Ninja (720p)" tvg-logo="" group-title="BRAZIL",As Tartarugas Ninja (720p)
 https://jmp2.uk/plu-63dd5c904e83e700088fb68a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Assembleia Maceio" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Assembleia Maceio
+https://5c483b9d1019c.streamlock.net/staffvideotv/staffvideotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Assim é Portugal | Brasil" tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png" group-title="BRAZIL",Assim é Portugal | Brasil
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
 #EXTINF:-1 tvg-id="620d1512c7986a0007220213" tvg-name="Assombrações" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="BRAZIL",Assombrações
@@ -71,6 +145,8 @@ https://jmp2.uk/plu-633dc392e0282400071b0d39.m3u8
 http://143.14.178.40:7777/BIS_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Blitstv" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Blitstv
 https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
+#EXTINF:-1 tvg-id="INBA5100021WP" tvg-name="Bloomberg TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100021WP_20260623T011902SQUARE.png" group-title="BRAZIL",Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-id="BMCNews.br@SD" tvg-name="BM&C News (720p)" tvg-logo="" group-title="BRAZIL",BM&C News (720p)
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 #EXTINF:-1 tvg-id="BoasNovas.br@SD" tvg-name="Boas Novas (1080p)" tvg-logo="" group-title="BRAZIL",Boas Novas (1080p)
@@ -81,6 +157,8 @@ https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 https://jmp2.uk/plu-656f389c3944b60008e5bdab.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BR8 TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",BR8 TV
 https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brusque (SC)" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Brusque (SC)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 tvg-id="CaboFrioTV.br@SD" tvg-name="Cabo Frio TV (720p)" tvg-logo="" group-title="BRAZIL",Cabo Frio TV (720p)
 https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 25 Jundiai" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Canal 25 Jundiai
@@ -97,6 +175,8 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Educacao" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Canal Educacao
 https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Extremadura" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Canal Extremadura
+https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal FDR" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Canal FDR
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Gov" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Canal Gov
@@ -123,6 +203,12 @@ https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSete.br@SD" tvg-name="Canal Sete" tvg-logo="" group-title="BRAZIL",Canal Sete
 http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Candides" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Candides
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Capital TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Capital TV
+https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Carioca | Brasil" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Carioca | Brasil
+https://a.cdni.live/tvcarioca/tvcarioca/playlist.m3u8
 #EXTINF:-1 tvg-id="CatveFM.br@SD" tvg-name="Catve FM (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",Catve FM (720p) [Not 24/7]
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="CatveMasterTV.br@SD" tvg-name="Catve Master TV (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",Catve Master TV (720p) [Not 24/7]
@@ -137,6 +223,10 @@ https://jmp2.uk/plu-656e2a10954b020008ed167c.m3u8
 https://jmp2.uk/plu-62310f66d5888f0007534342.m3u8
 #EXTINF:-1 tvg-id="CentralTVBrasil" tvg-name="Central TV Brasil" tvg-logo="https://i.imgur.com/LNLVIwF.png" group-title="BRAZIL",Central TV Brasil
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 1" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",CHANNEL 1
+https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 1" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Channel 1
+https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="67f9602ee173fa5664fafae8" tvg-name="Charmed: Jovens Bruxas" tvg-logo="https://images.pluto.tv/channels/67f9602ee173fa5664fafae8/colorLogoPNG_1747333127716.png" group-title="BRAZIL",Charmed: Jovens Bruxas
 https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Chroma TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Chroma TV
@@ -147,6 +237,8 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8?ads.vf=grWTpG3NQNi
 #EXTINF:-1 tvg-id="CineMonde" tvg-name="CineMonde | Soul TV Brasil" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="BRAZIL",CineMonde | Soul TV Brasil
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CLASSIQUE TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",CLASSIQUE TV
+https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Classique TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="64e501eec630a900088ed0f8" tvg-name="Clube do Terror" tvg-logo="https://images.pluto.tv/channels/64e501eec630a900088ed0f8/colorLogoPNG.png" group-title="BRAZIL",Clube do Terror
@@ -159,6 +251,8 @@ https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
 https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
 #EXTINF:-1 tvg-id="COMBrasil.br@SD" tvg-name="COM Brasil (1080p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",COM Brasil (1080p) [Not 24/7]
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COM SANTOS" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",COM SANTOS
+https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
 #EXTINF:-1 tvg-id="DEAK3504500A" tvg-name="Comedy Central Pluto TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504500A_20250107T023845SQUARE.png" group-title="BRAZIL",Comedy Central Pluto TV
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 #EXTINF:-1 tvg-id="609ae5cd48d3200007b0a98e" tvg-name="Comedy Central South Park" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG_1764595225705.png" group-title="BRAZIL",Comedy Central South Park
@@ -191,10 +285,16 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Despertar TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Despertar TV
 https://br.conectmy.com.br/DespertarTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Destak - WebTV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Destak - WebTV
+https://video03.logicahost.com.br/pascoal/pascoal/playlist.m3u8
 #EXTINF:-1 tvg-id="638df93ae2f2a3000737c168" tvg-name="Detetives Médicos" tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" group-title="BRAZIL",Detetives Médicos
 https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Diario do Sertao | 2" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Diario do Sertao | 2
+https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
 #EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-name="Diff’rent Strokes Arnold" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="BRAZIL",Diff’rent Strokes Arnold
 https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DJing" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",DJing
+https://www.djing.com/tv/a-28904-04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Elemental Channel" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Elemental Channel
 https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
 #EXTINF:-1 tvg-id="ElementalChannel.br@SD" tvg-name="Elemental Channel (1080p)" tvg-logo="" group-title="BRAZIL",Elemental Channel (1080p)
@@ -217,6 +317,8 @@ https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="Evangelizar TV" tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="BRAZIL",Evangelizar TV
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",EWTN
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="USAJ3504702A" tvg-name="FailArmy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504702A_20240520T215836SQUARE.png" group-title="BRAZIL",FailArmy
 https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fala Litoral" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Fala Litoral
@@ -227,12 +329,20 @@ https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8
 https://jmp2.uk/plu-633dcebd80386500074a2461.m3u8
 #EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-name="Filmes Suspense" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="BRAZIL",Filmes Suspense
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FM O DIA 100.5 - ESTACAO AO VIVO" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",FM O DIA 100.5 - ESTACAO AO VIVO
+https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fonte TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Fonte TV
 https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8
 #EXTINF:-1 tvg-id="FonteTV.br@SD" tvg-name="Fonte TV (1080p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",Fonte TV (1080p) [Not 24/7]
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fora Tedio TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Fora Tedio TV
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Kids (WebTV)" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Fox Kids (WebTV)
+https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GALLO" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",GALLO
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gallo - WebTV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Gallo - WebTV
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ge Fast" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",ge Fast
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 #EXTINF:-1 tvg-id="geFast.br@SD" tvg-name="ge Fast (1080p)" tvg-logo="" group-title="BRAZIL",ge Fast (1080p)
@@ -269,6 +379,8 @@ http://170.82.202.31/GNT/index.m3u8
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gospel Movie TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GuiaTV Pombal" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",GuiaTV Pombal
+https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
 #EXTINF:-1 tvg-id="Homeful.ca@US" tvg-name="Homeful (720p)" tvg-logo="" group-title="BRAZIL",Homeful (720p)
 https://jmp2.uk/plu-67603668f433320008760af1.m3u8
 #EXTINF:-1 tvg-id="US270000585" tvg-name="Hunter x Hunter" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US270000585_20250826T234529SQUARE.png" group-title="BRAZIL",Hunter x Hunter
@@ -285,6 +397,8 @@ https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 #EXTINF:-1 tvg-id="J3NEWSTV.br@SD" tvg-name="J3NEWS TV" tvg-logo="" group-title="BRAZIL",J3NEWS TV
 https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jetsons - Webtv" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Jetsons - Webtv
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:-1 tvg-id="66c790f780a0af0008583aa4" tvg-name="JoJo’s Bizarre Adventure" tvg-logo="https://images.pluto.tv/channels/66c790f780a0af0008583aa4/colorLogoPNG.png" group-title="BRAZIL",JoJo’s Bizarre Adventure
 https://jmp2.uk/plu-66c7982f6838ee00085f0d24.m3u8
 #EXTINF:-1 tvg-id="JornadanasEstrelasANovaGeracao.us@BR" tvg-name="Jornada nas Estrelas A Nova Geração" tvg-logo="" group-title="BRAZIL",Jornada nas Estrelas A Nova Geração
@@ -299,18 +413,28 @@ https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-name="Kenan & Kel" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="BRAZIL",Kenan & Kel
 https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kids Mais" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Kids Mais
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:-1 tvg-id="KpopTVPlay.br@SD" tvg-name="KpopTV Play (576p)" tvg-logo="" group-title="BRAZIL",KpopTV Play (576p)
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KroneHIT" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",KroneHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosCine.pt@SD" tvg-name="Kuriakos Cine (1080p)" tvg-logo="" group-title="BRAZIL",Kuriakos Cine (1080p)
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosKids.pt@SD" tvg-name="Kuriakos Kids (1080p)" tvg-logo="" group-title="BRAZIL",Kuriakos Kids (1080p)
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L!ke" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",L!ke
 https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LFM TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",LFM TV
+https://edge17.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Loading" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Loupe" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Loupe
 https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M2O" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",M2O
+https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maceio (AL)" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Maceio (AL)
+https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
 #EXTINF:-1 tvg-id="63eb95baa99571000898a078" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="BRAZIL",MacGyver
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
 #EXTINF:-1 tvg-id="681111be5e0764e297fb200e" tvg-name="Mais MasterChef Brasil" tvg-logo="https://images.pluto.tv/channels/681111be5e0764e297fb200e/colorLogoPNG_1749582970597.png" group-title="BRAZIL",Mais MasterChef Brasil
@@ -327,6 +451,8 @@ http://143.14.178.40:7777/Megapix_HD/index.m3u8
 https://jmp2.uk/plu-62b5c5a064163d0007b2efe6.m3u8
 #EXTINF:-1 tvg-id="MKKWebTV.br@SD" tvg-name="MKK Web TV (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",MKK Web TV (720p) [Not 24/7]
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mon" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Mon
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 tvg-id="63eba189c111bc0008ff59c5" tvg-name="Moranguinho" tvg-logo="https://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png" group-title="BRAZIL",Moranguinho
 https://jmp2.uk/plu-63eba189c111bc0008ff59c5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Motorvision | Pluto TV Brasil" tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="BRAZIL",Motorvision | Pluto TV Brasil
@@ -415,8 +541,12 @@ https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
 https://jmp2.uk/plu-62052d3b4eeb740007fbe125.m3u8
 #EXTINF:-1 tvg-id="5f5c216df68f920007888315" tvg-name="O Reino Infantil" tvg-logo="https://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="BRAZIL",O Reino Infantil
 https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ocko Star" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Ocko Star
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="63221bafdc6e110007b50270" tvg-name="Oggy e as Baratas Tontas" tvg-logo="https://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png" group-title="BRAZIL",Oggy e as Baratas Tontas
 https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ON FM TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",ON FM TV
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="5ff4b9ccf938f8000779eb99" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png" group-title="BRAZIL",One Piece
 https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Oportunidades TV | full HD" tvg-logo="https://i.imgur.com/iGKvaRc.png" group-title="BRAZIL",Oportunidades TV | full HD
@@ -437,6 +567,8 @@ https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
 http://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Play TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Play TV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PlayTV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",PlayTV
+https://isaocorp.cloudecast.com/playtv/mono.m3u8
 #EXTINF:-1 tvg-id="PlenaTV.br@SD" tvg-name="Plena TV (720p)" tvg-logo="" group-title="BRAZIL",Plena TV (720p)
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Plenitude TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Plenitude TV
@@ -559,8 +691,12 @@ https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
 #EXTINF:-1 tvg-id="677d93afe650a700081e5f18" tvg-name="Popeye" tvg-logo="https://images.pluto.tv/channels/677d93afe650a700081e5f18/colorLogoPNG.png" group-title="BRAZIL",Popeye
 https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PORTAL FOXMIX" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",PORTAL FOXMIX
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 tvg-id="69440d0611f6c6384ab78306" tvg-name="PORTATV" tvg-logo="https://images.pluto.tv/channels/69440d0611f6c6384ab78306/colorLogoPNG_1769608175167.png" group-title="BRAZIL",PORTATV
 https://jmp2.uk/plu-69440d0611f6c6384ab78306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER TV 2" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",POWER TV 2
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PremiereFC1.br@SD" tvg-name="Premiere FC 1" tvg-logo="" group-title="BRAZIL",Premiere FC 1
 https://stm.sinalmycn.com/20000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
 #EXTINF:-1 tvg-id="PremiereFC2.br@SD" tvg-name="Premiere FC 2" tvg-logo="" group-title="BRAZIL",Premiere FC 2
@@ -623,6 +759,8 @@ http://200.77.176.130:8000/udp/224.0.0.4:49152
 https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at@BR" tvg-name="Red Bull TV BR (720p)" tvg-logo="" group-title="BRAZIL",Red Bull TV BR (720p)
 https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDBULL TV 2" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",REDBULL TV 2
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Brasil" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Rede Brasil
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="BR - Rede Brasil" tvg-logo="" group-title="BRAZIL",Rede Brasil
@@ -667,12 +805,22 @@ https://cdn-5.nxplay.com.br/REDE_VIDA/index.m3u8
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 #EXTINF:-1 tvg-id="RedeTVParana.br@SD" tvg-name="RedeTV! Parana" tvg-logo="" group-title="BRAZIL",RedeTV! Parana
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Retro Cartoon" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RIO MADEIRA" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",RIO MADEIRA
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 #EXTINF:-1 tvg-id="RITTV.br@SD" tvg-name="RIT TV (1080p)" tvg-logo="" group-title="BRAZIL",RIT TV (1080p)
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-id="RITTV.br@SD" tvg-name="RIT TV (720p)" tvg-logo="" group-title="BRAZIL",RIT TV (720p)
 https://cdn-5.nxplay.com.br/RIT_TV/index.m3u8
 #EXTINF:-1 tvg-id="GB2100005YU" tvg-name="Rookie Blue" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2100005YU_20250811T172955SQUARE.png" group-title="BRAZIL",Rookie Blue
 https://jmp2.uk/plu-64ff2d8c6625510008c5a512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT Documentary Channel" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",RT Documentary Channel
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT en espaÃ±ol" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",RT en espaÃ±ol
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL (Italia)" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",RTL (Italia)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 tvg-id="RTP 1 HD" tvg-name="RTP 1 | Portugal" tvg-logo="https://i.imgur.com/gsS7Kv5.png" group-title="BRAZIL",RTP 1 | Portugal
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP 3 HD" tvg-name="RTP 3 | Portugal" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="BRAZIL",RTP 3 | Portugal
@@ -687,6 +835,8 @@ https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/estudoemcasa.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP África" tvg-name="RTP África | Portugal" tvg-logo="https://i.imgur.com/vkSRSWQ.png" group-title="BRAZIL",RTP África | Portugal
 https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",RU TV
+https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
 #EXTINF:-1 tvg-id="FRBB50000016B" tvg-name="Runtime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB50000016B_20241030T154324SQUARE.png" group-title="BRAZIL",Runtime
 https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RunTime Ação | Brasil" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="BRAZIL",RunTime Ação | Brasil
@@ -735,14 +885,20 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/master.m3u8
 https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT Ⓨ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="BRAZIL",SBT Ⓨ
 https://www.youtube.com/watch?v=ABVQXgr2LW4
+#EXTINF:-1 tvg-id="" tvg-name="SERIES 1 AS PANTERAS" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",SERIES 1 AS PANTERAS
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
 #EXTINF:-1 tvg-id="SertaoTV.br@SD" tvg-name="Sertão TV (720p)" tvg-logo="" group-title="BRAZIL",Sertão TV (720p)
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br@SD" tvg-name="SESC TV (1080p)" tvg-logo="" group-title="BRAZIL",SESC TV (1080p)
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SETE LAGOAS" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",SETE LAGOAS
+https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SFT Combat (720p)" tvg-logo="" group-title="BRAZIL",SFT Combat (720p)
 https://jmp2.uk/plu-6660b636cb3ea10008429c6a.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SIC TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",SIC TV
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sjid (BA)" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Sjid (BA)
+https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
 #EXTINF:-1 tvg-id="Slime.br@SD" tvg-name="Slime (576p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",Slime (576p) [Not 24/7]
 https://slime.x1co.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-id="63a084934734f30007457b2c" tvg-name="Smithsonian Channel Pluto TV" tvg-logo="https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png" group-title="BRAZIL",Smithsonian Channel Pluto TV
@@ -779,6 +935,10 @@ https://stm.sinalmycn.com/21006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZy
 https://stm.sinalmycn.com/19024/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STZ TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",STZ TV
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUL BAHIA" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",SUL BAHIA
+https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w1711981393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SulBA | Brasil" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",SulBA | Brasil
+https://video05.logicahost.com.br/tvsulba/tvsulba/playlist.m3u8
 #EXTINF:-1 tvg-id="63988c2750108d00072e2686" tvg-name="Super Onze" tvg-logo="https://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="BRAZIL",Super Onze
 https://jmp2.uk/plu-63988c2750108d00072e2686.m3u8
 #EXTINF:-1 tvg-id="TastemadeBrasil.us@Brazil" tvg-name="Tastemade (720p)" tvg-logo="" group-title="BRAZIL",Tastemade (720p)
@@ -821,6 +981,8 @@ https://jmp2.uk/plu-6888ee858f4a4aa11feb9430.m3u8
 https://video03.logicahost.com.br/topmixtv/topmixtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca | Xiaomi" tvg-logo="https://i.imgur.com/453JQfl.png" group-title="BRAZIL",Trace Brazuca | Xiaomi
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSPB" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TSPB
+https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
 #EXTINF:-1 tvg-id="TurmadaMonica.us@Brazil" tvg-name="Turma da Mônica (720p)" tvg-logo="" group-title="BRAZIL",Turma da Mônica (720p)
 https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV A Critica" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV A Critica
@@ -1037,6 +1199,8 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVZoom.br@SD" tvg-name="TV Zoom (720p)" tvg-logo="" group-title="BRAZIL",TV Zoom (720p)
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:-1 tvg-id="IT18000033C" tvg-name="TV5 Monde Info" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT18000033C_20251013T054515SQUARE.png" group-title="BRAZIL",TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVC-Rio" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TVC-Rio
 https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 #EXTINF:-1 tvg-id="TVComunitaria.br@SD" tvg-name="TVCOM DF (360p)" tvg-logo="" group-title="BRAZIL",TVCOM DF (360p)
@@ -1075,14 +1239,26 @@ https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
 #EXTINF:-1 tvg-id="US2900017P2" tvg-name="UFC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900017P2_20260421T143247SQUARE.png" group-title="BRAZIL",UFC
 https://jmp2.uk/plu-69a20556814d27f4ae630a92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFSC" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",UFSC
+https://tvaovivo.sites.ufsc.br/hls/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UMA TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",UMA TV
 https://umatv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Uniao | Brasilia | Brasil" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Uniao | Brasilia | Brasil
+https://live.uniaoplus.com/hls/sqYJRqIsBLTW36TC.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Uniao | Fortaleza | Brasil" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Uniao | Fortaleza | Brasil
+https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Uniao | Natal | Brasil" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Uniao | Natal | Brasil
+https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
 #EXTINF:-1 tvg-id="UniqueSports.br" tvg-name="Unique Sports | SC Brasil" tvg-logo="https://uniquetv.com.br/img/logo-uniquetv.png" group-title="BRAZIL",Unique Sports | SC Brasil
 https://video05.logicahost.com.br/uniquetvsports/uniquetvsports/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unisul TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Unisul TV
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="UNISUL TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",UNISUL TV
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=4792034880553908000
 #EXTINF:-1 tvg-id="UniTVPortoAlegre.br@SD" tvg-name="UniTV Porto Alegre (480p)" tvg-logo="" group-title="BRAZIL",UniTV Porto Alegre (480p)
 http://unitvaovivo.ufrgs.br:8080/live.ogg
+#EXTINF:-1 tvg-id="" tvg-name="Via Morena" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Via Morena
+https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viajando pelo Brasil | Soul TV Brasil" tvg-logo="https://i.imgur.com/x5HC6wy.png" group-title="BRAZIL",Viajando pelo Brasil | Soul TV Brasil
 https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="VitrineEsportiva.br" tvg-name="Vitrine Esporte" tvg-logo="https://i.imgur.com/zKi4iBj.png" group-title="BRAZIL",Vitrine Esporte
@@ -1097,6 +1273,8 @@ http://143.14.178.40:7777/Woohoo_HD/index.m3u8
 https://jmp2.uk/plu-63eba66da8b2270008436b10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WTJ TV | MG Brasil" tvg-logo="https://zettafibra.com.br/wp-content/uploads/2021/06/tvwtjminas.png" group-title="BRAZIL",WTJ TV | MG Brasil
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XTreme" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",XTreme
+https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Xtreme TV" tvg-logo="https://i.imgur.com/VvGaGpj.png" group-title="BRAZIL",Xtreme TV
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 #EXTINF:-1 tvg-id="US1000003G8" tvg-name="Yu-Gi-Oh" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000003G8_20260414T005637SQUARE.png" group-title="BRAZIL",Yu-Gi-Oh
@@ -5647,6 +5825,38 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8
 https://strm.yandex.ru/kal/utv/utv0.m3u8
 #EXTINF:-1 tvg-id="Yakutiya24.ru" tvg-name="Якутия 24" tvg-logo="https://i.imgur.com/2BAQklm.png" group-title="RUSSIA",Якутия 24
 https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="apenas para rir GAGS | SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SAMSUNG TV PLUS",apenas para rir GAGS | SamsungTv
+https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="As pessoas são incríveis | SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SAMSUNG TV PLUS",As pessoas são incríveis | SamsungTv
+https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FailArmy | SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SAMSUNG TV PLUS",FailArmy | SamsungTv
+https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fuel Tv | SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SAMSUNG TV PLUS",Fuel Tv | SamsungTv
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Master Chef Brasil | SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SAMSUNG TV PLUS",Master Chef Brasil | SamsungTv
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movie Sphere | SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SAMSUNG TV PLUS",Movie Sphere | SamsungTv
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="Novo Kpop 1 | SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SAMSUNG TV PLUS",Novo Kpop 1 | SamsungTv
+https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Novo Kpop 2 | SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SAMSUNG TV PLUS",Novo Kpop 2 | SamsungTv
+https://newidco-newkid-1-mx.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Novo Kpop 3 | SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SAMSUNG TV PLUS",Novo Kpop 3 | SamsungTv
+https://newidco-newkid-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Qwest TV Mix | SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SAMSUNG TV PLUS",Qwest TV Mix | SamsungTv
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Redação REGIONAL FM | SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SAMSUNG TV PLUS",Redação REGIONAL FM | SamsungTv
+https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REGIONAL FM (102,3MHz) | SamsungTv" tvg-logo="https://www.buscaradio.com.br/arquivos/radios/49/155/logo/49155.jpg" group-title="SAMSUNG TV PLUS",REGIONAL FM (102,3MHz) | SamsungTv
+http://stream.zeno.fm/auauo2vfekltv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Revry Brasil | SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SAMSUNG TV PLUS",Revry Brasil | SamsungTv
+https://dletvjdknba4f.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony One Classics | SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SAMSUNG TV PLUS",Sony One Classics | SamsungTv
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Pet Collective | SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SAMSUNG TV PLUS",The Pet Collective | SamsungTv
+https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WeatherSpy 2 | SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="SAMSUNG TV PLUS",WeatherSpy 2 | SamsungTv
+https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SanMarinoRTV.sm" tvg-name="San Marino Rtv" tvg-logo="https://i.imgur.com/lJpOlLv.png" group-title="SAN MARINO",San Marino Rtv
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
 #EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" tvg-name="San Marino Rtv Sport" tvg-logo="https://i.imgur.com/PGm944g.png" group-title="SAN MARINO",San Marino Rtv Sport
@@ -5747,6 +5957,26 @@ https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/somc131/playlist.m3u8
 #EXTINF:-1 tvg-id="SomaliNationalTV.so" tvg-name="Somali National TV Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="SOMALIA",Somali National TV Ⓢ
 https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrasilCentral.br" tvg-name="[02.7] Brasil Central | Goias" tvg-logo="https://i.imgur.com/V9jVgsc.png" group-title="SOULTV",[02.7] Brasil Central | Goias
+https://tbc.zoeweb.tv/tbc/tbc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TV] Clouding TV 2" tvg-logo="https://i.imgur.com/LLOjkCJ.png" group-title="SOULTV",[TV] Clouding TV 2
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TV] CNN Money | SoulTV" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/294/img_background_image_all.jpg" group-title="SOULTV",[TV] CNN Money | SoulTV
+https://video03.logicahost.com.br/cnnmoney/cnnmoney/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TV] Noticias Agricolas | SoulTV" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/305/img_background_image_all.jpg" group-title="SOULTV",[TV] Noticias Agricolas | SoulTV
+https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TV] Sonata | SoulTV" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/105/105_img_bg_image_1280x720_big.jpg" group-title="SOULTV",[TV] Sonata | SoulTV
+https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TV] TV Historia | SoulTV" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/296/img_background_image_all.jpg" group-title="SOULTV",[TV] TV Historia | SoulTV
+https://srv1.zcast.com.br/tvhistoria/tvhistoria/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TV] Tv Meio Norte | SoulTV" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/218/218_img_bg_image_1280x720_big.jpg" group-title="SOULTV",[TV] Tv Meio Norte | SoulTV
+https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TV] UMiss TV | SoulTV" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/34/34_img_bg_image_1280x720_big.jpg" group-title="SOULTV",[TV] UMiss TV | SoulTV
+https://test-soultvex.akamaized.net/umiss/umiss/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TV] Vam Bora | SoulTV" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/303/img_background_image_all.jpg" group-title="SOULTV",[TV] Vam Bora | SoulTV
+https://video07.logicahost.com.br/vamborachannel/vamborachannel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[TV] VGS Tv | SoulTV" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/img/web/302/img_background_image_all.jpg" group-title="SOULTV",[TV] VGS Tv | SoulTV
+https://isaocorp.cloudecast.com/vgstv/index.m3u8
 #EXTINF:-1 tvg-id="ESBC4100004J1" tvg-name="24H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20260707T050921SQUARE.png" group-title="SPAIN",24h
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
 #EXTINF:-1 tvg-id="324.es" tvg-name="3/24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/3-24-es.png" group-title="SPAIN",3/24
