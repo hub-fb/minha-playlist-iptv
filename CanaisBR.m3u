@@ -321,7 +321,7 @@ https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/in
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-id="SBT.br" tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp" group-title="BRAZIL",[04.6] SBT | BA | TV Aratu
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
-#EXTINF:-1 tvg-id="SBT.br" tvg-logo="https://www.sbt.com.br/assets/images/logo-sbt.webp" group-title="BRAZIL",[04.5] SBT | PA | TV Guajara
+#EXTINF:-1 tvg-id="SBT.br" tvg-logo="https://logodownload.org/sbt-logo/sbt-logo-2-2/" group-title="BRAZIL",[04.5] SBT | PA | TV Guajara
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 tvg-id="SBT.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5d386500ebc7f1be9d49188de6f44fa5.webp" group-title="BRAZIL",[04.1] SBT | SP | Interior 1
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
@@ -359,7 +359,6 @@ https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
 https://664398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.igrejauniversal.pt/wp-content/uploads/2024/05/universal_logo.webp" group-title="BRAZIL",[10.1] TV Templo | Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVBrasilCentral.br" tvg-logo="https://i.imgur.com/V9jVgsc.png" group-title="BRAZIL",[02.7] Brasil Central | Goias
 https://tbc.zoeweb.tv/tbc/tbc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LLOjkCJ.png" group-title="BRAZIL",[TV] Clouding TV 2
