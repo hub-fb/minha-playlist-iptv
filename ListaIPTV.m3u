@@ -5771,8 +5771,18 @@ https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
 https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8
 #EXTINF:-1 tvg-id="QatarTelevisionTheHolyQuran.qa" tvg-name="Qatar Television The Holy Quran" tvg-logo="https://i.imgur.com/N5RB4sp.png" group-title="QATAR",Qatar Television The Holy Quran
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REGIONAL FM | FM 102.3 Mhz" tvg-logo="https://www.buscaradio.com.br/arquivos/radios/49/155/logo/49155.jpg" group-title="RADIOS",REGIONAL FM | FM 102.3 Mhz
+#EXTINF:-1 tvg-id="" tvg-name="[Radio] REGIONAL FM (102,3MHz)" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp" group-title="RADIOS",[Radio] REGIONAL FM (102,3MHz)
 https://stream.zeno.fm/auauo2vfekltv/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="[Radio] REGIONAL FM (102,3MHz) - live" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp" group-title="RADIOS",[Radio] REGIONAL FM (102,3MHz) - live
+https://stream.zeno.fm/auauo2vfekltv/live
+#EXTINF:-1 tvg-id="" tvg-name="[Radio] REGIONAL FM (102,3MHz) - M3U" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp" group-title="RADIOS",[Radio] REGIONAL FM (102,3MHz) - M3U
+https://stream.zeno.fm/auauo2vfekltv.m3u
+#EXTINF:-1 tvg-id="" tvg-name="[Radio] REGIONAL FM (102,3MHz) - M3U8" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp" group-title="RADIOS",[Radio] REGIONAL FM (102,3MHz) - M3U8
+https://stream.zeno.fm/auauo2vfekltv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[Radio] REGIONAL FM (102,3MHz) - MP3" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp" group-title="RADIOS",[Radio] REGIONAL FM (102,3MHz) - MP3
+https://stream.zeno.fm/auauo2vfekltv/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="[Radio] REGIONAL FM (102,3MHz) Santo Adré SP" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp" group-title="RADIOS",[Radio] REGIONAL FM (102,3MHz) Santo Adré SP
+https://stream.zeno.fm/auauo2vfekltv/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Conflicto TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Conflicto | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2581
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Conflicto TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Conflicto | Galxy TV 2
