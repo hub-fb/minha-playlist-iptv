@@ -422,7 +422,7 @@ https://isaocorp.cloudecast.com/playtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",Redação FM | SamsungTv
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.buscaradio.com.br/arquivos/radios/49/155/logo/49155.jpg" group-title="BRAZIL",REGIONAL FM | FM 102.3 Mhz
-https://stream-177.surfernetwork.com/auauo2vfekltv?
+http://stream.zeno.fm/auauo2vfekltv/m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",Fox Kids | SamsungTv
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",XtremeTV | SamsungTv
