@@ -1,5 +1,20 @@
 [
   {
+    "nanoid": "CtdqbL5wtTjnvo",
+    "name": "AgroCanal",
+    "sources": {
+      "streams": [
+        "https://45.162.64.114/AGRO_CANAL/index.m3u8",
+        "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wjGP3n4DkSPVQ1",
     "name": "Amazon Sat",
     "sources": {
@@ -159,7 +174,8 @@
     "name": "Canal Educacao",
     "sources": {
       "streams": [
-        "https://canaleducacao-stream.ebc.com.br/index.m3u8"
+        "https://canaleducacao-stream.ebc.com.br/index.m3u8",
+        "https://45.162.64.114/CANAL_EDUCACAO/index.m3u8"
       ]
     },
     "languages": [
@@ -174,6 +190,20 @@
     "sources": {
       "streams": [
         "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8yxjHQYdOlErAK",
+    "name": "Canal Futura",
+    "sources": {
+      "streams": [
+        "https://45.162.64.114/FUTURA/index.m3u8"
       ]
     },
     "languages": [
@@ -305,7 +335,21 @@
     "name": "CNN Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/-n0-qpWXkQw"
+        "https://www.youtube-nocookie.com/embed/D6I9bioFHzg"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DNa7AQHZDPi0it",
+    "name": "COM Brasil",
+    "sources": {
+      "streams": [
+        "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8"
       ]
     },
     "languages": [
@@ -581,6 +625,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "j2PNx5Xg25mTJj",
+    "name": "KpopTV Play",
+    "sources": {
+      "streams": [
+        "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor",
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jsKaliNIblEwB9",
     "name": "L!ke",
     "sources": {
@@ -656,6 +715,20 @@
     "sources": {
       "streams": [
         "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OpSrCbImNuNiXk",
+    "name": "Novo Tempo",
+    "sources": {
+      "streams": [
+        "https://45.162.64.114/NOVO_TEMPO/index.m3u8"
       ]
     },
     "languages": [
@@ -770,7 +843,7 @@
         "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/vhpkOKPDPqY"
+        "https://www.youtube-nocookie.com/embed/KjIGrDjmKQA"
       ]
     },
     "languages": [
@@ -864,11 +937,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zcoCA9mHfb19F8",
-    "name": "REDE SPi",
+    "nanoid": "h8pgyTvvpPsjYe",
+    "name": "Rede Seculo 21",
     "sources": {
       "streams": [
-        "https://video11.logicahost.com.br/redespi/redespi/playlist.m3u8"
+        "https://45.162.64.114/REDE_SECULO_21/index.m3u8"
       ]
     },
     "languages": [
@@ -878,11 +951,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "trGjHBEHG2rfsL",
-    "name": "Rede SPTV",
+    "nanoid": "zcoCA9mHfb19F8",
+    "name": "REDE SPi",
     "sources": {
       "streams": [
-        "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8"
+        "https://video11.logicahost.com.br/redespi/redespi/playlist.m3u8"
       ]
     },
     "languages": [
@@ -934,11 +1007,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wQwzJWldq22ymG",
-    "name": "SIC TV",
+    "nanoid": "WrC5uDCchzjoC3",
+    "name": "SESC TV",
     "sources": {
       "streams": [
-        "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
+        "https://45.162.64.114/SESC_TV/index.m3u8"
       ]
     },
     "languages": [
@@ -1093,20 +1166,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/4CAmwaFJo6k"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qIar6axvqjptwG",
-    "name": "TV Assembleia Minas Gerais",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/vZNAuGbwQYk"
       ]
     },
     "languages": [
@@ -1303,11 +1362,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "alscSsfV2vspqJ",
+    "name": "TV Evangelizar",
+    "sources": {
+      "streams": [
+        "https://45.162.64.114/EVANGELIZAR/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NoqDxZd1Xoy0q1",
     "name": "TV Futuro",
     "sources": {
       "streams": [
         "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7Hc33OZbHIZoHK",
+    "name": "TV Gazeta",
+    "sources": {
+      "streams": [
+        "https://45.162.64.114/TV_GAZETA/index.m3u8"
       ]
     },
     "languages": [
@@ -1513,11 +1600,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AOuzDU3o0FoYy3",
-    "name": "TV Parana Turismo",
+    "nanoid": "9IRp7pJ3B28WfW",
+    "name": "TV Passo Fundo",
     "sources": {
       "streams": [
-        "https://200.189.113.201/hls/tve.m3u8"
+        "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1527,11 +1614,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9IRp7pJ3B28WfW",
-    "name": "TV Passo Fundo",
+    "nanoid": "LOWY7rfXnzxk0l",
+    "name": "TV Ra Tim Bum",
     "sources": {
       "streams": [
-        "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
+        "https://45.162.64.114/RA_TIM_BUM/index.m3u8"
       ]
     },
     "languages": [
