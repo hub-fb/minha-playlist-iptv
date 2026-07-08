@@ -425,6 +425,8 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",XtremeTV | SamsungTv
 https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://javiutv.com.br/wp-content/uploads/2025/06/ChatGPT-Image-15_11_2025-13_20_19-1-1-150x150.webp" group-title="BRAZIL",Já Viu TV | BRAZIL
+https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
 ================================================Radios===========================================
 #EXTINF:-1 type="stream" group-title="Radios" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp",[Radio] REGIONAL FM (102,3MHz) - M3U8
 https://stream.zeno.fm/auauo2vfekltv.m3u8
@@ -432,9 +434,5 @@ https://stream.zeno.fm/auauo2vfekltv.m3u8
 https://stream.zeno.fm/auauo2vfekltv/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="Radios" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp",[Radio] REGIONAL FM (102,3MHz) - M3U
 https://stream.zeno.fm/auauo2vfekltv.m3u
-#EXTINF:-1 type="stream" group-title="Radios" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp",[Radio] REGIONAL FM (102,3MHz) - MP3
-https://stream.zeno.fm/auauo2vfekltv/stream.mp3
 #EXTINF:-1 type="stream" group-title="Radios" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp",[Radio] REGIONAL FM (102,3MHz) - live
 https://stream.zeno.fm/auauo2vfekltv/live
-#EXTINF:-1 type="stream" group-title="Radios" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp",[Radio] REGIONAL FM (102,3MHz)
-https://stream.zeno.fm/auauo2vfekltv/;stream.mp3

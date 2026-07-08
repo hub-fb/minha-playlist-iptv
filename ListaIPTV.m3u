@@ -505,6 +505,8 @@ https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
 https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
 #EXTINF:-1 tvg-id="JovemPanNews.br@SD" tvg-name="Jovem Pan News (JP News) (1080p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",Jovem Pan News (JP News) (1080p) [Not 24/7]
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Já Viu TV | BRAZIL" tvg-logo="https://javiutv.com.br/wp-content/uploads/2025/06/ChatGPT-Image-15_11_2025-13_20_19-1-1-150x150.webp" group-title="BRAZIL",Já Viu TV | BRAZIL
+https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
 #EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-name="Kenan & Kel" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="BRAZIL",Kenan & Kel
 https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kids Mais" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Kids Mais
@@ -5771,16 +5773,12 @@ https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
 https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8
 #EXTINF:-1 tvg-id="QatarTelevisionTheHolyQuran.qa" tvg-name="Qatar Television The Holy Quran" tvg-logo="https://i.imgur.com/N5RB4sp.png" group-title="QATAR",Qatar Television The Holy Quran
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Radio] REGIONAL FM (102,3MHz)" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp" group-title="RADIOS",[Radio] REGIONAL FM (102,3MHz)
-https://stream.zeno.fm/auauo2vfekltv/;stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="[Radio] REGIONAL FM (102,3MHz) - live" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp" group-title="RADIOS",[Radio] REGIONAL FM (102,3MHz) - live
 https://stream.zeno.fm/auauo2vfekltv/live
 #EXTINF:-1 tvg-id="" tvg-name="[Radio] REGIONAL FM (102,3MHz) - M3U" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp" group-title="RADIOS",[Radio] REGIONAL FM (102,3MHz) - M3U
 https://stream.zeno.fm/auauo2vfekltv.m3u
 #EXTINF:-1 tvg-id="" tvg-name="[Radio] REGIONAL FM (102,3MHz) - M3U8" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp" group-title="RADIOS",[Radio] REGIONAL FM (102,3MHz) - M3U8
 https://stream.zeno.fm/auauo2vfekltv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Radio] REGIONAL FM (102,3MHz) - MP3" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp" group-title="RADIOS",[Radio] REGIONAL FM (102,3MHz) - MP3
-https://stream.zeno.fm/auauo2vfekltv/stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="[Radio] REGIONAL FM (102,3MHz) Santo Adré SP" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp" group-title="RADIOS",[Radio] REGIONAL FM (102,3MHz) Santo Adré SP
 https://stream.zeno.fm/auauo2vfekltv/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Conflicto TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Conflicto | Galxy TV
