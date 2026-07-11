@@ -29,20 +29,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wjGP3n4DkSPVQ1",
-    "name": "Amazon Sat",
-    "sources": {
-      "streams": [
-        "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "K0FRmHrggxRl0x",
     "name": "Araruna TV",
     "sources": {
@@ -287,6 +273,9 @@
     "nanoid": "nvi12xPQhPg1F5",
     "name": "Canal Gov",
     "sources": {
+      "streams": [
+        "https://canalgov-stream.ebc.com.br/index.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/3gGHN13xwdI"
       ]
@@ -399,11 +388,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DqexB6yaP4LscU",
-    "name": "CNN Brasil",
+    "nanoid": "DNa7AQHZDPi0it",
+    "name": "COM Brasil",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/8IcuaigjiW8"
+      "streams": [
+        "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8"
       ]
     },
     "languages": [
@@ -413,11 +402,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DNa7AQHZDPi0it",
-    "name": "COM Brasil",
+    "nanoid": "bXLcz6uiJ323gF",
+    "name": "Conecta Mais TV",
     "sources": {
       "streams": [
-        "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8"
+        "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8"
       ]
     },
     "languages": [
@@ -926,7 +915,7 @@
         "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/8e5PRrOW_4Q"
+        "https://www.youtube-nocookie.com/embed/1RDG4TWMJQE"
       ]
     },
     "languages": [
@@ -1333,34 +1322,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pP6SnedE0hiHpP",
-    "name": "TV Arapuan",
-    "sources": {
-      "streams": [
-        "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qIar6axvqjptwG",
-    "name": "TV Assembleia Minas Gerais",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/BtW815zFG0Y"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QrY7bSr5CSX6dm",
     "name": "TV Assembleia Piaui",
     "sources": {
@@ -1382,6 +1343,20 @@
         "https://lbgo.bozztv.com/ssh101/ssh101/unitvms/playlist.m3u8",
         "https://tvbrasil-stream.ebc.com.br/index.m3u8",
         "https://45.162.64.114/TV_BRASIL/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2bhXPviPJO5yGg",
+    "name": "TV Brasil Oeste",
+    "sources": {
+      "streams": [
+        "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1452,8 +1427,8 @@
     "name": "TV Cancao Nova",
     "sources": {
       "streams": [
-        "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8",
-        "https://45.162.64.114/CANCAO_NOVA/index.m3u8"
+        "https://45.162.64.114/CANCAO_NOVA/index.m3u8",
+        "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/vV1_X3SsxFY"
@@ -1581,11 +1556,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NoqDxZd1Xoy0q1",
+    "name": "TV Futuro",
+    "sources": {
+      "streams": [
+        "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7Hc33OZbHIZoHK",
     "name": "TV Gazeta",
     "sources": {
       "streams": [
-        "https://45.162.64.114/TV_GAZETA/index.m3u8"
+        "https://45.162.64.114/TV_GAZETA/index.m3u8",
+        "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1819,20 +1809,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AOuzDU3o0FoYy3",
-    "name": "TV Parana Turismo",
-    "sources": {
-      "streams": [
-        "https://200.189.113.201/hls/tve.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9IRp7pJ3B28WfW",
     "name": "TV Passo Fundo",
     "sources": {
@@ -1931,6 +1907,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3SFbEQ5XiHL1nO",
+    "name": "TV Sul Bahia",
+    "sources": {
+      "streams": [
+        "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9fu5cWbGv1LvVt",
     "name": "TV Sul de Minas",
     "sources": {
@@ -1978,6 +1968,20 @@
     "sources": {
       "streams": [
         "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "N95AOZ9ohWI6WG",
+    "name": "TV Vicosa",
+    "sources": {
+      "streams": [
+        "https://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8"
       ]
     },
     "languages": [
