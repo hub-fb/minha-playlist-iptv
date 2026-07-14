@@ -119,8 +119,8 @@
     "name": "Arte 1",
     "sources": {
       "streams": [
-        "https://45.162.64.114/ARTE1/index.m3u8",
-        "https://45.190.28.50/ARTE_1/index.m3u8"
+        "https://45.190.28.50/ARTE_1/index.m3u8",
+        "https://45.162.64.114/ARTE1/index.m3u8"
       ]
     },
     "languages": [
@@ -363,8 +363,8 @@
     "name": "Canal Educacao",
     "sources": {
       "streams": [
-        "https://45.162.64.114/CANAL_EDUCACAO/index.m3u8",
-        "https://canaleducacao-stream.ebc.com.br/index.m3u8"
+        "https://canaleducacao-stream.ebc.com.br/index.m3u8",
+        "https://45.162.64.114/CANAL_EDUCACAO/index.m3u8"
       ]
     },
     "languages": [
@@ -552,7 +552,7 @@
     "name": "CNN Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/oxeZUnY9jLc"
+        "https://www.youtube-nocookie.com/embed/PoEZ_wb9FTE"
       ]
     },
     "languages": [
@@ -1057,6 +1057,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tfa0ZY73SpNnku",
+    "name": "Laboral TV",
+    "sources": {
+      "streams": [
+        "https://tv.laboralsst.com.br/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NxqeGIVjUY8tcI",
     "name": "Loading",
     "sources": {
@@ -1212,6 +1226,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2SkwDt1DzEdQq9",
+    "name": "Peppa Pig Brasil",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/8HqFhr2uhK0"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nAmOoT8sSkynoe",
     "name": "Petlovers TV",
     "sources": {
@@ -1334,7 +1362,7 @@
         "https://45.190.28.50/RECORD_NEWS_HD/index.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/zJwtx1M5CDA"
+        "https://www.youtube-nocookie.com/embed/Wq4t5P7Sc6w"
       ]
     },
     "languages": [
@@ -1480,6 +1508,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/l2_O7pDT0Fg"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JYxWO7Z9y0JBKQ",
+    "name": "Rede Premium TV",
+    "sources": {
+      "streams": [
+        "https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1758,34 +1800,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nYK5boMixVyZNl",
-    "name": "TV A Critica",
-    "sources": {
-      "streams": [
-        "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uFUnpsEwjM0TgY",
-    "name": "TV A Folha",
-    "sources": {
-      "streams": [
-        "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WxSrWAmqcJscq8",
     "name": "TV Aldeia",
     "sources": {
@@ -1877,7 +1891,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/i5p3UdZMwmA"
+        "https://www.youtube-nocookie.com/embed/kACp-Viww6I"
       ]
     },
     "languages": [
@@ -1905,23 +1919,9 @@
     "name": "TV Brasil",
     "sources": {
       "streams": [
-        "https://45.162.64.114/TV_BRASIL/index.m3u8",
         "https://tvbrasil-stream.ebc.com.br/index.m3u8",
-        "https://45.190.28.50/TV_BRASIL/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2bhXPviPJO5yGg",
-    "name": "TV Brasil Oeste",
-    "sources": {
-      "streams": [
-        "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+        "https://lbgo.bozztv.com/ssh101/ssh101/unitvms/playlist.m3u8",
+        "https://45.162.64.114/TV_BRASIL/index.m3u8"
       ]
     },
     "languages": [
@@ -1964,8 +1964,8 @@
     "sources": {
       "streams": [
         "https://stream3.camara.gov.br/tv1/manifest.m3u8",
-        "https://45.190.28.50/TV_CAMARA/index.m3u8",
-        "https://45.162.64.114/TV_CAMARA/index.m3u8"
+        "https://45.162.64.114/TV_CAMARA/index.m3u8",
+        "https://45.190.28.50/TV_CAMARA/index.m3u8"
       ]
     },
     "languages": [
@@ -1993,8 +1993,8 @@
     "name": "TV Cancao Nova",
     "sources": {
       "streams": [
-        "https://45.162.64.114/CANCAO_NOVA/index.m3u8",
         "https://45.190.28.50/CANCAO_NOVA_HD/index.m3u8",
+        "https://45.162.64.114/CANCAO_NOVA/index.m3u8",
         "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8"
       ],
       "youtube": [
@@ -2182,20 +2182,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OXfFnCDtrQdqyq",
-    "name": "TV Guara",
-    "sources": {
-      "streams": [
-        "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "l4Wb4BRdTvGYCb",
     "name": "TV Justiça",
     "sources": {
@@ -2369,8 +2355,8 @@
     "name": "TV Pai Eterno",
     "sources": {
       "streams": [
-        "https://45.190.28.50/PAI_ETERNO/index.m3u8",
-        "https://45.162.64.114/TV_PAI_ETERNO/index.m3u8"
+        "https://45.162.64.114/TV_PAI_ETERNO/index.m3u8",
+        "https://45.190.28.50/PAI_ETERNO/index.m3u8"
       ]
     },
     "languages": [
@@ -2414,6 +2400,20 @@
     "sources": {
       "streams": [
         "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AOuzDU3o0FoYy3",
+    "name": "TV Parana Turismo",
+    "sources": {
+      "streams": [
+        "https://200.189.113.201/hls/tve.m3u8"
       ]
     },
     "languages": [
