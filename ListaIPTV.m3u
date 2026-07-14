@@ -497,7 +497,7 @@ https://45.190.28.50/FASHION_TV_HD/index.m3u8
 http://167.250.126.140:7777/FASHIONTV-HD/index.m3u8
 #EXTINF:-1 tvg-id="FashionTV.br@SD" tvg-name="FashionTV (720p)" tvg-logo="" group-title="BRAZIL",FashionTV (720p)
 http://45.190.28.50/FASHION_TV_HD/index.m3u8
-#EXTINF:-1 tvg-id="USBD12000255B" tvg-name="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20260707T035832SQUARE.png" group-title="BRAZIL",FIFA+
+#EXTINF:-1 tvg-id="USBD12000255B" tvg-name="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20260714T040800SQUARE.png" group-title="BRAZIL",FIFA+
 https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8
 #EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-name="Filmelier TV" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="BRAZIL",Filmelier TV
 https://jmp2.uk/plu-633dcebd80386500074a2461.m3u8
@@ -2951,7 +2951,7 @@ https://d861871e83924957b35eabcebb7df7eb.mediatailor.us-east-1.amazonaws.com/v1/
 https://answermedia-beautiful-planet-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5211" tvg-name="CGTN Documentary Channel | China" tvg-logo="https://i.imgur.com/y5uCaes.png" group-title="DOCUMENTÁRIOS EM INGLÊS",CGTN Documentary Channel | China
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-id="USBA3800005NI" tvg-name="Clarity 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20260428T031950SQUARE.png" group-title="DOCUMENTÁRIOS EM INGLÊS",Clarity 4K | EUA
+#EXTINF:-1 tvg-id="USBA3800005NI" tvg-name="Clarity 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20260714T040632SQUARE.png" group-title="DOCUMENTÁRIOS EM INGLÊS",Clarity 4K | EUA
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Destinations | Local Now" tvg-logo="https://i.imgur.com/8TH4f1d.png" group-title="DOCUMENTÁRIOS EM INGLÊS",Destinations | Local Now
 http://linear-249.frequency.stream/249/hls/master/playlist.m3u8
@@ -3533,7 +3533,7 @@ https://buzzrota-ono.amagi.tv/playlist1080.m3u8
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 #EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC Ⓨ" tvg-logo="https://i.imgur.com/BTasyOy.png" group-title="ESTADOS UNIDOS",CNBC Ⓨ
 https://www.youtube.com/c/CNBC/live
-#EXTINF:-1 tvg-id="GBBD8000016N" tvg-name="CNN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20260609T043642SQUARE.png" group-title="ESTADOS UNIDOS",CNN
+#EXTINF:-1 tvg-id="GBBD8000016N" tvg-name="CNN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20260714T040523SQUARE.png" group-title="ESTADOS UNIDOS",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGDocurama" tvg-name="Docurama" tvg-logo="" group-title="ESTADOS UNIDOS",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
@@ -5673,7 +5673,7 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 #EXTINF:-1 tvg-id="Channels24.ng" tvg-name="Channels 24 Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg" group-title="NEWS",Channels 24 Ⓨ
 https://www.youtube.com/channelstelevision/live
-#EXTINF:-1 tvg-id="GBBD8000016N" tvg-name="CNN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20260609T043642SQUARE.png" group-title="NEWS",CNN
+#EXTINF:-1 tvg-id="GBBD8000016N" tvg-name="CNN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20260714T040523SQUARE.png" group-title="NEWS",CNN
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="NEWS",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
