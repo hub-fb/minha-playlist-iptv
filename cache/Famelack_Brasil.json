@@ -119,8 +119,8 @@
     "name": "Arte 1",
     "sources": {
       "streams": [
-        "https://45.190.28.50/ARTE_1/index.m3u8",
-        "https://45.162.64.114/ARTE1/index.m3u8"
+        "https://45.162.64.114/ARTE1/index.m3u8",
+        "https://45.190.28.50/ARTE_1/index.m3u8"
       ]
     },
     "languages": [
@@ -135,6 +135,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/mA0MMvmshLA"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aBeSgu0TnhF49u",
+    "name": "Auge TV",
+    "sources": {
+      "streams": [
+        "https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -222,6 +236,20 @@
       "streams": [
         "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8",
         "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RHSg4cc5czJo1n",
+    "name": "Bem Melhor",
+    "sources": {
+      "streams": [
+        "https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8"
       ]
     },
     "languages": [
@@ -475,6 +503,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cQNPVvePkozwaE",
+    "name": "Canal START",
+    "sources": {
+      "streams": [
+        "https://cdn-tiva-srv5-zcast-com-br.smartbit.co/canalstart/canalstart/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "haAQVTXfQJECVE",
     "name": "CazeTV",
     "sources": {
@@ -552,7 +594,7 @@
     "name": "CNN Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/PoEZ_wb9FTE"
+        "https://www.youtube-nocookie.com/embed/rwtin7Yi6I8"
       ]
     },
     "languages": [
@@ -710,20 +752,6 @@
     "sources": {
       "streams": [
         "https://45.190.156.152/E/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uBGBZ1tmmDfH55",
-    "name": "Elemental Channel",
-    "sources": {
-      "streams": [
-        "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1071,6 +1099,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pNi5drei76j0VC",
+    "name": "Lider TV",
+    "sources": {
+      "streams": [
+        "https://cdn-tiva-video08-logicahost-com-br.smartbit.co/lidertvssp/lidertvssp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NxqeGIVjUY8tcI",
     "name": "Loading",
     "sources": {
@@ -1155,6 +1197,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NojFEcZYn2QGaE",
+    "name": "N Sports",
+    "sources": {
+      "streams": [
+        "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1JYYpqQgnjcE3u",
     "name": "NickOnline",
     "sources": {
@@ -1187,8 +1243,8 @@
     "name": "Novo Tempo",
     "sources": {
       "streams": [
-        "https://45.162.64.114/NOVO_TEMPO/index.m3u8",
-        "https://45.190.28.50/TV_NOVO_TEMPO/index.m3u8"
+        "https://45.190.28.50/TV_NOVO_TEMPO/index.m3u8",
+        "https://45.162.64.114/NOVO_TEMPO/index.m3u8"
       ]
     },
     "languages": [
@@ -1283,20 +1339,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "80LbGxmVbKe73Z",
-    "name": "Plenitude TV",
-    "sources": {
-      "streams": [
-        "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TlTNzcDW7CflZP",
     "name": "Premiere Clubes",
     "sources": {
@@ -1357,12 +1399,12 @@
     "name": "Record News",
     "sources": {
       "streams": [
-        "https://45.162.64.114/RECORD_NEWS/index.m3u8",
         "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
+        "https://45.162.64.114/RECORD_NEWS/index.m3u8",
         "https://45.190.28.50/RECORD_NEWS_HD/index.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Wq4t5P7Sc6w"
+        "https://www.youtube-nocookie.com/embed/Uk69eKn0Wzc"
       ]
     },
     "languages": [
@@ -1644,6 +1686,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "aRFi5tYztwXALW",
+    "name": "Series Classic",
+    "sources": {
+      "streams": [
+        "https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WrC5uDCchzjoC3",
     "name": "SESC TV",
     "sources": {
@@ -1800,6 +1856,48 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nYK5boMixVyZNl",
+    "name": "TV A Critica",
+    "sources": {
+      "streams": [
+        "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uFUnpsEwjM0TgY",
+    "name": "TV A Folha",
+    "sources": {
+      "streams": [
+        "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xNvulKynjnoITG",
+    "name": "TV Adorar",
+    "sources": {
+      "streams": [
+        "https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WxSrWAmqcJscq8",
     "name": "TV Aldeia",
     "sources": {
@@ -1891,7 +1989,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/kACp-Viww6I"
+        "https://www.youtube-nocookie.com/embed/ia-r7KkQ9yg"
       ]
     },
     "languages": [
@@ -1919,7 +2017,7 @@
     "name": "TV Brasil",
     "sources": {
       "streams": [
-        "https://tvbrasil-stream.ebc.com.br/index.m3u8",
+        "https://45.190.28.50/TV_BRASIL/index.m3u8",
         "https://lbgo.bozztv.com/ssh101/ssh101/unitvms/playlist.m3u8",
         "https://45.162.64.114/TV_BRASIL/index.m3u8"
       ]
@@ -1993,8 +2091,8 @@
     "name": "TV Cancao Nova",
     "sources": {
       "streams": [
-        "https://45.190.28.50/CANCAO_NOVA_HD/index.m3u8",
         "https://45.162.64.114/CANCAO_NOVA/index.m3u8",
+        "https://45.190.28.50/CANCAO_NOVA_HD/index.m3u8",
         "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8"
       ],
       "youtube": [
@@ -2068,9 +2166,9 @@
     "name": "TV Cultura",
     "sources": {
       "streams": [
-        "https://45.162.64.114/TV_CULTURA/index.m3u8",
+        "https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8",
         "https://45.190.28.50/TV_CULTURA_HD/index.m3u8",
-        "https://lbgo.bozztv.com/ssh101/ssh101/tvlafaietehd/playlist.m3u8"
+        "https://45.162.64.114/TV_CULTURA/index.m3u8"
       ]
     },
     "languages": [
@@ -2085,6 +2183,20 @@
     "sources": {
       "streams": [
         "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "V69nAzWDuUySww",
+    "name": "TV Difusao",
+    "sources": {
+      "streams": [
+        "https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2138,20 +2250,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NoqDxZd1Xoy0q1",
-    "name": "TV Futuro",
-    "sources": {
-      "streams": [
-        "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7Hc33OZbHIZoHK",
     "name": "TV Gazeta",
     "sources": {
@@ -2168,11 +2266,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QGZX5mZ7t6VQlN",
+    "name": "TV Gazin",
+    "sources": {
+      "streams": [
+        "https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oH3WEnD6QKHZwa",
     "name": "TV Globo Rio de Janeiro",
     "sources": {
       "streams": [
         "https://45.190.28.50/GLOBO_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OXfFnCDtrQdqyq",
+    "name": "TV Guara",
+    "sources": {
+      "streams": [
+        "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2200,8 +2326,8 @@
     "name": "TV Justica",
     "sources": {
       "streams": [
-        "https://45.162.64.114/TV_JUSTICA/index.m3u8",
-        "https://45.190.28.50/TV_JUSTICA/index.m3u8"
+        "https://45.190.28.50/TV_JUSTICA/index.m3u8",
+        "https://45.162.64.114/TV_JUSTICA/index.m3u8"
       ]
     },
     "languages": [
@@ -2216,6 +2342,20 @@
     "sources": {
       "streams": [
         "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Xpp6oPU4K564FV",
+    "name": "TV Litoral RN",
+    "sources": {
+      "streams": [
+        "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2258,6 +2398,20 @@
     "sources": {
       "streams": [
         "https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SUh99A8TnDSOTa",
+    "name": "TV Meio",
+    "sources": {
+      "streams": [
+        "https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8"
       ]
     },
     "languages": [
@@ -2409,11 +2563,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AOuzDU3o0FoYy3",
-    "name": "TV Parana Turismo",
+    "nanoid": "9IRp7pJ3B28WfW",
+    "name": "TV Passo Fundo",
     "sources": {
       "streams": [
-        "https://200.189.113.201/hls/tve.m3u8"
+        "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2423,11 +2577,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9IRp7pJ3B28WfW",
-    "name": "TV Passo Fundo",
+    "nanoid": "w2GfVNVMjp9Up3",
+    "name": "TV Petropolis",
     "sources": {
       "streams": [
-        "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
+        "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2470,8 +2624,8 @@
     "name": "TV Senado",
     "sources": {
       "streams": [
-        "https://45.190.28.50/TV_SENADO/index.m3u8",
-        "https://45.162.64.114/TV_SENADO/index.m3u8"
+        "https://45.162.64.114/TV_SENADO/index.m3u8",
+        "https://45.190.28.50/TV_SENADO/index.m3u8"
       ]
     },
     "languages": [
@@ -2514,20 +2668,6 @@
     "sources": {
       "streams": [
         "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3SFbEQ5XiHL1nO",
-    "name": "TV Sul Bahia",
-    "sources": {
-      "streams": [
-        "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2598,20 +2738,6 @@
     "sources": {
       "streams": [
         "https://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g2SbVNfLdhZo2E",
-    "name": "TV+Pet",
-    "sources": {
-      "streams": [
-        "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8"
       ]
     },
     "languages": [
