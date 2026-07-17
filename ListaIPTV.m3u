@@ -185,6 +185,8 @@ https://jmp2.uk/plu-63da6bcd60bc8f0008a5d364.m3u8
 https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Band" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Band
 https://45.190.28.50/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="Band.br@SD" tvg-name="Band (576p)" tvg-logo="" group-title="BRAZIL",Band (576p)
+https://media.cdntvms.com.br/band_sat/index.m3u8
 #EXTINF:-1 tvg-id="Band.br@SD" tvg-name="Band (720p)" tvg-logo="" group-title="BRAZIL",Band (720p)
 http://45.190.28.50/BAND_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Band Sports
@@ -1015,6 +1017,8 @@ https://www.youtube.com/watch?v=oUdd3CsxYaE
 https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Record
 https://45.190.28.50/RECORD/index.m3u8
+#EXTINF:-1 tvg-id="Record.br@SD" tvg-name="Record (576p)" tvg-logo="" group-title="BRAZIL",Record (576p)
+https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
 #EXTINF:-1 tvg-id="Record.br@SD" tvg-name="Record (720p)" tvg-logo="" group-title="BRAZIL",Record (720p)
 http://167.250.126.140:7777/RECORDTV-HD/index.m3u8
 #EXTINF:-1 tvg-id="Record.br@SD" tvg-name="Record (720p)" tvg-logo="" group-title="BRAZIL",Record (720p)
@@ -1225,6 +1229,8 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 https://45.190.28.50/SBT_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT Nacional" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",SBT Nacional
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-name="SBT Nacional (576p)" tvg-logo="" group-title="BRAZIL",SBT Nacional (576p)
+https://media.cdntvms.com.br/sbt_sat/index.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-name="SBT Nacional (720p)" tvg-logo="" group-title="BRAZIL",SBT Nacional (720p)
 http://167.250.126.140:7777/SBT-HD/index.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-name="SBT Nacional (720p)" tvg-logo="" group-title="BRAZIL",SBT Nacional (720p)
@@ -1815,6 +1821,8 @@ http://unitvaovivo.ufrgs.br:8080/live.ogg
 https://45.190.156.152/UNIVERSAL_TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USA Network Latin America Brazil" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",USA Network Latin America Brazil
 https://45.190.156.152/USA/index.m3u8
+#EXTINF:-1 tvg-id="VEJAPlusTV.br@HD" tvg-name="VEJA+ TV (1080p)" tvg-logo="" group-title="BRAZIL",VEJA+ TV (1080p)
+https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Via Morena" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Via Morena
 https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viajando pelo Brasil | Soul TV Brasil" tvg-logo="https://i.imgur.com/x5HC6wy.png" group-title="BRAZIL",Viajando pelo Brasil | Soul TV Brasil
