@@ -33,7 +33,8 @@
     "sources": {
       "streams": [
         "https://45.162.64.114/AGRO_CANAL/index.m3u8",
-        "https://45.190.28.50/AGRO_CANAL/index.m3u8"
+        "https://45.190.28.50/AGRO_CANAL/index.m3u8",
+        "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
       ]
     },
     "languages": [
@@ -47,8 +48,8 @@
     "name": "AgroMais",
     "sources": {
       "streams": [
-        "https://45.162.64.114/AGROMAIS/index.m3u8",
-        "https://45.190.28.50/AGROMAIS_HD/index.m3u8"
+        "https://45.190.28.50/AGROMAIS_HD/index.m3u8",
+        "https://45.162.64.114/AGROMAIS/index.m3u8"
       ]
     },
     "languages": [
@@ -134,6 +135,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/mA0MMvmshLA"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aBeSgu0TnhF49u",
+    "name": "Auge TV",
+    "sources": {
+      "streams": [
+        "https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -562,20 +577,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DqexB6yaP4LscU",
-    "name": "CNN Brasil",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/Jh5371JUSwk"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DNa7AQHZDPi0it",
     "name": "COM Brasil",
     "sources": {
@@ -647,21 +648,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2nMTmYzlgyLzZn",
-    "name": "Demais TV",
-    "sources": {
-      "streams": [
-        "https://cdn-tiva-stmv1-samcast-com-br.smartbit.co/demaistv6503/demaistv6503/playlist.m3u8",
-        "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "x5mwCmjYC8lT9Y",
     "name": "Despertar TV",
     "sources": {
@@ -724,20 +710,6 @@
     "sources": {
       "streams": [
         "https://45.190.156.152/E/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uBGBZ1tmmDfH55",
-    "name": "Elemental Channel",
-    "sources": {
-      "streams": [
-        "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1000,20 +972,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Kqr3JHbCw7DAtR",
-    "name": "ISTV",
-    "sources": {
-      "streams": [
-        "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qSyu5IDtM6ZOyX",
     "name": "J3NEWS TV",
     "sources": {
@@ -1089,20 +1047,6 @@
     "sources": {
       "streams": [
         "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VDrwcntjCH2ut7",
-    "name": "Megapix",
-    "sources": {
-      "streams": [
-        "https://45.190.156.152/MEGAPIX/index.m3u8"
       ]
     },
     "languages": [
@@ -1200,7 +1144,6 @@
     "name": "Novo Tempo",
     "sources": {
       "streams": [
-        "https://45.162.64.114/NOVO_TEMPO/index.m3u8",
         "https://45.190.28.50/TV_NOVO_TEMPO/index.m3u8"
       ]
     },
@@ -1285,8 +1228,7 @@
     "name": "Play TV",
     "sources": {
       "streams": [
-        "https://isaocorp.cloudecast.com/playtv/index.m3u8",
-        "https://45.162.64.114/PLAY_TV/index.m3u8"
+        "https://isaocorp.cloudecast.com/playtv/index.m3u8"
       ]
     },
     "languages": [
@@ -1376,7 +1318,7 @@
         "https://45.190.28.50/RECORD_NEWS_HD/index.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/_EsZlKt0foE"
+        "https://www.youtube-nocookie.com/embed/K445HimTGdI"
       ]
     },
     "languages": [
@@ -1545,20 +1487,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "h8pgyTvvpPsjYe",
-    "name": "Rede Seculo 21",
-    "sources": {
-      "streams": [
-        "https://45.162.64.114/REDE_SECULO_21/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zcoCA9mHfb19F8",
     "name": "REDE SPi",
     "sources": {
@@ -1691,8 +1619,8 @@
     "name": "SESC TV",
     "sources": {
       "streams": [
-        "https://45.162.64.114/SESC_TV/index.m3u8",
-        "https://45.190.28.50/SESC_TV/index.m3u8"
+        "https://45.190.28.50/SESC_TV/index.m3u8",
+        "https://45.162.64.114/SESC_TV/index.m3u8"
       ]
     },
     "languages": [
@@ -1720,8 +1648,8 @@
     "name": "Sony Movies",
     "sources": {
       "streams": [
-        "https://45.190.28.50/SONY_MOVIES/index.m3u8",
-        "https://45.162.64.114/SONY_MOVIES/index.m3u8"
+        "https://45.162.64.114/SONY_MOVIES/index.m3u8",
+        "https://45.190.28.50/SONY_MOVIES/index.m3u8"
       ]
     },
     "languages": [
@@ -1815,20 +1743,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wxBGFlZApAgv7M",
-    "name": "TNT Novelas Brazil",
-    "sources": {
-      "streams": [
-        "https://45.162.64.114/TNT_NOVELAS/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RjizuTIlBcKIri",
     "name": "Travel Box Brazil",
     "sources": {
@@ -1885,20 +1799,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WxSrWAmqcJscq8",
-    "name": "TV Aldeia",
-    "sources": {
-      "streams": [
-        "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Ez0ifGwmo3aIjZ",
     "name": "TV ALERJ",
     "sources": {
@@ -1927,12 +1827,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YT6xhGpFtzQ7eS",
+    "name": "TV Alternativa",
+    "sources": {
+      "streams": [
+        "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sDQABoW0Q83Dxf",
     "name": "TV Aparecida",
     "sources": {
-      "streams": [
-        "https://45.162.64.114/TV_APARECIDA/index.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/4CAmwaFJo6k"
       ]
@@ -1962,7 +1873,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/6nebWRtJCrE"
+        "https://www.youtube-nocookie.com/embed/82GSpiO4N64"
       ]
     },
     "languages": [
@@ -1992,21 +1903,7 @@
       "streams": [
         "https://tvbrasil-stream.ebc.com.br/index.m3u8",
         "https://lbgo.bozztv.com/ssh101/ssh101/unitvms/playlist.m3u8",
-        "https://45.162.64.114/TV_BRASIL/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2bhXPviPJO5yGg",
-    "name": "TV Brasil Oeste",
-    "sources": {
-      "streams": [
-        "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+        "https://45.190.28.50/TV_BRASIL/index.m3u8"
       ]
     },
     "languages": [
@@ -2049,22 +1946,7 @@
     "sources": {
       "streams": [
         "https://stream3.camara.gov.br/tv1/manifest.m3u8",
-        "https://45.162.64.114/TV_CAMARA/index.m3u8",
         "https://45.190.28.50/TV_CAMARA/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ljxQJllBAK9Pvk",
-    "name": "TV Câmara Porto Alegre",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/gyuyDtRVFaU"
       ]
     },
     "languages": [
@@ -2078,7 +1960,6 @@
     "name": "TV Cancao Nova",
     "sources": {
       "streams": [
-        "https://45.162.64.114/CANCAO_NOVA/index.m3u8",
         "https://45.190.28.50/CANCAO_NOVA_HD/index.m3u8",
         "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8"
       ],
@@ -2313,8 +2194,8 @@
     "name": "TV Justica",
     "sources": {
       "streams": [
-        "https://45.190.28.50/TV_JUSTICA/index.m3u8",
-        "https://45.162.64.114/TV_JUSTICA/index.m3u8"
+        "https://45.162.64.114/TV_JUSTICA/index.m3u8",
+        "https://45.190.28.50/TV_JUSTICA/index.m3u8"
       ]
     },
     "languages": [
@@ -2564,26 +2445,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "w2GfVNVMjp9Up3",
-    "name": "TV Petropolis",
-    "sources": {
-      "streams": [
-        "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LOWY7rfXnzxk0l",
     "name": "TV Ra Tim Bum",
     "sources": {
       "streams": [
-        "https://45.162.64.114/RA_TIM_BUM/index.m3u8",
-        "https://45.190.28.50/RATIMBUM/index.m3u8"
+        "https://45.190.28.50/RATIMBUM/index.m3u8",
+        "https://45.162.64.114/RA_TIM_BUM/index.m3u8"
       ]
     },
     "languages": [
@@ -2627,6 +2494,20 @@
     "sources": {
       "streams": [
         "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AOrzbD7QEj8vaf",
+    "name": "TV Sim Cachoeiro",
+    "sources": {
+      "streams": [
+        "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2935,6 +2816,7 @@
     "name": "WooHoo",
     "sources": {
       "streams": [
+        "https://45.190.28.50/WOOHOO/index.m3u8",
         "https://45.162.64.114/WOOHOO/index.m3u8"
       ]
     },
