@@ -3561,7 +3561,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
 #EXTINF:-1 tvg-id="Buzzr.us" tvg-name="Buzzr Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/768px-Buzzr_logo.svg.png" group-title="ESTADOS UNIDOS",Buzzr Ⓖ
 https://buzzrota-ono.amagi.tv/playlist1080.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6571f43a1d2aae780d597196" tvg-name="CBS News" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7c7be41d-477b-447c-baaf-61be24cf44fc/CBS_WHT3017a837a5b62a0e9cdc8ab8fdd8f134RDX.png" group-title="ESTADOS UNIDOS",CBS News
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://i.imgur.com/nki2HDQ.png" group-title="ESTADOS UNIDOS",CBS News
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 #EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC Ⓨ" tvg-logo="https://i.imgur.com/BTasyOy.png" group-title="ESTADOS UNIDOS",CNBC Ⓨ
 https://www.youtube.com/c/CNBC/live
@@ -5697,7 +5697,7 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 https://vs-hls-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-name="CBC News Network" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="NEWS",CBC News Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6571f43a1d2aae780d597196" tvg-name="CBS News" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7c7be41d-477b-447c-baaf-61be24cf44fc/CBS_WHT3017a837a5b62a0e9cdc8ab8fdd8f134RDX.png" group-title="NEWS",CBS News
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" group-title="NEWS",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="https://i.imgur.com/fMsJYzl.png" group-title="NEWS",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
