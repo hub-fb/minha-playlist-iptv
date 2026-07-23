@@ -114,6 +114,8 @@ http://168.197.104.22:80/AGRO_CANAL/index.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-name="AgroCanal (720p)" tvg-logo="" group-title="BRAZIL",AgroCanal (720p)
 http://170.83.49.66:8083/AGROCANALHD/index.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-name="AgroCanal (720p)" tvg-logo="" group-title="BRAZIL",AgroCanal (720p)
+http://186.219.52.187:80/agro_canal/index.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-name="AgroCanal (720p)" tvg-logo="" group-title="BRAZIL",AgroCanal (720p)
 http://45.162.64.114/AGRO_CANAL/index.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-name="AgroCanal (720p)" tvg-logo="" group-title="BRAZIL",AgroCanal (720p)
 http://45.177.114.115:80/AGRO_CANAL/index.m3u8
@@ -346,6 +348,8 @@ http://170.83.16.50:80/CANAL_DO_BOI/index.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-name="Canal do Boi (720p)" tvg-logo="" group-title="BRAZIL",Canal do Boi (720p)
 http://170.83.49.66:8083/CANALDOBOIHD/index.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-name="Canal do Boi (720p)" tvg-logo="" group-title="BRAZIL",Canal do Boi (720p)
+http://186.219.52.187:80/canal_do_boi/index.m3u8
+#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-name="Canal do Boi (720p)" tvg-logo="" group-title="BRAZIL",Canal do Boi (720p)
 http://45.162.64.114/CANAL_DO_BOI/index.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-name="Canal do Boi (720p)" tvg-logo="" group-title="BRAZIL",Canal do Boi (720p)
 http://45.177.114.115:80/CANAL_DO_BOI/index.m3u8
@@ -377,6 +381,8 @@ https://45.162.64.114/FUTURA/index.m3u8
 http://138.255.2.6:8084/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="CanalFutura.br@SD" tvg-name="Canal Futura (720p)" tvg-logo="" group-title="BRAZIL",Canal Futura (720p)
 http://170.83.16.50:80/FUTURA/index.m3u8
+#EXTINF:-1 tvg-id="CanalFutura.br@SD" tvg-name="Canal Futura (720p)" tvg-logo="" group-title="BRAZIL",Canal Futura (720p)
+http://186.219.52.187:80/futura/index.m3u8
 #EXTINF:-1 tvg-id="CanalFutura.br@SD" tvg-name="Canal Futura (720p)" tvg-logo="" group-title="BRAZIL",Canal Futura (720p)
 http://45.162.64.114/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Gov" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Canal Gov
@@ -411,6 +417,8 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 https://cdn2.easy.tv.br/canalrural/index.m3u8
 #EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-name="Canal Rural (720p)" tvg-logo="" group-title="BRAZIL",Canal Rural (720p)
 http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+#EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-name="Canal Rural (720p)" tvg-logo="" group-title="BRAZIL",Canal Rural (720p)
+http://186.219.52.187:80/canal_rural/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Saude" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Canal Saude
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
 #EXTINF:-1 tvg-id="CanalSaude.br@SD" tvg-name="Canal Saúde (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",Canal Saúde (720p) [Not 24/7]
@@ -554,6 +562,8 @@ http://167.250.126.140:7777/ZOOMOO-HD/index.m3u8
 #EXTINF:-1 tvg-id="DumDum.br@SD" tvg-name="DumDum (720p)" tvg-logo="" group-title="BRAZIL",DumDum (720p)
 http://168.197.104.22:80/ZOOMOO/index.m3u8
 #EXTINF:-1 tvg-id="DumDum.br@SD" tvg-name="DumDum (720p)" tvg-logo="" group-title="BRAZIL",DumDum (720p)
+http://186.219.52.187:80/zoomoo/index.m3u8
+#EXTINF:-1 tvg-id="DumDum.br@SD" tvg-name="DumDum (720p)" tvg-logo="" group-title="BRAZIL",DumDum (720p)
 http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="E! Latin America Brazil" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",E! Latin America Brazil
 https://45.190.156.152/E/index.m3u8
@@ -609,6 +619,8 @@ http://168.197.104.22:80/FISH_TV/index.m3u8
 http://170.83.16.50:80/FISH_TV/index.m3u8
 #EXTINF:-1 tvg-id="FishTV.br@SD" tvg-name="Fish TV (720p)" tvg-logo="" group-title="BRAZIL",Fish TV (720p)
 http://170.83.49.66:8083/FISHTVHD/index.m3u8
+#EXTINF:-1 tvg-id="FishTV.br@SD" tvg-name="Fish TV (720p)" tvg-logo="" group-title="BRAZIL",Fish TV (720p)
+http://186.219.52.187:80/fishtv/index.m3u8
 #EXTINF:-1 tvg-id="FishTV.br@SD" tvg-name="Fish TV (720p)" tvg-logo="" group-title="BRAZIL",Fish TV (720p)
 http://45.162.64.114/FISH_TV/index.m3u8
 #EXTINF:-1 tvg-id="FishTV.br@SD" tvg-name="Fish TV (720p)" tvg-logo="" group-title="BRAZIL",Fish TV (720p)
@@ -733,6 +745,8 @@ https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
 https://45.190.28.50/JP_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="JovemPanNews.br@SD" tvg-name="Jovem Pan News (720p)" tvg-logo="" group-title="BRAZIL",Jovem Pan News (720p)
 http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br@SD" tvg-name="Jovem Pan News (720p)" tvg-logo="" group-title="BRAZIL",Jovem Pan News (720p)
+http://186.219.52.187:80/jp_news/index.m3u8
 #EXTINF:-1 tvg-id="JovemPanNews.br@SD" tvg-name="Jovem Pan News (720p)" tvg-logo="" group-title="BRAZIL",Jovem Pan News (720p)
 http://45.190.28.50/JP_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="JovemPanNews.br@SD" tvg-name="Jovem Pan NEWS (720p)" tvg-logo="" group-title="BRAZIL",Jovem Pan NEWS (720p)
@@ -907,6 +921,8 @@ http://138.255.2.6:8084/TVNOVOTEMPO/index.m3u8
 http://168.197.104.22:80/NOVO_TEMPO/index.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br@SD" tvg-name="Novo Tempo (720p)" tvg-logo="" group-title="BRAZIL",Novo Tempo (720p)
 http://170.83.49.66:8083/TVNOVOTEMPOHD/index.m3u8
+#EXTINF:-1 tvg-id="NovoTempo.br@SD" tvg-name="Novo Tempo (720p)" tvg-logo="" group-title="BRAZIL",Novo Tempo (720p)
+http://186.219.52.187:80/novo_tempo/index.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br@SD" tvg-name="Novo Tempo (720p)" tvg-logo="" group-title="BRAZIL",Novo Tempo (720p)
 http://45.162.64.114/NOVO_TEMPO/index.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br@SD" tvg-name="Novo Tempo (720p)" tvg-logo="" group-title="BRAZIL",Novo Tempo (720p)
@@ -1162,6 +1178,8 @@ http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-name="Record News (720p)" tvg-logo="" group-title="BRAZIL",Record News (720p)
 http://170.84.165.204:80/Record_news/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-name="Record News (720p)" tvg-logo="" group-title="BRAZIL",Record News (720p)
+http://186.219.52.187:80/record_news/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-name="Record News (720p)" tvg-logo="" group-title="BRAZIL",Record News (720p)
 http://45.162.64.114/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-name="Record News (720p)" tvg-logo="" group-title="BRAZIL",Record News (720p)
 http://45.177.114.115:80/RECORD_NEWS/index.m3u8
@@ -1226,6 +1244,8 @@ http://170.83.49.66:8083/REDECNTHD/index.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br@SD" tvg-name="Rede CNT Rio de Janeiro (720p)" tvg-logo="" group-title="BRAZIL",Rede CNT Rio de Janeiro (720p)
 http://170.84.165.204:80/CNT_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br@SD" tvg-name="Rede CNT Rio de Janeiro (720p)" tvg-logo="" group-title="BRAZIL",Rede CNT Rio de Janeiro (720p)
+http://186.219.52.187:80/cnt/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br@SD" tvg-name="Rede CNT Rio de Janeiro (720p)" tvg-logo="" group-title="BRAZIL",Rede CNT Rio de Janeiro (720p)
 http://45.162.64.114/CNT/index.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br@SD" tvg-name="Rede CNT Rio de Janeiro (720p)" tvg-logo="" group-title="BRAZIL",Rede CNT Rio de Janeiro (720p)
 http://45.190.28.50/CNT_HD/index.m3u8
@@ -1233,6 +1253,8 @@ http://45.190.28.50/CNT_HD/index.m3u8
 http://168.205.87.198:8555/live/1368/123456/150.m3u8
 #EXTINF:-1 tvg-id="RedeFamilia.br@SD" tvg-name="Rede Familia (720p)" tvg-logo="" group-title="BRAZIL",Rede Familia (720p)
 http://168.197.104.22:80/REDE_FAMILIA/index.m3u8
+#EXTINF:-1 tvg-id="RedeFamilia.br@SD" tvg-name="Rede Familia (720p)" tvg-logo="" group-title="BRAZIL",Rede Familia (720p)
+http://186.219.52.187:80/rede_familia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Globo" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Rede Globo
 https://45.190.156.152/GLOBO_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-name="Rede Globo (1080p)" tvg-logo="" group-title="BRAZIL",Rede Globo (1080p)
@@ -1270,6 +1292,8 @@ http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br@SD" tvg-name="Rede Seculo 21 (720p)" tvg-logo="" group-title="BRAZIL",Rede Seculo 21 (720p)
 http://138.255.2.6:8084/REDESECULO21/index.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br@SD" tvg-name="Rede Seculo 21 (720p)" tvg-logo="" group-title="BRAZIL",Rede Seculo 21 (720p)
+http://186.219.52.187:80/seculo21/index.m3u8
+#EXTINF:-1 tvg-id="RedeSeculo21.br@SD" tvg-name="Rede Seculo 21 (720p)" tvg-logo="" group-title="BRAZIL",Rede Seculo 21 (720p)
 http://45.162.64.114/REDE_SECULO_21/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REDE SPi" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",REDE SPi
 https://video11.logicahost.com.br/redespi/redespi/playlist.m3u8
@@ -1294,6 +1318,8 @@ http://170.83.16.50:80/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-name="Rede TV! (720p)" tvg-logo="" group-title="BRAZIL",Rede TV! (720p)
 http://170.83.49.66:8083/REDETVHD/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-name="Rede TV! (720p)" tvg-logo="" group-title="BRAZIL",Rede TV! (720p)
+http://186.219.52.187:80/rede_tv/index.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-name="Rede TV! (720p)" tvg-logo="" group-title="BRAZIL",Rede TV! (720p)
 http://45.162.64.114/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-id="RedeTVES.br@SD" tvg-name="Rede TV! ES (1080p)" tvg-logo="" group-title="BRAZIL",Rede TV! ES (1080p)
 https://streaming.cloudecast.com/hls/redetves/index.m3u8
@@ -1315,6 +1341,8 @@ http://168.197.104.22:80/REDE_VIDA/index.m3u8
 http://170.83.49.66:8083/REDEVIDAHD/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br@SD" tvg-name="Rede Vida (720p)" tvg-logo="" group-title="BRAZIL",Rede Vida (720p)
 http://170.84.165.204:80/REDEVIDA_HD/index.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br@SD" tvg-name="Rede Vida (720p)" tvg-logo="" group-title="BRAZIL",Rede Vida (720p)
+http://186.219.52.187:80/rede_vida/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br@SD" tvg-name="Rede Vida (720p)" tvg-logo="" group-title="BRAZIL",Rede Vida (720p)
 http://45.190.28.50/REDE_VIDA_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-name="BR - Rede Vida" tvg-logo="https://iptv-epg.org/images/eybTqefOZEvlGk8wuoRgjr0nUyPMxv-wih3hbS44trGsuopRjfInFg83cUjzNy7nhoPAuM-SlWVLo426kJKrQslkk22OwXBynrep3eBVfCjA" group-title="BRAZIL",Rede Vida | Brasil
@@ -1413,6 +1441,8 @@ http://167.250.126.140:7777/SBT-HD/index.m3u8
 http://170.84.165.204:80/SBT_HD/index.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-name="SBT Nacional (720p)" tvg-logo="" group-title="BRAZIL",SBT Nacional (720p)
 http://45.190.28.50/SBT_HD/index.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-name="SBT Nacional (720p) [Geo-blocked]" tvg-logo="" group-title="BRAZIL",SBT Nacional (720p) [Geo-blocked]
+https://dai.google.com/linear/hls/event/Gmgmn9icSMOL6TAePageWQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT News" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",SBT News
 https://45.190.156.152/SBT_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="SBTNews.br@SD" tvg-name="SBT News (720p)" tvg-logo="" group-title="BRAZIL",SBT News (720p)
@@ -1451,6 +1481,8 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2
 http://138.255.2.6:8084/SESCTV/index.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br@SD" tvg-name="SESC TV (720p)" tvg-logo="" group-title="BRAZIL",SESC TV (720p)
 http://170.83.49.66:8083/SESCTVHD/index.m3u8
+#EXTINF:-1 tvg-id="SESCTV.br@SD" tvg-name="SESC TV (720p)" tvg-logo="" group-title="BRAZIL",SESC TV (720p)
+http://186.219.52.187:80/sesc_tv/index.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br@SD" tvg-name="SESC TV (720p)" tvg-logo="" group-title="BRAZIL",SESC TV (720p)
 http://45.162.64.114/SESC_TV/index.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br@SD" tvg-name="SESC TV (720p)" tvg-logo="" group-title="BRAZIL",SESC TV (720p)
@@ -1698,6 +1730,8 @@ http://170.83.49.66:8083/TVBRASILHD/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil (720p)" tvg-logo="" group-title="BRAZIL",TV Brasil (720p)
 http://170.84.165.204:80/TVBRASIL/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil (720p)" tvg-logo="" group-title="BRAZIL",TV Brasil (720p)
+http://186.219.52.187:80/tv_brasil/index.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil (720p)" tvg-logo="" group-title="BRAZIL",TV Brasil (720p)
 http://45.162.64.114/TV_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil (720p)" tvg-logo="" group-title="BRAZIL",TV Brasil (720p)
 http://45.177.114.115:80/TV_BRASIL/index.m3u8
@@ -1724,6 +1758,8 @@ http://168.197.104.22:80/TV_CAMARA/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-name="TV Camara (720p)" tvg-logo="" group-title="BRAZIL",TV Camara (720p)
 http://170.83.49.66:8083/TVCAMARAHD/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-name="TV Camara (720p)" tvg-logo="" group-title="BRAZIL",TV Camara (720p)
+http://186.219.52.187:80/tv_camara/index.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-name="TV Camara (720p)" tvg-logo="" group-title="BRAZIL",TV Camara (720p)
 http://45.162.64.114/TV_CAMARA/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-name="TV Camara (720p)" tvg-logo="" group-title="BRAZIL",TV Camara (720p)
 http://45.177.114.115:80/TV_CAMARA/index.m3u8
@@ -1737,6 +1773,16 @@ https://45.190.28.50/CANCAO_NOVA_HD/index.m3u8
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-name="TV Cancao Nova (576p)" tvg-logo="" group-title="BRAZIL",TV Cancao Nova (576p)
 https://cdn-5.nxplay.com.br/CANCAO_NOVA/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-name="TV Cancao Nova (720p)" tvg-logo="" group-title="BRAZIL",TV Cancao Nova (720p)
+http://138.255.2.6:8084/CANCAONOVA/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-name="TV Cancao Nova (720p)" tvg-logo="" group-title="BRAZIL",TV Cancao Nova (720p)
+http://168.197.104.22:80/CANCAO_NOVA/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-name="TV Cancao Nova (720p)" tvg-logo="" group-title="BRAZIL",TV Cancao Nova (720p)
+http://170.83.16.50:80/CANCAO_NOVA/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-name="TV Cancao Nova (720p)" tvg-logo="" group-title="BRAZIL",TV Cancao Nova (720p)
+http://170.84.165.204:80/CANCAONOVA/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-name="TV Cancao Nova (720p)" tvg-logo="" group-title="BRAZIL",TV Cancao Nova (720p)
+http://186.219.52.187:80/cancao_nova/index.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-name="TV Cancao Nova (720p)" tvg-logo="" group-title="BRAZIL",TV Cancao Nova (720p)
 http://45.162.64.114/CANCAO_NOVA/index.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-name="TV Cancao Nova (720p)" tvg-logo="" group-title="BRAZIL",TV Cancao Nova (720p)
@@ -1777,6 +1823,8 @@ http://170.83.16.50:80/CULTURA/index.m3u8
 http://170.83.49.66:8083/TVCULTURAHD/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-name="TV Cultura (720p)" tvg-logo="" group-title="BRAZIL",TV Cultura (720p)
 http://170.84.165.204:80/CULTURA_HD/index.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-name="TV Cultura (720p)" tvg-logo="" group-title="BRAZIL",TV Cultura (720p)
+http://186.219.52.187:80/cultura/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-name="TV Cultura (720p)" tvg-logo="" group-title="BRAZIL",TV Cultura (720p)
 http://45.162.64.114/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-name="TV Cultura (720p)" tvg-logo="" group-title="BRAZIL",TV Cultura (720p)
@@ -1836,6 +1884,8 @@ http://170.83.16.50:80/TV_EVANGELIZAR/index.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br@SD" tvg-name="TV Evangelizar (720p)" tvg-logo="" group-title="BRAZIL",TV Evangelizar (720p)
 http://170.83.49.66:8083/EVANGELIZARHD/index.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br@SD" tvg-name="TV Evangelizar (720p)" tvg-logo="" group-title="BRAZIL",TV Evangelizar (720p)
+http://186.219.52.187:80/tv_evangelizar/index.m3u8
+#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" tvg-name="TV Evangelizar (720p)" tvg-logo="" group-title="BRAZIL",TV Evangelizar (720p)
 http://45.162.64.114/EVANGELIZAR/index.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br@SD" tvg-name="TV Evangelizar (720p)" tvg-logo="" group-title="BRAZIL",TV Evangelizar (720p)
 http://45.190.28.50/TV_EVANGELIZAR/index.m3u8
@@ -1859,6 +1909,8 @@ http://138.255.2.6:8084/GAZETA/index.m3u8
 http://168.197.104.22:80/GAZETA/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-name="TV Gazeta (720p)" tvg-logo="" group-title="BRAZIL",TV Gazeta (720p)
 http://170.84.165.204:80/Gazeta_HD/index.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-name="TV Gazeta (720p)" tvg-logo="" group-title="BRAZIL",TV Gazeta (720p)
+http://186.219.52.187:80/gazeta/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-name="TV Gazeta (720p)" tvg-logo="" group-title="BRAZIL",TV Gazeta (720p)
 http://45.162.64.114/GAZETA/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-name="TV Gazeta (720p)" tvg-logo="" group-title="BRAZIL",TV Gazeta (720p)
@@ -1908,6 +1960,8 @@ http://170.83.16.50:80/TV_JUSTICA/index.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-name="TV Justica (720p)" tvg-logo="" group-title="BRAZIL",TV Justica (720p)
 http://170.83.49.66:8083/TVJUSTICAHD/index.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-name="TV Justica (720p)" tvg-logo="" group-title="BRAZIL",TV Justica (720p)
+http://186.219.52.187:80/tv_justica/index.m3u8
+#EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-name="TV Justica (720p)" tvg-logo="" group-title="BRAZIL",TV Justica (720p)
 http://45.162.64.114/TV_JUSTICA/index.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-name="TV Justica (720p)" tvg-logo="" group-title="BRAZIL",TV Justica (720p)
 http://45.190.28.50/TV_JUSTICA/index.m3u8
@@ -1954,6 +2008,8 @@ https://45.190.28.50/PAI_ETERNO/index.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br@SD" tvg-name="TV Pai Eterno (720p)" tvg-logo="" group-title="BRAZIL",TV Pai Eterno (720p)
 http://168.197.104.22:80/TV_PAI_ETERNO/index.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br@SD" tvg-name="TV Pai Eterno (720p)" tvg-logo="" group-title="BRAZIL",TV Pai Eterno (720p)
+http://186.219.52.187:80/pai_eterno/index.m3u8
+#EXTINF:-1 tvg-id="TVPaiEterno.br@SD" tvg-name="TV Pai Eterno (720p)" tvg-logo="" group-title="BRAZIL",TV Pai Eterno (720p)
 http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br@SD" tvg-name="TV Pai Eterno (720p)" tvg-logo="" group-title="BRAZIL",TV Pai Eterno (720p)
 http://45.190.28.50/PAI_ETERNO/index.m3u8
@@ -1986,6 +2042,8 @@ http://168.197.104.22:80/RA_TIM_BUM/index.m3u8
 #EXTINF:-1 tvg-id="TVRaTimBum.br@SD" tvg-name="TV Ra Tim Bum (720p)" tvg-logo="" group-title="BRAZIL",TV Ra Tim Bum (720p)
 http://170.83.49.66:8083/TVRATIMBUMHD/index.m3u8
 #EXTINF:-1 tvg-id="TVRaTimBum.br@SD" tvg-name="TV Ra Tim Bum (720p)" tvg-logo="" group-title="BRAZIL",TV Ra Tim Bum (720p)
+http://186.219.52.187:80/ratimbum/index.m3u8
+#EXTINF:-1 tvg-id="TVRaTimBum.br@SD" tvg-name="TV Ra Tim Bum (720p)" tvg-logo="" group-title="BRAZIL",TV Ra Tim Bum (720p)
 http://45.177.114.115:80/TV_RA_TIM_BUM/index.m3u8
 #EXTINF:-1 tvg-id="TVRaTimBum.br@SD" tvg-name="TV Ra Tim Bum (720p)" tvg-logo="" group-title="BRAZIL",TV Ra Tim Bum (720p)
 http://45.190.28.50/RATIMBUM/index.m3u8
@@ -2005,6 +2063,8 @@ http://168.197.104.22:80/TV_SENADO/index.m3u8
 http://170.83.16.50:80/TV_SENADO/index.m3u8
 #EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-name="TV Senado (720p)" tvg-logo="" group-title="BRAZIL",TV Senado (720p)
 http://170.83.49.66:8083/TVSENADOHD/index.m3u8
+#EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-name="TV Senado (720p)" tvg-logo="" group-title="BRAZIL",TV Senado (720p)
+http://186.219.52.187:80/tv_senado/index.m3u8
 #EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-name="TV Senado (720p)" tvg-logo="" group-title="BRAZIL",TV Senado (720p)
 http://45.162.64.114/TV_SENADO/index.m3u8
 #EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-name="TV Senado (720p)" tvg-logo="" group-title="BRAZIL",TV Senado (720p)
@@ -2141,6 +2201,8 @@ http://167.250.126.140:7777/WOOHOO-HD/index.m3u8
 http://168.197.104.22:80/WOOHOO/index.m3u8
 #EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-name="WooHoo (720p)" tvg-logo="" group-title="BRAZIL",WooHoo (720p)
 http://170.83.16.50:80/WOOHOO/index.m3u8
+#EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-name="WooHoo (720p)" tvg-logo="" group-title="BRAZIL",WooHoo (720p)
+http://186.219.52.187:80/woohoo/index.m3u8
 #EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-name="WooHoo (720p)" tvg-logo="" group-title="BRAZIL",WooHoo (720p)
 http://45.162.64.114/WOOHOO/index.m3u8
 #EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-name="WooHoo (720p)" tvg-logo="" group-title="BRAZIL",WooHoo (720p)
@@ -2519,11 +2581,11 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1503
 #EXTINF:-1 tvg-id="USAJ2200012RN" tvg-name="PursuitUP | EUA" tvg-logo="http://images.pluto.tv/channels/5d486bed428fe37d8cadba45/colorLogoPNG.png" group-title="CAÇA; PESCA E RODEIO EM INGLÊS",PursuitUP | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1165
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608a2c722957c9002c6a617b" tvg-name="Wired2Fish TV | Distro" tvg-logo="https://i.imgur.com/Nsb8a51.png" group-title="CAÇA; PESCA E RODEIO EM INGLÊS",Wired2Fish TV | Distro
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608a2c722957c9002c6a617b" tvg-name="Wired2Fish" tvg-logo="https://provider-static.plex.tv/epg/cms/production/146827c9-ba03-4f25-86b2-d99c501e8227/wired2fish_white.png" group-title="CAÇA; PESCA E RODEIO EM INGLÊS",Wired2Fish TV | Distro
 https://dai.google.com/linear/hls/event/YvQxyCZaT9yhN-LCy5twQA/master.m3u8
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608a2c722957c9002c6a617b" tvg-name="Wired2Fish TV | Plex 2" tvg-logo="https://i.imgur.com/Nsb8a51.png" group-title="CAÇA; PESCA E RODEIO EM INGLÊS",Wired2Fish TV | Plex 2
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608a2c722957c9002c6a617b" tvg-name="Wired2Fish" tvg-logo="https://provider-static.plex.tv/epg/cms/production/146827c9-ba03-4f25-86b2-d99c501e8227/wired2fish_white.png" group-title="CAÇA; PESCA E RODEIO EM INGLÊS",Wired2Fish TV | Plex 2
 https://e5e136053ead4bb88b80fc7a901a4ac0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-PLEX/mt/plex/80/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608a2c722957c9002c6a617b" tvg-name="Wired2Fish TV | SportsTribal" tvg-logo="https://i.imgur.com/Nsb8a51.png" group-title="CAÇA; PESCA E RODEIO EM INGLÊS",Wired2Fish TV | SportsTribal
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608a2c722957c9002c6a617b" tvg-name="Wired2Fish" tvg-logo="https://provider-static.plex.tv/epg/cms/production/146827c9-ba03-4f25-86b2-d99c501e8227/wired2fish_white.png" group-title="CAÇA; PESCA E RODEIO EM INGLÊS",Wired2Fish TV | SportsTribal
 https://linear-80.frequency.stream/dist/sportstribaltv/80/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae875" tvg-name="Axs TV Now | EUA" tvg-logo="https://i.imgur.com/Sa39Z1b.png" group-title="CELEBRIDADES E CULTURA POP EM INGLÊS",Axs TV Now | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=780
@@ -2541,9 +2603,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=856
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=922
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae875" tvg-name="Axs TV Now | música" tvg-logo="https://i.imgur.com/Sa39Z1b.png" group-title="CELEBRIDADES E CULTURA POP EM INGLÊS",Axs TV Now | música
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=777
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-name="Classic Rock Network" tvg-logo="https://i.imgur.com/YseBxh6.png" group-title="CELEBRIDADES E CULTURA POP EM INGLÊS",Classic Rock Network
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-name="Music Legends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" group-title="CELEBRIDADES E CULTURA POP EM INGLÊS",Classic Rock Network
 https://cdn17.fntvchannel.com/index.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-name="Classic Rock Network | link 2" tvg-logo="https://i.imgur.com/YseBxh6.png" group-title="CELEBRIDADES E CULTURA POP EM INGLÊS",Classic Rock Network | link 2
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-name="Music Legends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" group-title="CELEBRIDADES E CULTURA POP EM INGLÊS",Classic Rock Network | link 2
 https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Georgia Hollywood Review TV" tvg-logo="https://i.imgur.com/t5671WU.png" group-title="CELEBRIDADES E CULTURA POP EM INGLÊS",Georgia Hollywood Review TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1507
@@ -2559,7 +2621,7 @@ https://linear-44.frequency.stream/44/hls/master/playlist.m3u8
 https://0b4227d4da7e4ba4aa9d980f532fdc86.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-PLEX/mt/plex/44/hls/master/playlist.m3u8?ads.plex_token=y4Rf78msRg4_dQbMaoax&ads.plex_id=5f458dded93f4a0041cb1f63&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 #EXTINF:-1 tvg-id="" tvg-name="SideWalks TV | EUA" tvg-logo="https://i.imgur.com/s2CTd1P.png" group-title="CELEBRIDADES E CULTURA POP EM INGLÊS",SideWalks TV | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1501
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-61d738b5a7b7c7f703418514" tvg-name="Trailers From Hell" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2a86a06c-8a32-4a88-bf69-831a26032698/trailers-from-hellCircle.png" group-title="CELEBRIDADES E CULTURA POP EM INGLÊS",Trailers From Hell
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61d738b5a7b7c7f703418514" tvg-name="Trailers From Hell" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2a86a06c-8a32-4a88-bf69-831a26032698/trailers-from-hellCircle.png" group-title="CELEBRIDADES E CULTURA POP EM INGLÊS",Trailers From Hell
 https://558967c5c32141fe8f01c37d315e43a3.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TrailersFromHell/playlist.m3u8?ads.wurl_channel=1048&ads.wurl_name=TrailersFromHell&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=y_HMAMzw1oNcdLetH1FS&ads.plex_id=61d738b5a7b7c7f703418514&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 tvg-id="dtv_EPGUs Weekly TV" tvg-name="US Weekly TV" tvg-logo="" group-title="CELEBRIDADES E CULTURA POP EM INGLÊS",US Weekly | Distro TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/us-weekly-tv/master.m3u8
@@ -2719,7 +2781,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://ammo-espanol-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c15" tvg-name="Runtime Español | Plex" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/runtime-espanol.png" group-title="CINEMA EM ESPANHOL",Runtime Español | Plex
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
-#EXTINF:-1 tvg-id="dtv_EPGTop Cine" tvg-name="Top Cine" tvg-logo="" group-title="CINEMA EM ESPANHOL",Top Cine
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" tvg-name="FreeTV Acción" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8b31c27f-b26e-475d-bec6-a7d452260f56/FreeTVAccion_Circle_1500x1000_-_Ralph_Campillo.png" group-title="CINEMA EM ESPANHOL",Top Cine
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-topcine-latam-plex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGTu Cine" tvg-name="Tu Cine" tvg-logo="" group-title="CINEMA EM ESPANHOL",Tu Cine
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucineus-plex/CDN/playlist.m3u8
@@ -2785,7 +2847,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1533
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1694
 #EXTINF:-1 tvg-id="" tvg-name="CinePast 2" tvg-logo="https://i.imgur.com/KS6HUCi.png" group-title="CINEMA EM INGLÊS",CinePast 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1695
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62167144ab2095ca85353ad6" tvg-name="Cinepride | EUA" tvg-logo="https://i.imgur.com/D9TPZPk.png" group-title="CINEMA EM INGLÊS",Cinepride | EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62167144ab2095ca85353ad6" tvg-name="CINEPRIDE" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png" group-title="CINEMA EM INGLÊS",Cinepride | EUA
 https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinepride | EUA | Galxy TV" tvg-logo="https://i.imgur.com/D9TPZPk.png" group-title="CINEMA EM INGLÊS",Cinepride | EUA | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1871
@@ -2871,11 +2933,11 @@ https://b58cbafb283b4d0b9610407d0e766d64.mediatailor.us-east-1.amazonaws.com/v1/
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1788
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-604bf68f499957002d574f45" tvg-name="Freebie TV | EUA" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/freebietv_logo_dark.png" group-title="CINEMA EM INGLÊS",Freebie TV | EUA
 https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8?ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.channel_id=604bf68f499957002d574f45&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674502c2627c068e73ada" tvg-name="FrightFlix | Galxy TV" tvg-logo="https://i.imgur.com/zRU6SZi.png" group-title="CINEMA EM INGLÊS",FrightFlix | Galxy TV
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="CINEMA EM INGLÊS",FrightFlix | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=81
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674502c2627c068e73ada" tvg-name="FrightFlix | Galxy TV 2" tvg-logo="https://i.imgur.com/zRU6SZi.png" group-title="CINEMA EM INGLÊS",FrightFlix | Galxy TV 2
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="CINEMA EM INGLÊS",FrightFlix | Galxy TV 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2582
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674502c2627c068e73ada" tvg-name="FrightFlix | Galxy TV 3" tvg-logo="https://i.imgur.com/zRU6SZi.png" group-title="CINEMA EM INGLÊS",FrightFlix | Galxy TV 3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674502c2627c068e73ada" tvg-name="FrightFlix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="CINEMA EM INGLÊS",FrightFlix | Galxy TV 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2594
 #EXTINF:-1 tvg-id="" tvg-name="FrightMare Theater" tvg-logo="https://i.imgur.com/ARYZ75a.png" group-title="CINEMA EM INGLÊS",FrightMare Theater
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1483
@@ -2887,7 +2949,7 @@ https://cdn20.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021
 https://cdn22.fntvchannel.com/index.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c6843b964c65b53de32e" tvg-name="Gago TV | link 4" tvg-logo="https://i.imgur.com/ehfOF9n.png" group-title="CINEMA EM INGLÊS",Gago TV | link 4
 https://cdn23.fntvchannel.com/index.m3u8
-#EXTINF:-1 tvg-id="DUMMYGalxyTV" tvg-name="Galxy TV" tvg-logo="" group-title="CINEMA EM INGLÊS",Galxy TV
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621672e42c2627c068e73ad8" tvg-name="Galxy TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc452291-62d8-4f01-8e5b-b1fef79fb37d/GalxyTV_logo_dark.png" group-title="CINEMA EM INGLÊS",Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2595
 #EXTINF:-1 tvg-id="" tvg-name="Go See Westerns" tvg-logo="https://i.imgur.com/Xr5eiym.png" group-title="CINEMA EM INGLÊS",Go See Westerns
 https://cdn18.fntvchannel.com/index.m3u8
@@ -2897,7 +2959,7 @@ https://cba5182b39c145c2b96ecc5c3f72e41a.mediatailor.us-east-1.amazonaws.com/v1/
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="HDNetMovies.us" tvg-name="HDNET Movies" tvg-logo="https://i.imgur.com/903gq7d.png" group-title="CINEMA EM INGLÊS",HDNET Movies
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1036
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f64c4ef35f612003f6ffe30" tvg-name="Hi-YAH!" tvg-logo="https://i.imgur.com/Bq0AGTk.png" group-title="CINEMA EM INGLÊS",Hi-YAH!
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f64c4ef35f612003f6ffe30" tvg-name="Hi-YAH!" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hi-yah!_logo.png" group-title="CINEMA EM INGLÊS",Hi-YAH!
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1119
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f64c4ef35f612003f6ffe30" tvg-name="Hi-YAH! | link 2" tvg-logo="https://i.imgur.com/Bq0AGTk.png" group-title="CINEMA EM INGLÊS",Hi-YAH! | link 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1781
@@ -2931,7 +2993,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 #EXTINF:-1 tvg-id="" tvg-name="KMovies | legenda em inglês" tvg-logo="https://i.imgur.com/wncVwti.png" group-title="CINEMA EM INGLÊS",KMovies | legenda em inglês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4430" tvg-name="Maverick Black Cinema | Plex EUA" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png" group-title="CINEMA EM INGLÊS",Maverick Black Cinema | Plex EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4430" tvg-name="Maverick Black Cinema" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png" group-title="CINEMA EM INGLÊS",Maverick Black Cinema | Plex EUA
 https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MaverickBlackCinema/playlist.m3u8
 #EXTINF:-1 tvg-id="MGMHDUSA.us" tvg-name="MGM HD" tvg-logo="https://i.imgur.com/YQdLSlL.png" group-title="CINEMA EM INGLÊS",MGM HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1056
@@ -2979,7 +3041,7 @@ https://filmnoirchannel-live.localnowlive.com/v1/master/385c85a93929f94966d0fb18
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lone-star/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Lone Star Channel | Distro | link 2" tvg-logo="https://i.imgur.com/Sxf26dk.png" group-title="CINEMA EM INGLÊS",The Lone Star Channel | Distro | link 2
 https://dai.google.com/linear/hls/event/i98gkOy4R6GGN_j-P3wZvw/master.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616" tvg-name="The Lone Star Channel | Rakuten" tvg-logo="https://i.imgur.com/Sxf26dk.png" group-title="CINEMA EM INGLÊS",The Lone Star Channel | Rakuten
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616" tvg-name="Lone Star" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1d8c9bf417f3e12668fecafc25fc8f72.png" group-title="CINEMA EM INGLÊS",The Lone Star Channel | Rakuten
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Toro TV" tvg-logo="https://i.imgur.com/JrurF3g.png" group-title="CINEMA EM INGLÊS",Toro TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=793
@@ -2987,7 +3049,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=793
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1665
 #EXTINF:-1 tvg-id="" tvg-name="Toro TV | EUA 3" tvg-logo="https://i.imgur.com/JrurF3g.png" group-title="CINEMA EM INGLÊS",Toro TV | EUA 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1686
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ede94f7da2ef002c55ce9b" tvg-name="Tribeca Channel" tvg-logo="https://i.imgur.com/6zYBr7B.png" group-title="CINEMA EM INGLÊS",Tribeca Channel
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-60ede94f7da2ef002c55ce9b" tvg-name="Tribeca Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3609f1e-21bc-4899-9399-2f6ab8f9b49d/TribecaChannel_Logo_Dark.png" group-title="CINEMA EM INGLÊS",Tribeca Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=822
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ede94f7da2ef002c55ce9b" tvg-name="Tribeca Channel 2" tvg-logo="https://i.imgur.com/6zYBr7B.png" group-title="CINEMA EM INGLÊS",Tribeca Channel 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1850
@@ -3107,27 +3169,27 @@ http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 #EXTINF:-1 tvg-id="TVNova.hr" tvg-name="TV Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/c/c8/TVnova-logo.png" group-title="CROATIA",TV Nova
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGCooking Panda" tvg-name="Cooking Panda" tvg-logo="" group-title="CULINÁRIA EM INGLÊS",Cooking Panda
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="CULINÁRIA EM INGLÊS",Cooking Panda
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda | link 10" tvg-logo="https://i.imgur.com/F09qSdk.png" group-title="CULINÁRIA EM INGLÊS",Cooking Panda | link 10
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="CULINÁRIA EM INGLÊS",Cooking Panda | link 10
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1682
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda | link 11" tvg-logo="https://i.imgur.com/F09qSdk.png" group-title="CULINÁRIA EM INGLÊS",Cooking Panda | link 11
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="CULINÁRIA EM INGLÊS",Cooking Panda | link 11
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=47
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda | link 2" tvg-logo="https://i.imgur.com/F09qSdk.png" group-title="CULINÁRIA EM INGLÊS",Cooking Panda | link 2
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="CULINÁRIA EM INGLÊS",Cooking Panda | link 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=165
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda | link 3" tvg-logo="https://i.imgur.com/F09qSdk.png" group-title="CULINÁRIA EM INGLÊS",Cooking Panda | link 3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="CULINÁRIA EM INGLÊS",Cooking Panda | link 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=180
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda | link 4" tvg-logo="https://i.imgur.com/F09qSdk.png" group-title="CULINÁRIA EM INGLÊS",Cooking Panda | link 4
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="CULINÁRIA EM INGLÊS",Cooking Panda | link 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=207
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda | link 5" tvg-logo="https://i.imgur.com/F09qSdk.png" group-title="CULINÁRIA EM INGLÊS",Cooking Panda | link 5
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="CULINÁRIA EM INGLÊS",Cooking Panda | link 5
 https://ov.ottera.tv/live/master.m3u8?channel=rndr_cp
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda | link 6" tvg-logo="https://i.imgur.com/F09qSdk.png" group-title="CULINÁRIA EM INGLÊS",Cooking Panda | link 6
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="CULINÁRIA EM INGLÊS",Cooking Panda | link 6
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=233
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda | link 7" tvg-logo="https://i.imgur.com/F09qSdk.png" group-title="CULINÁRIA EM INGLÊS",Cooking Panda | link 7
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="CULINÁRIA EM INGLÊS",Cooking Panda | link 7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=46
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda | link 8" tvg-logo="https://i.imgur.com/F09qSdk.png" group-title="CULINÁRIA EM INGLÊS",Cooking Panda | link 8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="CULINÁRIA EM INGLÊS",Cooking Panda | link 8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=476
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda | link 9" tvg-logo="https://i.imgur.com/F09qSdk.png" group-title="CULINÁRIA EM INGLÊS",Cooking Panda | link 9
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="CULINÁRIA EM INGLÊS",Cooking Panda | link 9
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=816
 #EXTINF:-1 tvg-id="Crema TV" tvg-name="Crema TV | Distro TV" tvg-logo="https://i.imgur.com/zmoDsHi.png" group-title="CULINÁRIA EM INGLÊS",Crema TV | Distro TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/crematv/crt.m3u8
@@ -3301,7 +3363,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1304
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=560
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2" tvg-name="Go Traveler 4" tvg-logo="https://i.imgur.com/pzDE0qH.png" group-title="DOCUMENTÁRIOS EM INGLÊS",Go Traveler 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=689
-#EXTINF:-1 tvg-id="INBA5100025YE" tvg-name="GoUSA TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100025YE_20260623T012246SQUARE.png" group-title="DOCUMENTÁRIOS EM INGLÊS",GoUSA TV
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c" tvg-name="GoUSA TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png" group-title="DOCUMENTÁRIOS EM INGLÊS",GoUSA TV
 https://a7ea429b0854458daac9f78715c8093f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GoUSATV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Guinness World Records" tvg-logo="https://i.imgur.com/ZPA2yTM.png" group-title="DOCUMENTÁRIOS EM INGLÊS",Guinness World Records
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=567
@@ -3353,7 +3415,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1320
 https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="13868" tvg-name="Timeline | Reino Unido" tvg-logo="https://i.imgur.com/AzZhwWR.jpg" group-title="DOCUMENTÁRIOS EM INGLÊS",Timeline | Reino Unido
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" tvg-name="True History | link 1" tvg-logo="https://i.imgur.com/j3libxD.png" group-title="DOCUMENTÁRIOS EM INGLÊS",True History | link 1
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" tvg-name="True History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f37684ab-5eb6-48dd-8999-fbb6345689d4/1500x1000-DarkBG.png" group-title="DOCUMENTÁRIOS EM INGLÊS",True History | link 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=72
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d66b898490041b493ad" tvg-name="Weather Spy" tvg-logo="https://i.imgur.com/E9r23h4.png" group-title="DOCUMENTÁRIOS EM INGLÊS",Weather Spy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=775
@@ -3369,13 +3431,13 @@ https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d66b898490041b493ad" tvg-name="Weather Spy | Roku 1" tvg-logo="https://i.imgur.com/E9r23h4.png" group-title="DOCUMENTÁRIOS EM INGLÊS",Weather Spy | Roku 1
 http://linear-176.frequency.stream/176/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135" tvg-name="Wild Earth | Brasil | Samsung" tvg-logo="https://i.imgur.com/ssxtGlH.png" group-title="DOCUMENTÁRIOS EM INGLÊS",Wild Earth | Brasil | Samsung
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135" tvg-name="WildEarth" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png" group-title="DOCUMENTÁRIOS EM INGLÊS",Wild Earth | Brasil | Samsung
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-escapetonature-wildearth-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135" tvg-name="Wild Earth | África do Sul | Plex" tvg-logo="https://i.imgur.com/ssxtGlH.png" group-title="DOCUMENTÁRIOS EM INGLÊS",Wild Earth | África do Sul | Plex
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135" tvg-name="WildEarth" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png" group-title="DOCUMENTÁRIOS EM INGLÊS",Wild Earth | África do Sul | Plex
 https://wildearth-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135" tvg-name="Wild Earth | África do Sul | Rakuten" tvg-logo="https://i.imgur.com/ssxtGlH.png" group-title="DOCUMENTÁRIOS EM INGLÊS",Wild Earth | África do Sul | Rakuten
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135" tvg-name="WildEarth" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png" group-title="DOCUMENTÁRIOS EM INGLÊS",Wild Earth | África do Sul | Rakuten
 https://wildearth-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-5f74cf83ffbe690040689f4d" tvg-name="Wonder" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wonder-logo.png" group-title="DOCUMENTÁRIOS EM INGLÊS",Wonder
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d" tvg-name="Wonder" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wonder-logo.png" group-title="DOCUMENTÁRIOS EM INGLÊS",Wonder
 https://lds-wonder-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=y_HMAMzw1oNcdLetH1FS&channelId=5f74cf83ffbe690040689f4d&uid=1g64pmepo-hn2i-jo-9p0t-a2lsb68a1u/hls/amagi_hls_data_ldsAAAAAA-wonder-plex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="USBA430000220" tvg-name="Xplore | EUA 1" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/60/USBA430000220_20210525T051550.png" group-title="DOCUMENTÁRIOS EM INGLÊS",Xplore | EUA 1
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
@@ -3429,13 +3491,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1090
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6325
 #EXTINF:-1 tvg-id="" tvg-name="Life Fit by Tríptic | Distro" tvg-logo="https://a.jsrdn.com/hls/23024/lifefit-by-triptic/logo_20231219_215130_63.png" group-title="ESPORTES EM ESPANHOL",Life Fit by Tríptic | Distro
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/master.m3u8
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60da3a5c0d1cc1002c38370e" tvg-name="Motorvision | Castelaño y Inglés" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="ESPORTES EM ESPANHOL",Motorvision | Castelaño y Inglés
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60da3a5c0d1cc1002c38370e" tvg-name="Motorvision TV en Español" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="ESPORTES EM ESPANHOL",Motorvision | Castelaño y Inglés
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=757
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60da3a5c0d1cc1002c38370e" tvg-name="Motorvision | Castelaño y Inglés | Distro TV" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="ESPORTES EM ESPANHOL",Motorvision | Castelaño y Inglés | Distro TV
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60da3a5c0d1cc1002c38370e" tvg-name="Motorvision TV en Español" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="ESPORTES EM ESPANHOL",Motorvision | Castelaño y Inglés | Distro TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorvision-tv-espaol/a.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22886&ads.content_duration=18000&ads.episode_id=92945&ads.show_id=3370&ads.showCategories=IAB2&ads.episodeCategories=IAB2&ads.genre=Lifestyle%2CInfotainment&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=Motorvision%20TV%20Espa%C3%B1ol&ads.episodetitle=Motorvision%20TV%20Espa%C3%B1ol&ads.keywords=Cars%2CLuxury%2CMotorvision%2CSports%20CArs%2CCar%20History%2CCarro%2Cespanol&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&version=12&id=2459&partner=distro&ads.islive=1&ads.streamtype=live
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60da3a5c0d1cc1002c38370e" tvg-name="Motorvision | Castelaño y Inglés | link 2" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="ESPORTES EM ESPANHOL",Motorvision | Castelaño y Inglés | link 2
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60da3a5c0d1cc1002c38370e" tvg-name="Motorvision TV en Español" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="ESPORTES EM ESPANHOL",Motorvision | Castelaño y Inglés | link 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1677
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60da3a5c0d1cc1002c38370e" tvg-name="Motorvision | Castelaño y Inglés | link 3" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="ESPORTES EM ESPANHOL",Motorvision | Castelaño y Inglés | link 3
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60da3a5c0d1cc1002c38370e" tvg-name="Motorvision TV en Español" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="ESPORTES EM ESPANHOL",Motorvision | Castelaño y Inglés | link 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2182
 #EXTINF:-1 tvg-id="" tvg-name="PX Sports | legenda em espanhol | México" tvg-logo="https://i.imgur.com/X7XNAMS.png" group-title="ESPORTES EM ESPANHOL",PX Sports | legenda em espanhol | México
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1709
@@ -3463,7 +3525,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2167
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2005
 #EXTINF:-1 tvg-id="Bleav Football" tvg-name="Bleav Football | Distro TV" tvg-logo="https://i.imgur.com/nQ0M9TP.png" group-title="ESPORTES EM INGLÊS",Bleav Football | Distro TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bleav-football/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6216ae22c3bbca2de8704f65" tvg-name="CampusLore Sports | Roku" tvg-logo="https://i.imgur.com/zmvTgto.png" group-title="ESPORTES EM INGLÊS",CampusLore Sports | Roku
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6216ae22c3bbca2de8704f65" tvg-name="Sports Illustrated TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png" group-title="ESPORTES EM INGLÊS",CampusLore Sports | Roku
 http://linear-235.frequency.stream/235/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5eea71d45252710041e0ccb9" tvg-name="Edge Sport | Plex EUA" tvg-logo="https://i.imgur.com/Ff1yOuL.png" group-title="ESPORTES EM INGLÊS",Edge Sport | Plex EUA
 https://edgesports-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-edgesports-plex/CDN/playlist.m3u8
@@ -3485,9 +3547,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2011
 https://ov.ottera.tv/live/master.m3u8?channel=chan_ep
 #EXTINF:-1 tvg-id="foxsports.com.au" tvg-name="Fox Sports News | Austrália" tvg-logo="https://i.imgur.com/vLdszKt.png" group-title="ESPORTES EM INGLÊS",Fox Sports News | Austrália
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" tvg-name="FTF Sports | EUA" tvg-logo="https://i.imgur.com/oqT92nF.png" group-title="ESPORTES EM INGLÊS",FTF Sports | EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="ESPORTES EM INGLÊS",FTF Sports | EUA
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" tvg-name="FTF Sports | EUA 2" tvg-logo="https://i.imgur.com/oqT92nF.png" group-title="ESPORTES EM INGLÊS",FTF Sports | EUA 2
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" tvg-name="FTF Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="ESPORTES EM INGLÊS",FTF Sports | EUA 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=843
 #EXTINF:-1 tvg-id="DEBA10000051Z" tvg-name="Fuel TV | Alemanha" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/18/DEBA10000051Z_20201029T004114.png" group-title="ESPORTES EM INGLÊS",Fuel TV | Alemanha
 https://1d289f506bff499fb16f39c4a07f3d88.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FuelTV/playlist.m3u8
@@ -3545,7 +3607,7 @@ https://cdn15.fntvchannel.com/index.m3u8
 https://cdn19.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/PartyPoker-Plex/index.m3u8?ads.X-PLEX-TOKEN=y4Rf78msRg4_dQbMaoax&ads.CHANNEL=6196c99e3b964c65b53de32f&ads.DEVICE_ID=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.DNT=0
 #EXTINF:-1 tvg-id="GBAJ4200006XW" tvg-name="PlayersTV" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/83/GBAJ4200006XW_20200923T100444.png" group-title="ESPORTES EM INGLÊS",PlayersTV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-playerstv-samsungtv-uk/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60afc726623f2f002c5bb49f" tvg-name="Poker Night | EUA" tvg-logo="https://i.imgur.com/OtX1uj2.png" group-title="ESPORTES EM INGLÊS",Poker Night | EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60afc726623f2f002c5bb49f" tvg-name="Poker Night TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e081c886-d798-4438-855b-2f1fb10c50ee/poker-night-tv.png" group-title="ESPORTES EM INGLÊS",Poker Night | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1353
 #EXTINF:-1 tvg-id="67a3b45a21af380008133aa4" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/67a3b45a21af380008133aa4/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS",RealMadrid TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
@@ -3605,11 +3667,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1346
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1540
 #EXTINF:-1 tvg-id="" tvg-name="Auto Allstars" tvg-logo="https://i.imgur.com/PJDDLA6.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Auto Allstars
 https://d33yv8yb2ds4q1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/AutoAllstars-SportsTribal/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3" tvg-name="Choppertown | EUA" tvg-logo="http://images.pluto.tv/channels/5d2646a1970eb273b28db077/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Choppertown | EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3" tvg-name="BOOT" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e31e123-a40b-41c6-9153-67c983c6d9e6/boot_all-white_1500X1000_PNG_transparent_background.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Choppertown | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=963
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3" tvg-name="Choppertown | link 2" tvg-logo="http://images.pluto.tv/channels/5d2646a1970eb273b28db077/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Choppertown | link 2
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3" tvg-name="BOOT" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e31e123-a40b-41c6-9153-67c983c6d9e6/boot_all-white_1500X1000_PNG_transparent_background.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Choppertown | link 2
 https://linear-11.frequency.stream/dist/sportstribaltv/11/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3" tvg-name="Choppertown | link 3" tvg-logo="http://images.pluto.tv/channels/5d2646a1970eb273b28db077/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Choppertown | link 3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3" tvg-name="BOOT" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e31e123-a40b-41c6-9153-67c983c6d9e6/boot_all-white_1500X1000_PNG_transparent_background.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Choppertown | link 3
 https://6c4d10b7b847421db903914a39b00eb7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-PLEX/mt/plex/11/hls/master/playlist.m3u8?ads.plex_token=y4Rf78msRg4_dQbMaoax&ads.plex_id=5ef11487d33ab9004048a1d3&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 #EXTINF:-1 tvg-id="" tvg-name="FloRacing 24/7 | Distro TV" tvg-logo="https://i.imgur.com/mvdJePy.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",FloRacing 24/7 | Distro TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/floracing-247/playlist.m3u8
@@ -3619,47 +3681,47 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1062
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1999
 #EXTINF:-1 tvg-id="GBBA1500006H6" tvg-name="MotorRacing" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA1500006H6_20250107T022613SQUARE.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",MotorRacing
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2141
-#EXTINF:-1 tvg-id="ESBD3200001EG" tvg-name="Motorvision" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200001EG_20241022T051031SQUARE.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=443
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision 10" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 10
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 10
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=846
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision 11" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 11
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 11
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=925
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision 12" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 12
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 12
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=927
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision 13" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 13
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 13
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1322
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision 14" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 14
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 14
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1755
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision 15" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 15
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 15
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2020
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision 2" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 2
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=444
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision 3" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=460
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision 4" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 4
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1314
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision 5" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 5
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 5
 https://ov.ottera.tv/live/master.m3u8?channel=mvg_mv
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision 6" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 6
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 6
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=445
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision 7" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 7
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision 8" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=633
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision 9" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 9
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-name="Motorvision TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision 9
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=692
 #EXTINF:-1 tvg-id="USAJ4000004ZT" tvg-name="Motorvision | Samsung" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Motorvision | Samsung
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplus-motorvision/CDN/playlist.m3u8?p=samsung&device_id=%7BPSID%7D&is_lat=%7BTARGETOPT%7D&us_privacy=1YNY&coppa=0&app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-name="NHRA Championship Drag Racing 1" tvg-logo="https://i.imgur.com/8OgnSVV.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",NHRA Championship Drag Racing 1
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-name="NHRA TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",NHRA Championship Drag Racing 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=732
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-name="NHRA Championship Drag Racing 2" tvg-logo="https://i.imgur.com/8OgnSVV.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",NHRA Championship Drag Racing 2
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-name="NHRA TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",NHRA Championship Drag Racing 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=733
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-name="NHRA Championship Drag Racing 3" tvg-logo="https://i.imgur.com/8OgnSVV.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",NHRA Championship Drag Racing 3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-name="NHRA TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",NHRA Championship Drag Racing 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=734
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-name="NHRA Championship Drag Racing 4" tvg-logo="https://i.imgur.com/8OgnSVV.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",NHRA Championship Drag Racing 4
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-name="NHRA TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",NHRA Championship Drag Racing 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=735
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-name="NHRA Championship Drag Racing 5" tvg-logo="https://i.imgur.com/8OgnSVV.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",NHRA Championship Drag Racing 5
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-name="NHRA TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",NHRA Championship Drag Racing 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2010
 #EXTINF:-1 tvg-id="DUMMYVolty" tvg-name="Volty" tvg-logo="" group-title="ESPORTES EM INGLÊS: AUTOMOBILISMO",Volty
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=865
@@ -3713,21 +3775,21 @@ https://ov.ottera.tv/live/master.m3u8?channel=jun_cg
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1371
 #EXTINF:-1 tvg-id="" tvg-name="Extreme World Wrestling | fuso 2" tvg-logo="https://i.imgur.com/EHWFgjc.png" group-title="ESPORTES EM INGLÊS: LUTAS",Extreme World Wrestling | fuso 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1372
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-name="Fight Network | EUA" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="ESPORTES EM INGLÊS: LUTAS",Fight Network | EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-name="Fight Network" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png" group-title="ESPORTES EM INGLÊS: LUTAS",Fight Network | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=566
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-name="Fight Network | EUA 2" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="ESPORTES EM INGLÊS: LUTAS",Fight Network | EUA 2
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-name="Fight Network" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png" group-title="ESPORTES EM INGLÊS: LUTAS",Fight Network | EUA 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=778
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-name="Fight Network | EUA 3" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="ESPORTES EM INGLÊS: LUTAS",Fight Network | EUA 3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-name="Fight Network" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png" group-title="ESPORTES EM INGLÊS: LUTAS",Fight Network | EUA 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=683
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-name="Fight Network | EUA 4" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="ESPORTES EM INGLÊS: LUTAS",Fight Network | EUA 4
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-name="Fight Network" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png" group-title="ESPORTES EM INGLÊS: LUTAS",Fight Network | EUA 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=965
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-name="Fight Network | EUA 5" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="ESPORTES EM INGLÊS: LUTAS",Fight Network | EUA 5
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-name="Fight Network" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png" group-title="ESPORTES EM INGLÊS: LUTAS",Fight Network | EUA 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=781
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-name="Fight Network | EUA 6" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="ESPORTES EM INGLÊS: LUTAS",Fight Network | EUA 6
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-name="Fight Network" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png" group-title="ESPORTES EM INGLÊS: LUTAS",Fight Network | EUA 6
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=831
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-name="Fight Network | EUA 7" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="ESPORTES EM INGLÊS: LUTAS",Fight Network | EUA 7
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-name="Fight Network" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png" group-title="ESPORTES EM INGLÊS: LUTAS",Fight Network | EUA 7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=857
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-name="Fight Network | EUA 8" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="ESPORTES EM INGLÊS: LUTAS",Fight Network | EUA 8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-name="Fight Network" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png" group-title="ESPORTES EM INGLÊS: LUTAS",Fight Network | EUA 8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=921
 #EXTINF:-1 tvg-id="" tvg-name="FITE" tvg-logo="https://i.imgur.com/12rAqeP.png" group-title="ESPORTES EM INGLÊS: LUTAS",FITE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2522
@@ -3737,7 +3799,7 @@ https://cdn-akamai.fite.tv/4038629_fite-247_abr/live/4038629_fite-247/live_722/c
 https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SportsTribal/236.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Grappling Network | Local Now" tvg-logo="https://i.imgur.com/FFq34mg.png" group-title="ESPORTES EM INGLÊS: LUTAS",Grappling Network | Local Now
 https://thegrapplingnetwork-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62587d025d06634715394672_thegrapplingnetwork-live-1/236.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGHard Knocks" tvg-name="Hard Knocks" tvg-logo="" group-title="ESPORTES EM INGLÊS: LUTAS",Hard Knocks
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820" tvg-name="Hard Knocks" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png" group-title="ESPORTES EM INGLÊS: LUTAS",Hard Knocks
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1352
 #EXTINF:-1 tvg-id="" tvg-name="Impact Plus | EUA" tvg-logo="https://i.imgur.com/aTsxkgs.png" group-title="ESPORTES EM INGLÊS: LUTAS",Impact Plus | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=776
@@ -4269,9 +4331,9 @@ https://c054f53413c54c1d9214a6156a264c0d.mediatailor.us-west-2.amazonaws.com/v1/
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1375
 #EXTINF:-1 tvg-id="" tvg-name="I Love Stand Up | Argentina" tvg-logo="https://i.imgur.com/OYTYSD9.png" group-title="HUMOR E PETS EM ESPANHOL",I Love Stand Up | Argentina
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1219
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd" tvg-name="AFV Family | EUA" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-family.png" group-title="HUMOR EM INGLÊS",AFV Family | EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd" tvg-name="Always Funny" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1bfcb8e4-9593-4914-aa02-14b966a2ec7e/AF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png" group-title="HUMOR EM INGLÊS",AFV Family | EUA
 https://linear-12.frequency.stream/12/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd" tvg-name="AFV Family | link 2" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-family.png" group-title="HUMOR EM INGLÊS",AFV Family | link 2
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd" tvg-name="Always Funny" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1bfcb8e4-9593-4914-aa02-14b966a2ec7e/AF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png" group-title="HUMOR EM INGLÊS",AFV Family | link 2
 https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/mt/plex/12/hls/master/playlist.m3u8?ads.plex_token=y4Rf78msRg4_dQbMaoax&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 #EXTINF:-1 tvg-id="USBA1600001XM" tvg-name="Always Funny Videos" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA1600001XM_20240520T215804SQUARE.png" group-title="HUMOR EM INGLÊS",Always Funny Videos
 http://linear-49.frequency.stream/49/hls/master/playlist.m3u8
@@ -4305,7 +4367,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=858
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=993
 #EXTINF:-1 tvg-id="localnow_Ha! That's Funny" tvg-name="Ha! That's Funny | Local Now" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6014757daa89d94e1960b8e0" group-title="HUMOR EM INGLÊS",Ha! That's Funny | Local Now
 https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" tvg-name="Johnny Carson TV | EUA" tvg-logo="http://images.pluto.tv/channels/5e66928133461100077dfd73/colorLogoPNG.png" group-title="HUMOR EM INGLÊS",Johnny Carson TV | EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123" tvg-name="Johnny Carson TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png" group-title="HUMOR EM INGLÊS",Johnny Carson TV | EUA
 https://johnnycarson-zype.amagi.tv/playlistR288p.m3u8
 #EXTINF:-1 tvg-id="AdultSwimLastStreamOnTheLeft.us" tvg-name="Last Stream on The Left | Adult Swim" tvg-logo="https://i.imgur.com/bnZCZD2.png" group-title="HUMOR EM INGLÊS",Last Stream on The Left | Adult Swim
 https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_de.m3u8
@@ -4517,21 +4579,21 @@ https://585fa7e373ba4b388f04a5f9f655cb0c.mediatailor.us-east-1.amazonaws.com/v1/
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8
 #EXTINF:-1 tvg-id="ESAJ4500026J3" tvg-name="Planeta Junior | Espanha" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/05/ESAJ4500026J3_20201208T050259.png" group-title="INFANTIS EM ESPANHOL",Planeta Junior | Espanha
 https://8886309569b64a2780383bc1511fe3d5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_PlanetaKidz/playlist.m3u8
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Goggles en Español 2" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="INFANTIS EM ESPANHOL",Toon Goggles en Español 2
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Goggles en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24926664-9f0e-4df6-ad7d-d4b1d8be9dd1/Untitled_TG_corrrect_final.png" group-title="INFANTIS EM ESPANHOL",Toon Goggles en Español 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=533
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Goggles en Español 3" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="INFANTIS EM ESPANHOL",Toon Goggles en Español 3
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Goggles en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24926664-9f0e-4df6-ad7d-d4b1d8be9dd1/Untitled_TG_corrrect_final.png" group-title="INFANTIS EM ESPANHOL",Toon Goggles en Español 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=961
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Googles en Español" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Goggles en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24926664-9f0e-4df6-ad7d-d4b1d8be9dd1/Untitled_TG_corrrect_final.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Googles en Español 4" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español 4
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Goggles en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24926664-9f0e-4df6-ad7d-d4b1d8be9dd1/Untitled_TG_corrrect_final.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Googles en Español 5" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español 5
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Goggles en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24926664-9f0e-4df6-ad7d-d4b1d8be9dd1/Untitled_TG_corrrect_final.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=658
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Googles en Español 6" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español 6
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Goggles en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24926664-9f0e-4df6-ad7d-d4b1d8be9dd1/Untitled_TG_corrrect_final.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español 6
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=663
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Googles en Español 7" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español 7
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Goggles en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24926664-9f0e-4df6-ad7d-d4b1d8be9dd1/Untitled_TG_corrrect_final.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español 7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1746
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Googles en Español 8" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español 8
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-name="Toon Goggles en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24926664-9f0e-4df6-ad7d-d4b1d8be9dd1/Untitled_TG_corrrect_final.png" group-title="INFANTIS EM ESPANHOL",Toon Googles en Español 8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1297
 #EXTINF:-1 tvg-id="" tvg-name="ToonzKids Niños" tvg-logo="https://i.imgur.com/SkVuUTs.png" group-title="INFANTIS EM ESPANHOL",ToonzKids Niños
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
@@ -4617,7 +4679,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2613
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1424
 #EXTINF:-1 tvg-id="" tvg-name="Kid Central" tvg-logo="https://i.imgur.com/ujPqyCS.png" group-title="INFANTIS EM INGLÊS",Kid Central
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1171
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc797" tvg-name="KidsFlix" tvg-logo="https://i.imgur.com/T5Gtuln.png" group-title="INFANTIS EM INGLÊS",KidsFlix
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5eea605574085f0040ddc797" tvg-name="KidsFlix" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidsflix.png" group-title="INFANTIS EM INGLÊS",KidsFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc797" tvg-name="KidsFlix 2" tvg-logo="https://i.imgur.com/T5Gtuln.png" group-title="INFANTIS EM INGLÊS",KidsFlix 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=134
@@ -4765,15 +4827,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=59
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=143
 #EXTINF:-1 tvg-id="" tvg-name="Toon Googles 9" tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS EM INGLÊS",Toon Googles 9
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=157
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6" tvg-name="Watch It Kid! | Galxy TV" tvg-logo="https://i.imgur.com/TWjb72Q.png" group-title="INFANTIS EM INGLÊS",Watch It Kid! | Galxy TV
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6" tvg-name="Watch it Kid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png" group-title="INFANTIS EM INGLÊS",Watch It Kid! | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=84
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6" tvg-name="Watch It Kid! | Klowd" tvg-logo="https://i.imgur.com/TWjb72Q.png" group-title="INFANTIS EM INGLÊS",Watch It Kid! | Klowd
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6" tvg-name="Watch it Kid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png" group-title="INFANTIS EM INGLÊS",Watch It Kid! | Klowd
 https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6" tvg-name="Watch It Kid! | link 3" tvg-logo="https://i.imgur.com/TWjb72Q.png" group-title="INFANTIS EM INGLÊS",Watch It Kid! | link 3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6" tvg-name="Watch it Kid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png" group-title="INFANTIS EM INGLÊS",Watch It Kid! | link 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2586
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6" tvg-name="Watch It Kid! | link 4" tvg-logo="https://i.imgur.com/TWjb72Q.png" group-title="INFANTIS EM INGLÊS",Watch It Kid! | link 4
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6" tvg-name="Watch it Kid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png" group-title="INFANTIS EM INGLÊS",Watch It Kid! | link 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2597
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6" tvg-name="Watch It Kid! | Local Now" tvg-logo="https://i.imgur.com/TWjb72Q.png" group-title="INFANTIS EM INGLÊS",Watch It Kid! | Local Now
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6" tvg-name="Watch it Kid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png" group-title="INFANTIS EM INGLÊS",Watch It Kid! | Local Now
 https://watchitkid-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61fb052634e15e30c34abf75_watchitkid-live-1/index-watchitkid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zoo Moo | TG" tvg-logo="https://i.imgur.com/bQS9dl0.png" group-title="INFANTIS EM INGLÊS",Zoo Moo | TG
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=40
@@ -5771,9 +5833,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1739
 #EXTINF:-1 tvg-id="USBD12000038K" tvg-name="Portlandia" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000038K_20250325T015254SQUARE.png" group-title="MARATONA DE EPISÓDIOS EM INGLÊS",Portlandia
 https://99d1e7f275ff4c95aa3f108d03329711.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_Portlandia/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141125" tvg-name="The Carol Burnett Show | EUA" tvg-logo="http://images.pluto.tv/channels/5ef396d1be50a3000722808b/colorLogoPNG.png" group-title="MARATONA DE EPISÓDIOS EM INGLÊS",The Carol Burnett Show | EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141125" tvg-name="The Carol Burnett Show" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/carolburnett_logo_dark.png" group-title="MARATONA DE EPISÓDIOS EM INGLÊS",The Carol Burnett Show | EUA
 https://thecarolburnettshow-zype.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141125" tvg-name="The Carol Burnett Show | Plex EUA" tvg-logo="http://images.pluto.tv/channels/5ef396d1be50a3000722808b/colorLogoPNG.png" group-title="MARATONA DE EPISÓDIOS EM INGLÊS",The Carol Burnett Show | Plex EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141125" tvg-name="The Carol Burnett Show" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/carolburnett_logo_dark.png" group-title="MARATONA DE EPISÓDIOS EM INGLÊS",The Carol Burnett Show | Plex EUA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-carolburnettshow-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="localnow_The Dead Zone" tvg-name="The Dead Zone | Local Now" tvg-logo="https://i.imgur.com/tX9O0ZA.png" group-title="MARATONA DE EPISÓDIOS EM INGLÊS",The Dead Zone | Local Now
 https://linear-215.frequency.stream/dist/localnow/215/hls/master/playlist.m3u8
@@ -5869,9 +5931,9 @@ https://musichls.persiana.live/hls/stream.m3u8
 https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaSonnati.fr" tvg-name="Persiana Sonnati" tvg-logo="https://i.imgur.com/yqq5PlP.png" group-title="MÚSICA",Persiana Sonnati
 https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-name="QwestTV Jazz & Beyond | LG" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-jazz&beyond_channel_logo_dark.png" group-title="MÚSICA",QwestTV Jazz & Beyond | LG
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-name="Qwest TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="MÚSICA",QwestTV Jazz & Beyond | LG
 https://qwest-jazz-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-name="QwestTV Jazz & Beyond | Plex" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-jazz&beyond_channel_logo_dark.png" group-title="MÚSICA",QwestTV Jazz & Beyond | Plex
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-name="Qwest TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="MÚSICA",QwestTV Jazz & Beyond | Plex
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Reload.cy" tvg-name="Reload | Chipre" tvg-logo="https://i.imgur.com/ZOKNxfc.png" group-title="MÚSICA",Reload | Chipre
 https://web.onair-radio.eu/video/video/master.m3u8
@@ -6183,13 +6245,13 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 https://rakuten-africanews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Africanews.cg" tvg-name="AfricaNews | Xiaomi" tvg-logo="https://i.imgur.com/boJAKGs.png" group-title="NOTÍCIAS EM FRANCÊS",AfricaNews | Xiaomi
 https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245f06793b402a3d1097787" tvg-name="Euronews | França" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="NOTÍCIAS EM FRANCÊS",Euronews | França
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245f06793b402a3d1097787" tvg-name="Euronews Français" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2be15415-4f0d-4d23-a4d4-3ec22445740a/Plex-WURL_Euronews-Logos_FR_-_astrid_collomb.png" group-title="NOTÍCIAS EM FRANCÊS",Euronews | França
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2217
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245f06793b402a3d1097787" tvg-name="Euronews | França" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="NOTÍCIAS EM FRANCÊS",Euronews | França
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245f06793b402a3d1097787" tvg-name="Euronews Français" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2be15415-4f0d-4d23-a4d4-3ec22445740a/Plex-WURL_Euronews-Logos_FR_-_astrid_collomb.png" group-title="NOTÍCIAS EM FRANCÊS",Euronews | França
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2572
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245f06793b402a3d1097787" tvg-name="Euronews | França | Rakuten" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="NOTÍCIAS EM FRANCÊS",Euronews | França | Rakuten
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245f06793b402a3d1097787" tvg-name="Euronews Français" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2be15415-4f0d-4d23-a4d4-3ec22445740a/Plex-WURL_Euronews-Logos_FR_-_astrid_collomb.png" group-title="NOTÍCIAS EM FRANCÊS",Euronews | França | Rakuten
 https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245f06793b402a3d1097787" tvg-name="Euronews | França | Samsung" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="NOTÍCIAS EM FRANCÊS",Euronews | França | Samsung
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245f06793b402a3d1097787" tvg-name="Euronews Français" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2be15415-4f0d-4d23-a4d4-3ec22445740a/Plex-WURL_Euronews-Logos_FR_-_astrid_collomb.png" group-title="NOTÍCIAS EM FRANCÊS",Euronews | França | Samsung
 https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_EuroNewsLive/playlist.m3u8
 #EXTINF:-1 tvg-id="France24French.fr" tvg-name="France 24 HD 1" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="NOTÍCIAS EM FRANCÊS",France 24 HD 1
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
@@ -6247,7 +6309,7 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="FRBA3300024L2" tvg-name="Reuters Now" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/reuters_reutersnow_1.png" group-title="NOTÍCIAS EM INGLÊS",Reuters Now
 https://ajo.prod.reuters.tv/rest/v2/playlist/assets/58197,464695,464688,464478,57445,58156,464697,127706,464687,58089,464661,58117,464511,127694,464474,58090,464715,127785,464752,127680,464740,58118,464712,127800,464733,127800,464701,58061,464541,127710,464507,58048,464622,127681,464625,58147,464452,58061,464617,127711,464449,58018,464479,58058,464539,127679,464466,318501/master.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc" tvg-name="Reuters TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/reuters_reutersnow_1.png" group-title="NOTÍCIAS EM INGLÊS",Reuters TV
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc" tvg-name="The Reuters 60" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png" group-title="NOTÍCIAS EM INGLÊS",Reuters TV
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="5151" tvg-name="Sky News | Austrália" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="NOTÍCIAS EM INGLÊS",Sky News | Austrália
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
@@ -6267,9 +6329,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2590
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2506
 #EXTINF:-1 tvg-id="" tvg-name="Investment Pitch Media" tvg-logo="https://i.imgur.com/s2pbWDC.png" group-title="NOTÍCIAS EM INGLÊS: DINHEIRO",Investment Pitch Media
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1505
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1" tvg-name="Yahoo Finance | EUA" tvg-logo="http://images.pluto.tv/channels/5f161c0a8ba90f0007d5bd0b/colorLogoPNG.png" group-title="NOTÍCIAS EM INGLÊS: DINHEIRO",Yahoo Finance | EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1" tvg-name="Yahoo Finance" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png" group-title="NOTÍCIAS EM INGLÊS: DINHEIRO",Yahoo Finance | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1044
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1" tvg-name="Yahoo Finance | Local Now" tvg-logo="http://images.pluto.tv/channels/5f161c0a8ba90f0007d5bd0b/colorLogoPNG.png" group-title="NOTÍCIAS EM INGLÊS: DINHEIRO",Yahoo Finance | Local Now
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1" tvg-name="Yahoo Finance" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png" group-title="NOTÍCIAS EM INGLÊS: DINHEIRO",Yahoo Finance | Local Now
 https://yahoofinance-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNews.al" tvg-name="ABC News | Albânia" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQppoJvg5Inz_5KVl8gzhD8ydrZqta2qffqDLgaag=s400-c-k-c0x00ffffff-no-rj" group-title="NOTÍCIAS EM OUTROS IDIOMAS",ABC News | Albânia
 https://tv2.abcnews.al/live/abcnews/chunks.m3u8
@@ -6325,7 +6387,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-chickensoup-pl
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1097
 #EXTINF:-1 tvg-id="" tvg-name="Classic Reruns TV 2" tvg-logo="https://i.imgur.com/Qcst1TL.png" group-title="NOVELAS E SÉRIES EM INGLÊS",Classic Reruns TV 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1437
-#EXTINF:-1 tvg-id="DUMMYGalxyTV" tvg-name="Galxy TV" tvg-logo="" group-title="NOVELAS E SÉRIES EM INGLÊS",Galxy TV
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621672e42c2627c068e73ad8" tvg-name="Galxy TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc452291-62d8-4f01-8e5b-b1fef79fb37d/GalxyTV_logo_dark.png" group-title="NOVELAS E SÉRIES EM INGLÊS",Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=82
 #EXTINF:-1 tvg-id="" tvg-name="Kocowa Classic" tvg-logo="https://i.imgur.com/p43uvNC.png" group-title="NOVELAS E SÉRIES EM INGLÊS",Kocowa Classic
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokukocowa/CDN/playlist.m3u8
@@ -6443,15 +6505,15 @@ https://stream.zeno.fm/auauo2vfekltv.m3u
 https://stream.zeno.fm/auauo2vfekltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[Radio] REGIONAL FM (102,3MHz) Santo Adré SP" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp" group-title="RADIOS",[Radio] REGIONAL FM (102,3MHz) Santo Adré SP
 https://stream.zeno.fm/auauo2vfekltv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Conflicto | Galxy TV" tvg-logo="https://i.imgur.com/aR114pI.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Conflicto | Galxy TV
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Conflicto TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Conflicto | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2581
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Conflicto | Galxy TV 2" tvg-logo="https://i.imgur.com/aR114pI.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Conflicto | Galxy TV 2
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Conflicto TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Conflicto | Galxy TV 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2593
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Conflicto | Galxy TV 3" tvg-logo="https://i.imgur.com/aR114pI.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Conflicto | Galxy TV 3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Conflicto TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Conflicto | Galxy TV 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1956
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Tribunal del Pueblo | Distro TV" tvg-logo="https://i.imgur.com/ssMfHz5.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Tribunal del Pueblo | Distro TV
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Conflicto TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Tribunal del Pueblo | Distro TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Tribunal del Pueblo | Galxy TV" tvg-logo="https://i.imgur.com/ssMfHz5.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Tribunal del Pueblo | Galxy TV
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Conflicto TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Tribunal del Pueblo | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=80
 #EXTINF:-1 tvg-id="" tvg-name="Got Talent Global | vários idiomas" tvg-logo="https://i.imgur.com/WTFbvqm.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",Got Talent Global | vários idiomas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=117
@@ -6541,7 +6603,7 @@ http://linear-219.frequency.stream/219/hls/master/playlist.m3u8
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FilmRise Mysteries 24/7 | EUA" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="REALITY SHOWS EM INGLÊS: CRIMES E JULGAMENTOS",FilmRise Mysteries 24/7 | EUA
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132da62fe160040f26b5b" tvg-name="Judge Faith" tvg-logo="https://i.imgur.com/N5eKnkk.png" group-title="REALITY SHOWS EM INGLÊS: CRIMES E JULGAMENTOS",Judge Faith
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5f5132da62fe160040f26b5b" tvg-name="Judge Faith" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7d32af01-5d94-4992-809c-4dd54b7099ea/judge_faith_White.png" group-title="REALITY SHOWS EM INGLÊS: CRIMES E JULGAMENTOS",Judge Faith
 https://35f8d561e25c470b974ab6f6b3df22cc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_JudgeFaith/playlist.m3u8?ads.wurl_channel=536&ads.wurl_name=JudgeFaith&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=vB1fQVteisRvSpyJtSgH&ads.plex_id=5f5132da62fe160040f26b5b&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 tvg-id="" tvg-name="Justice for All" tvg-logo="https://i.imgur.com/wfhyh8W.png" group-title="REALITY SHOWS EM INGLÊS: CRIMES E JULGAMENTOS",Justice for All
 http://linear-220.frequency.stream/220/hls/master/playlist.m3u8
@@ -7365,9 +7427,9 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste | Alemanha" tvg-logo="https://i.imgur.com/aENrUjy.png" group-title="VARIEDADES E NOTÍCIAS EM ALEMÃO",Das Erste | Alemanha
 https://mcdn.daserste.de/daserste/int/master.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245efe9f137de43897ea1ae" tvg-name="Euronews em alemão" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="VARIEDADES E NOTÍCIAS EM ALEMÃO",Euronews em alemão
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245efe9f137de43897ea1ae" tvg-name="Euronews Deutsch" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f4d271ea-6f09-46e0-910c-c052a63c3287/Plex-WURL_Euronews-Logos_DE_-_astrid_collomb.png" group-title="VARIEDADES E NOTÍCIAS EM ALEMÃO",Euronews em alemão
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2573
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245efe9f137de43897ea1ae" tvg-name="Euronews em alemão | link 2" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="VARIEDADES E NOTÍCIAS EM ALEMÃO",Euronews em alemão | link 2
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245efe9f137de43897ea1ae" tvg-name="Euronews Deutsch" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f4d271ea-6f09-46e0-910c-c052a63c3287/Plex-WURL_Euronews-Logos_DE_-_astrid_collomb.png" group-title="VARIEDADES E NOTÍCIAS EM ALEMÃO",Euronews em alemão | link 2
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="qs24.ch" tvg-name="QS24 | Suiça | em alemão" tvg-logo="https://i.imgur.com/cyMYUgp.png" group-title="VARIEDADES E NOTÍCIAS EM ALEMÃO",QS24 | Suiça | em alemão
 https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/chunklist.m3u8
@@ -7409,7 +7471,7 @@ https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8
 http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale7.it" tvg-name="Canale 7 | link 2 | Itália" tvg-logo="https://i.imgur.com/hbBUwI4.png" group-title="VARIEDADES E NOTÍCIAS EM ITALIANO",Canale 7 | link 2 | Itália
 http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245f13093b402a3d1097789" tvg-name="Euronews em italiano" tvg-logo="https://images.pluto.tv/channels/61b86ea479a4390007c6d5fc/colorLogoPNG.png" group-title="VARIEDADES E NOTÍCIAS EM ITALIANO",Euronews em italiano
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245f13093b402a3d1097789" tvg-name="Euronews Italiano" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3f285d3-0411-496b-9cee-9244c21e106c/Plex-WURL_Euronews-Logos_IT_-_astrid_collomb.png" group-title="VARIEDADES E NOTÍCIAS EM ITALIANO",Euronews em italiano
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2574
 #EXTINF:-1 tvg-id="FoodNetworkItalia.us" tvg-name="Food Network | Itália" tvg-logo="https://i.imgur.com/3FtKnsF.png" group-title="VARIEDADES E NOTÍCIAS EM ITALIANO",Food Network | Itália
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
@@ -7571,7 +7633,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1475
 #EXTINF:-1 tvg-id="" tvg-name="Colosal TV | Costa Rica" tvg-logo="https://i.imgur.com/jTWGxCL.png" group-title="VARIEDADES EM ESPANHOL",Colosal TV | Costa Rica
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1237
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-name="Euronews em espanhol | Plex" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="VARIEDADES EM ESPANHOL",Euronews em espanhol | Plex
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-name="Euronews Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eea28bcc-26ea-4266-81b4-2945f334c3d9/Plex-WURL_Euronews-Logos_ES_-_astrid_collomb.png" group-title="VARIEDADES EM ESPANHOL",Euronews em espanhol | Plex
 https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EV TV | Venezuela" tvg-logo="https://i.imgur.com/zEVskQw.png" group-title="VARIEDADES EM ESPANHOL",EV TV | Venezuela
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1400
@@ -7641,15 +7703,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1508
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1 tvg-id="30AInvestmentPitch.us" tvg-name="30aTV | EUA 2" tvg-logo="https://i.imgur.com/LKuVKdy.png" group-title="VARIEDADES EM INGLÊS",30aTV | EUA 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1500
-#EXTINF:-1 tvg-id="dtv_EPGAfroLandTV" tvg-name="AfroLand TV" tvg-logo="" group-title="VARIEDADES EM INGLÊS",Afroland TV
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c" tvg-name="AfroLandTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="VARIEDADES EM INGLÊS",Afroland TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=967
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c" tvg-name="Afroland TV ~ link 2" tvg-logo="https://i.imgur.com/MLcZwgN.png" group-title="VARIEDADES EM INGLÊS",Afroland TV ~ link 2
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c" tvg-name="AfroLandTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="VARIEDADES EM INGLÊS",Afroland TV ~ link 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=968
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c" tvg-name="Afroland TV ~ link 3" tvg-logo="https://i.imgur.com/MLcZwgN.png" group-title="VARIEDADES EM INGLÊS",Afroland TV ~ link 3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c" tvg-name="AfroLandTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="VARIEDADES EM INGLÊS",Afroland TV ~ link 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=969
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c" tvg-name="Afroland TV ~ link 4" tvg-logo="https://i.imgur.com/MLcZwgN.png" group-title="VARIEDADES EM INGLÊS",Afroland TV ~ link 4
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c" tvg-name="AfroLandTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="VARIEDADES EM INGLÊS",Afroland TV ~ link 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=811
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c" tvg-name="Afroland TV ~ link 5" tvg-logo="https://i.imgur.com/MLcZwgN.png" group-title="VARIEDADES EM INGLÊS",Afroland TV ~ link 5
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c" tvg-name="AfroLandTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="VARIEDADES EM INGLÊS",Afroland TV ~ link 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1161
 #EXTINF:-1 tvg-id="" tvg-name="Akakū TV 1 | Havaí" tvg-logo="https://i.imgur.com/ECPmQ76.png" group-title="VARIEDADES EM INGLÊS",Akakū TV 1 | Havaí
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
@@ -7679,7 +7741,7 @@ https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/chunklist.m3u8
 https://a3b333b2cdfb4b05934aa1a4c3fd26d4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_Commune/playlist.m3u8?ads.wurl_channel=996&ads.wurl_name=Commune&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=y_HMAMzw1oNcdLetH1FS&ads.plex_id=618adcbb6769b2b0bcc4c17f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 tvg-id="" tvg-name="El Rey Network | Canela TV" tvg-logo="https://i.imgur.com/nSJDlXD.png" group-title="VARIEDADES EM INGLÊS",El Rey Network | Canela TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1744
-#EXTINF:-1 tvg-id="DUMMYGalxyTV" tvg-name="Galxy TV" tvg-logo="" group-title="VARIEDADES EM INGLÊS",Galxy TV
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621672e42c2627c068e73ad8" tvg-name="Galxy TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc452291-62d8-4f01-8e5b-b1fef79fb37d/GalxyTV_logo_dark.png" group-title="VARIEDADES EM INGLÊS",Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2584
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc6f3a92b6f7b002e77ffad" tvg-name="GFN TV | Plex" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gfntv_logo_dark.png" group-title="VARIEDADES EM INGLÊS",GFN TV | Plex
 https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/GFNTV-Plex/169.m3u8?ads.plex_token=y_HMAMzw1oNcdLetH1FS&ads.channel_id=5fc6f3a92b6f7b002e77ffad&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0
@@ -7687,23 +7749,23 @@ https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1151
 #EXTINF:-1 tvg-id="" tvg-name="Living Modern" tvg-logo="https://i.imgur.com/cT7M9tZ.png" group-title="VARIEDADES EM INGLÊS",Living Modern
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1321
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6112a9139894c8002c6cb87f" tvg-name="More U | Local Now" tvg-logo="https://i.imgur.com/o3miErD.png" group-title="VARIEDADES EM INGLÊS",More U | Local Now
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6112a9139894c8002c6cb87f" tvg-name="More U" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png" group-title="VARIEDADES EM INGLÊS",More U | Local Now
 https://2f8b1e8f68bd4a44a58e2a30ea2e0216.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_MoreU/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6112a9139894c8002c6cb87f" tvg-name="More U | Plex" tvg-logo="https://i.imgur.com/o3miErD.png" group-title="VARIEDADES EM INGLÊS",More U | Plex
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6112a9139894c8002c6cb87f" tvg-name="More U" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png" group-title="VARIEDADES EM INGLÊS",More U | Plex
 https://133a0f79750743b7bd41950eaec76dc1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MoreU/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d6" tvg-name="Popstar! TV | Plex" tvg-logo="https://i.imgur.com/QoLbFrl.png" group-title="VARIEDADES EM INGLÊS",Popstar! TV | Plex
 https://bd0c70d8954d416d819afb3e1c940ee6.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-10-POPSTAR-PLEX/mt/plex/10/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="KTBNDT5.us" tvg-name="Positiv TV" tvg-logo="https://i.imgur.com/nRCPNBc.png" group-title="VARIEDADES EM INGLÊS",Positiv TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1099
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9" tvg-name="Revry 3 | EUA" tvg-logo="https://i.imgur.com/Bk1bFX8.png" group-title="VARIEDADES EM INGLÊS",Revry 3 | EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9" tvg-name="Revry" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png" group-title="VARIEDADES EM INGLÊS",Revry 3 | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=762
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9" tvg-name="Revry 3 | link 2" tvg-logo="https://i.imgur.com/Bk1bFX8.png" group-title="VARIEDADES EM INGLÊS",Revry 3 | link 2
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9" tvg-name="Revry" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png" group-title="VARIEDADES EM INGLÊS",Revry 3 | link 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=852
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9" tvg-name="Revry 3 | link 3" tvg-logo="https://i.imgur.com/Bk1bFX8.png" group-title="VARIEDADES EM INGLÊS",Revry 3 | link 3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9" tvg-name="Revry" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png" group-title="VARIEDADES EM INGLÊS",Revry 3 | link 3
 https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9" tvg-name="Revry 3 | link 4" tvg-logo="https://i.imgur.com/Bk1bFX8.png" group-title="VARIEDADES EM INGLÊS",Revry 3 | link 4
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9" tvg-name="Revry" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png" group-title="VARIEDADES EM INGLÊS",Revry 3 | link 4
 https://80b6878a343a4c37ae7c81c26e367b59.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRY-PLEX/mt/plex/5/hls/master/playlist.m3u8?ads.plex_token=y4Rf78msRg4_dQbMaoax&ads.plex_id=5ef11487d33ab9004048a1d9&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9" tvg-name="Revry 3 | link 5" tvg-logo="https://i.imgur.com/Bk1bFX8.png" group-title="VARIEDADES EM INGLÊS",Revry 3 | link 5
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9" tvg-name="Revry" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png" group-title="VARIEDADES EM INGLÊS",Revry 3 | link 5
 https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Revry Her | EUA" tvg-logo="https://i.imgur.com/ZHpQv7S.png" group-title="VARIEDADES EM INGLÊS",Revry Her | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=765
@@ -7729,7 +7791,7 @@ https://ov.ottera.tv/live/master.m3u8?channel=mcom_gv_us
 https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBRICSChinese.ru" tvg-name="TV BRICS | legenda em inglês 2" tvg-logo="https://i.imgur.com/XxkYhC0.png" group-title="VARIEDADES EM INGLÊS",TV BRICS | legenda em inglês 2
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" tvg-name="USA Today | Plex" tvg-logo="https://i.imgur.com/gs2ojmv.png" group-title="VARIEDADES EM INGLÊS",USA Today | Plex
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" tvg-name="USA TODAY" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png" group-title="VARIEDADES EM INGLÊS",USA Today | Plex
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=vB1fQVteisRvSpyJtSgH&channelId=60df3e18541143002f3b8607
 #EXTINF:-1 tvg-id="" tvg-name="Very Local Albuquerque | KOAT" tvg-logo="https://i.imgur.com/4aepIMW.png" group-title="VARIEDADES EM INGLÊS",Very Local Albuquerque | KOAT
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=947
@@ -8293,7 +8355,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 tvg-id="FilmRiseFreeMovies.us" tvg-name="FilmRise Movies" tvg-logo="https://i.imgur.com/jGzMaRD.png" group-title="VOD MOVIES (EN)",FilmRise Movies
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872" tvg-name="FilmRise Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52e549aa-1c71-4285-a47c-63be6a60aa54/FilmRise_SciFi_1500x1000_Light_Logo.png" group-title="VOD MOVIES (EN)",FilmRise Sci-Fi
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f06" tvg-name="FilmRise Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a082f488-9d7e-4e89-be52-4b7e5c8d91d3/FilmRise_SciFi_1500x1000_Light_Logo.png" group-title="VOD MOVIES (EN)",FilmRise Sci-Fi
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
 #EXTINF:-1 tvg-id="58e55b14ad8e9c364d55f717" tvg-name="Flicks of Fury" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="VOD MOVIES (EN)",Flicks of Fury
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
