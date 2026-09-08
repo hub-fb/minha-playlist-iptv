@@ -226,6 +226,8 @@ http://45.177.114.115/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br@SD" tvg-name="BandNews (720p)" tvg-logo="" group-title="BRAZIL",BandNews (720p)
 http://45.190.28.50/BAND_NEWS_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bem Mais TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Bem Mais TV
+https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bem Mais TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Bem Mais TV
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-id="BemMelhor.br@SD" tvg-name="Bem Melhor (720p)" tvg-logo="" group-title="BRAZIL",Bem Melhor (720p)
 https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8
@@ -283,6 +285,8 @@ http://45.190.28.50/CANAL_DO_BOI/index.m3u8
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanaldoInter.br@SD" tvg-name="Canal do Inter (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",Canal do Inter (720p) [Not 24/7]
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Educacao" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Canal Educacao
+https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br@SD" tvg-name="Canal Educacao (720p)" tvg-logo="" group-title="BRAZIL",Canal Educacao (720p)
 http://138.255.2.6:8084/TVESCOLA/index.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br@SD" tvg-name="Canal Educacao (720p)" tvg-logo="" group-title="BRAZIL",Canal Educacao (720p)
@@ -291,8 +295,6 @@ http://168.197.104.22/CANAL_EDUCACAO/index.m3u8
 http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br@SD" tvg-name="Canal Educacao (720p)" tvg-logo="" group-title="BRAZIL",Canal Educacao (720p)
 http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
-#EXTINF:-1 tvg-id="CanalEducacao.br@SD" tvg-name="Canal Educação (720p)" tvg-logo="" group-title="BRAZIL",Canal Educação (720p)
-https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Extremadura" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Canal Extremadura
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal FDR" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Canal FDR
@@ -392,9 +394,9 @@ https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
 #EXTINF:-1 tvg-id="combrasil.br" tvg-name="Com Brasil" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="BRAZIL",Com Brasil
 https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COM Brasil" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",COM Brasil
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
-#EXTINF:-1 tvg-id="COMBrasil.br@SD" tvg-name="COM Brasil (1080p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",COM Brasil (1080p) [Not 24/7]
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COM Brasil" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",COM Brasil
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COM SANTOS" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",COM SANTOS
 https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
 #EXTINF:-1 tvg-id="Combate.br@SD" tvg-name="Combate (720p)" tvg-logo="" group-title="BRAZIL",Combate (720p)
@@ -743,7 +745,7 @@ http://45.162.64.114/NOVO_TEMPO/index.m3u8
 http://45.190.28.50/TV_NOVO_TEMPO/index.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="Novo Tempo | Brasil" tvg-logo="https://i.imgur.com/5uTSYY6.png" group-title="BRAZIL",Novo Tempo | Brasil
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",NTV
+#EXTINF:-1 tvg-id="NTV.br@SD" tvg-name="NTV (720p)" tvg-logo="" group-title="BRAZIL",NTV (720p)
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
 #EXTINF:-1 tvg-id="NuevoTiempo.br@SD" tvg-name="Nuevo Tiempo (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",Nuevo Tiempo (720p) [Not 24/7]
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
@@ -775,7 +777,7 @@ https://jmp2.uk/plu-63221e41af69b500076f84e7.m3u8
 https://jmp2.uk/plu-68b88ae1943f6fb1fb2ad749.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pegadinhas Just for Laughs (720p)" tvg-logo="" group-title="BRAZIL",Pegadinhas Just for Laughs (720p)
 https://jmp2.uk/plu-67802a22a5d8215f99dcee30.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Petlovers TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Petlovers TV
+#EXTINF:-1 tvg-id="PetloversTV.br@SD" tvg-name="Petlovers TV" tvg-logo="" group-title="BRAZIL",Petlovers TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-id="PFLMMA.us@SD" tvg-name="PFL MMA (720p)" tvg-logo="" group-title="BRAZIL",PFL MMA (720p)
 https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
@@ -1061,9 +1063,7 @@ http://138.255.2.6:8084/REDESECULO21/index.m3u8
 http://186.219.52.187/seculo21/index.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br@SD" tvg-name="Rede Seculo 21 (720p)" tvg-logo="" group-title="BRAZIL",Rede Seculo 21 (720p)
 http://45.162.64.114/REDE_SECULO_21/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDE SPi" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",REDE SPi
-https://video11.logicahost.com.br/redespi/redespi/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rede SPTV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Rede SPTV
+#EXTINF:-1 tvg-id="RedeSPTV.br@SD" tvg-name="Rede SPTV (360p)" tvg-logo="" group-title="BRAZIL",Rede SPTV (360p)
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede SPTV | SP Brasil" tvg-logo="https://i.imgur.com/1JqP03l.png" group-title="BRAZIL",Rede SPTV | SP Brasil
 https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
@@ -1371,7 +1371,7 @@ https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
 https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV A Critica" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV A Critica
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV A Folha" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV A Folha
+#EXTINF:-1 tvg-id="TVAFolha.br@SD" tvg-name="TV A Folha (720p)" tvg-logo="" group-title="BRAZIL",TV A Folha (720p)
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV A Folha | Palmas PR Brasil" tvg-logo="https://i.imgur.com/Zcrcwhy.png" group-title="BRAZIL",TV A Folha | Palmas PR Brasil
 https://video01.logicahost.com.br/tvafolha/tvafolha/master.m3u8
@@ -1405,7 +1405,7 @@ http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="BR - TV Aparecida" tvg-logo="https://iptv-epg.org/images/kYT6RRrdTnnihZU7AYqoa8_cAQifZoENzKSNOLu5Qv3KCEj1B81PY2H6xvBNFNLh-U6SDlao72P8bBF44ZWNegXukBye4Deo67Mcy8h3mnaBtQ3B" group-title="BRAZIL",TV Aparecida | PUC TV Goiás
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Arapuan" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Arapuan
+#EXTINF:-1 tvg-id="TVArapuan.br@SD" tvg-name="TV Arapuan (720p)" tvg-logo="" group-title="BRAZIL",TV Arapuan (720p)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Assembleia Piaui" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Assembleia Piaui
 https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
@@ -1659,7 +1659,7 @@ http://45.190.28.50/PAI_ETERNO/index.m3u8
 https://video09.logicahost.com.br/paieterno/paieterno/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Pantanal MS" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Pantanal MS
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Paraense" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Paraense
+#EXTINF:-1 tvg-id="TVParaense.br@HD" tvg-name="TV Paraense (720p)" tvg-logo="" group-title="BRAZIL",TV Paraense (720p)
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 #EXTINF:-1 tvg-id="TVParanaTurismo.br@SD" tvg-name="TV Paraná Turismo (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",TV Paraná Turismo (720p) [Not 24/7]
 http://200.189.113.201/hls/tve.m3u8
@@ -1709,7 +1709,7 @@ https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSolComunidade.br@SD" tvg-name="TV Sol Comunidade (480p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",TV Sol Comunidade (480p) [Not 24/7]
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSulBahia.br@SD" tvg-name="TV Sul Bahia (320p)" tvg-logo="" group-title="BRAZIL",TV Sul Bahia (320p)
+#EXTINF:-1 tvg-id="" tvg-name="TV Sul Bahia" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Sul Bahia
 https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSuldeMinas.br@SD" tvg-name="TV Sul de Minas (720p)" tvg-logo="" group-title="BRAZIL",TV Sul de Minas (720p)
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
