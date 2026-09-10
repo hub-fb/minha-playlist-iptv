@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-br.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
-#EXTINF:-1 tvg-id="PlusSBTNovelas.br@SD" tvg-name="+SBT Novelas (1080p) [Geo-blocked]" tvg-logo="" group-title="BRAZIL",+SBT Novelas (1080p) [Geo-blocked]
-https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8
 #EXTINF:-1 tvg-id="1001Noites.br@SD" tvg-name="1001 Noites (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",1001 Noites (720p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="538" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",538
@@ -3549,7 +3547,7 @@ https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b
 https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/profile_1/976f34cf5a614518b7b539cbf9812080/chunklist_ssaiV.m3u8
 #EXTINF:-1 tvg-id="StrykTV.us" tvg-name="Stryk TV" tvg-logo="https://stryktv.com/wp-content/uploads/2021/08/StrykTV-MTS.png" group-title="ESTADOS UNIDOS",Stryk TV
 https://FFFFFFF110156200.tvustream.com/ryfy.m3u8
-#EXTINF:-1 tvg-id="USBC1500009LD" tvg-name="WeatherNation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20260421T133617SQUARE.png" group-title="ESTADOS UNIDOS",WeatherNation
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-name="WeatherNation" tvg-logo="https://graph.facebook.com/WeatherNation/picture?width=200&height=200" group-title="ESTADOS UNIDOS",WeatherNation
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 #EXTINF:-1 tvg-id="ETV.ee" tvg-name="ETV" tvg-logo="https://i.imgur.com/5URjPgG.png" group-title="ESTONIA",ETV Ⓖ
 http://sb.err.ee/live/etv.m3u8
@@ -8275,7 +8273,7 @@ https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CABC23000223U" tvg-name="The Weather Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC23000223U_20260421T141242SQUARE.png" group-title="WEATHER",The Weather Network
 https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
-#EXTINF:-1 tvg-id="USBC1500009LD" tvg-name="WeatherNation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20260421T133617SQUARE.png" group-title="WEATHER",WeatherNation
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-name="WeatherNation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/500px-WeatherNation_Logo.svg.png" group-title="WEATHER",WeatherNation
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d2cb7ac552e3773bc48982e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1028-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcca8395-396e-4be0-9049-564f29c5ac9b
 #EXTINF:-1 tvg-id="BSTBS.jp" tvg-name="BS-TBS" tvg-logo="https://i.imgur.com/BSt9UG2.png" group-title="日本 / JAPAN",BS-TBS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs05#.m3u8
