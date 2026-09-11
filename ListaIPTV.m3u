@@ -3,7 +3,7 @@
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="538" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="[01.0] TV Brasil | SC" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="BRAZIL",[01.0] TV Brasil | SC
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="BR - TV Brasil" tvg-logo="https://iptv-epg.org/images/nkMmDpfmwLfPJafOYbhSCCwe05CiXYdKMJtcO2oCwM62oBkKr1pv-bZoe8BoQ-vutfd6_UDx-sfoBUe2FYJyo_Q5nRhZR-JIOgm3Ey1jthrI" group-title="BRAZIL",[01.0] TV Brasil | SC
 https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSaude.br" tvg-name="[01.5] Canal Saude" tvg-logo="https://eitv7.cdn.broadpeak.io/account351-i1495/portal-logo-1715282293.png" group-title="BRAZIL",[01.5] Canal Saude
 https://eitv2.cdn.broadpeak.io/account351-i1495/event/canalsaude/auto.m3u8
@@ -37,7 +37,7 @@ https://664398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[17.0] TV A Critica 1 | Barueri | SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_da_TV_A_Critica.png?20231216192446" group-title="BRAZIL",[17.0] TV A Critica 1 | Barueri | SP
 https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="[41.2] TV Aparecida | 3" tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="BRAZIL",[41.2] TV Aparecida | 3
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="BR - TV Aparecida" tvg-logo="https://iptv-epg.org/images/kYT6RRrdTnnihZU7AYqoa8_cAQifZoENzKSNOLu5Qv3KCEj1B81PY2H6xvBNFNLh-U6SDlao72P8bBF44ZWNegXukBye4Deo67Mcy8h3mnaBtQ3B" group-title="BRAZIL",[41.2] TV Aparecida | 3
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[41.4] TV Imaculada 1 | MT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LOGO_TV_2019.png/200px-LOGO_TV_2019.png" group-title="BRAZIL",[41.4] TV Imaculada 1 | MT
 https://5cf4a2c2512a2.streamlock.net/sjbcampinas/sjbcampinas/playlist.m3u8
@@ -901,7 +901,7 @@ http://45.162.64.114/RECORD_NEWS/index.m3u8
 http://45.177.114.115/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-name="Record News (720p) [Geo-blocked]" tvg-logo="" group-title="BRAZIL",Record News (720p) [Geo-blocked]
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News | RunTime Brasil" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="BRAZIL",Record News | RunTime Brasil
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="BR - Record News" tvg-logo="https://iptv-epg.org/images/OzF7kxJ7GDpi4gIS5jhY7rTNJ6XaXw8QqUxazuN_pboR6a3cWUD3DShshABx9-O3nDbygJZiI898whmS57M4ijfaTLpLlYbaehnMSBQWsi0wirU" group-title="BRAZIL",Record News | RunTime Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
 #EXTINF:-1 tvg-id="RecordTVBelem.br@SD" tvg-name="Record TV Belem (720p) [Geo-blocked]" tvg-logo="" group-title="BRAZIL",Record TV Belem (720p) [Geo-blocked]
 https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
@@ -933,7 +933,7 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Brasil" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Rede Brasil
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Marca_rede_brasil_rgb-color.png" group-title="BRAZIL",Rede Brasil
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="BR - Rede Brasil" tvg-logo="" group-title="BRAZIL",Rede Brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br@SD" tvg-name="Rede Brasil (720p)" tvg-logo="" group-title="BRAZIL",Rede Brasil (720p)
 http://170.84.165.204/REDEBRASIL/index.m3u8
@@ -995,7 +995,7 @@ https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
 https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-name="Rede Século 21 | Brasil" tvg-logo="https://i.imgur.com/ZHO33ib.png" group-title="BRAZIL",Rede Século 21 | Brasil
 https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/master.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV | PR Brasil" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="BRAZIL",Rede TV | PR Brasil
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="BR - RedeTV!" tvg-logo="https://iptv-epg.org/images/wHL4M3uHZOQLY2wg1RpWKz-uBP4D6IYRk0c4rkZQhO5xQof_qrSdO5JsHPuiklEopUqodef7dLJtFebtwdOR8_Zk7LYVyXS84H6QzdIWsw" group-title="BRAZIL",Rede TV | PR Brasil
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-name="Rede TV! (720p)" tvg-logo="" group-title="BRAZIL",Rede TV! (720p)
 http://168.197.104.22/REDE_TV/index.m3u8
@@ -1021,7 +1021,7 @@ http://168.197.104.22/REDE_VIDA/index.m3u8
 http://170.84.165.204/REDEVIDA_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br@SD" tvg-name="Rede Vida (720p)" tvg-logo="" group-title="BRAZIL",Rede Vida (720p)
 http://186.219.52.187/rede_vida/index.m3u8
-#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida | Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="BRAZIL",Rede Vida | Brasil
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="BR - Rede Vida" tvg-logo="https://iptv-epg.org/images/eybTqefOZEvlGk8wuoRgjr0nUyPMxv-wih3hbS44trGsuopRjfInFg83cUjzNy7nhoPAuM-SlWVLo426kJKrQslkk22OwXBynrep3eBVfCjA" group-title="BRAZIL",Rede Vida | Brasil
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 #EXTINF:-1 tvg-id="RedeTVParana.br@SD" tvg-name="RedeTV! Parana" tvg-logo="" group-title="BRAZIL",RedeTV! Parana
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
@@ -1287,9 +1287,9 @@ http://170.83.49.66:8083/TVAPARECIDAHD/index.m3u8
 http://45.162.64.114/TV_APARECIDA/index.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br@SD" tvg-name="TV Aparecida (720p)" tvg-logo="" group-title="BRAZIL",TV Aparecida (720p)
 http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida | Brasil" tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="BRAZIL",TV Aparecida | Brasil
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="BR - TV Aparecida" tvg-logo="https://iptv-epg.org/images/kYT6RRrdTnnihZU7AYqoa8_cAQifZoENzKSNOLu5Qv3KCEj1B81PY2H6xvBNFNLh-U6SDlao72P8bBF44ZWNegXukBye4Deo67Mcy8h3mnaBtQ3B" group-title="BRAZIL",TV Aparecida | Brasil
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida | PUC TV Goiás" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" group-title="BRAZIL",TV Aparecida | PUC TV Goiás
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="BR - TV Aparecida" tvg-logo="https://iptv-epg.org/images/kYT6RRrdTnnihZU7AYqoa8_cAQifZoENzKSNOLu5Qv3KCEj1B81PY2H6xvBNFNLh-U6SDlao72P8bBF44ZWNegXukBye4Deo67Mcy8h3mnaBtQ3B" group-title="BRAZIL",TV Aparecida | PUC TV Goiás
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Arapuan" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Arapuan
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
