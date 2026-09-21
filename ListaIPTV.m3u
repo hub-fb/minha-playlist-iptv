@@ -101,7 +101,7 @@ https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroBrasilTV.br@SD" tvg-name="AgroBrasil TV (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",AgroBrasil TV (720p) [Not 24/7]
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AgroCanal" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",AgroCanal
+#EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-name="AgroCanal" tvg-logo="" group-title="BRAZIL",AgroCanal
 https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-name="AgroCanal (720p)" tvg-logo="" group-title="BRAZIL",AgroCanal (720p)
 http://168.197.104.22/AGRO_CANAL/index.m3u8
@@ -233,10 +233,10 @@ https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/play
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 tvg-id="CaboFrioTV.br@SD" tvg-name="Cabo Frio TV (720p)" tvg-logo="" group-title="BRAZIL",Cabo Frio TV (720p)
 https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 25 Jundiai" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Canal 25 Jundiai
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="Canal25Jundiai.br@SD" tvg-name="Canal 25 Jundiai (720p)" tvg-logo="" group-title="BRAZIL",Canal 25 Jundiai (720p)
 https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8
-#EXTINF:-1 tvg-id="Canal25Jundiai.br@SD" tvg-name="Canal 25 Jundiaí (404p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",Canal 25 Jundiaí (404p) [Not 24/7]
-https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 29" tvg-logo="https://i.imgur.com/3oS1kJl.png" group-title="BRAZIL",Canal 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal38.br@SD" tvg-name="Canal 38 (720p)" tvg-logo="" group-title="BRAZIL",Canal 38 (720p)
@@ -663,7 +663,7 @@ https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NickOnline" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",NickOnline
 https://x1colegal.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NickOnline Bob Esponja" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",NickOnline Bob Esponja
+#EXTINF:-1 tvg-id="NickOnlineBobEsponja.br@HD" tvg-name="NickOnline Bob Esponja (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",NickOnline Bob Esponja (720p) [Not 24/7]
 https://bob.x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NickToons Brasil" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",NickToons Brasil
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
@@ -1259,7 +1259,7 @@ https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
 https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV A Critica" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV A Critica
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV A Folha" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV A Folha
+#EXTINF:-1 tvg-id="TVAFolha.br@SD" tvg-name="TV A Folha (720p)" tvg-logo="" group-title="BRAZIL",TV A Folha (720p)
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV A Folha | Palmas PR Brasil" tvg-logo="https://i.imgur.com/Zcrcwhy.png" group-title="BRAZIL",TV A Folha | Palmas PR Brasil
 https://video01.logicahost.com.br/tvafolha/tvafolha/master.m3u8
@@ -1319,7 +1319,7 @@ http://186.219.52.187/tv_brasil/index.m3u8
 http://45.162.64.114/TV_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil (720p)" tvg-logo="" group-title="BRAZIL",TV Brasil (720p)
 http://45.177.114.115/TV_BRASIL/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Brasil Oeste" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Brasil Oeste
+#EXTINF:-1 tvg-id="TVBrasilOeste.br@SD" tvg-name="TV Brasil Oeste (720p)" tvg-logo="" group-title="BRAZIL",TV Brasil Oeste (720p)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV BRICS Portuguese" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV BRICS Portuguese
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
@@ -1521,7 +1521,7 @@ https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Passo Fundo" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Passo Fundo
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPetropolis.br@SD" tvg-name="TV Petropolis (720p)" tvg-logo="" group-title="BRAZIL",TV Petropolis (720p)
+#EXTINF:-1 tvg-id="" tvg-name="TV Petropolis" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Petropolis
 https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 #EXTINF:-1 tvg-id="TVProfissao.br@SD" tvg-name="TV Profissao" tvg-logo="" group-title="BRAZIL",TV Profissao
 https://stmv.webtvninjas.com.br/tvprofissao/tvprofissao/playlist.m3u8
@@ -1555,7 +1555,7 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Sim Cachoeiro" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Sim Cachoeiro
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Sim Sao Mateus" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Sim Sao Mateus
+#EXTINF:-1 tvg-id="TVSimSaoMateus.br@SD" tvg-name="TV Sim São Mateus (720p)" tvg-logo="" group-title="BRAZIL",TV Sim São Mateus (720p)
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSolComunidade.br@SD" tvg-name="TV Sol Comunidade (480p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",TV Sol Comunidade (480p) [Not 24/7]
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
