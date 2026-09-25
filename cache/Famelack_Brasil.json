@@ -70,20 +70,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aPpjoxS7Oyu4bM",
-    "name": "AWTV",
-    "sources": {
-      "streams": [
-        "https://awtv.nuvemplay.live/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "DWCfWX1a4zLh6X",
     "name": "Band",
     "sources": {
@@ -276,7 +262,7 @@
     "name": "CNN Brasil",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/mWzvmc1JiC0"
+        "https://www.youtube-nocookie.com/embed/zOKDsqrs768"
       ]
     },
     "languages": [
@@ -540,20 +526,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Kqr3JHbCw7DAtR",
-    "name": "ISTV",
-    "sources": {
-      "streams": [
-        "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qSyu5IDtM6ZOyX",
     "name": "J3NEWS TV",
     "sources": {
@@ -686,6 +658,20 @@
     "sources": {
       "streams": [
         "https://x1colegal.com/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dlSxOcHpkY3viD",
+    "name": "NickOnline Bob Esponja",
+    "sources": {
+      "streams": [
+        "https://bob.x1colegal.com/hls/stream.m3u8"
       ]
     },
     "languages": [
@@ -856,7 +842,7 @@
         "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/bjoqh76YPWo"
+        "https://www.youtube-nocookie.com/embed/e5Da20-kUtU"
       ]
     },
     "languages": [
@@ -1011,7 +997,7 @@
     "name": "Rio TV Câmara",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/1GKyawe74eI"
+        "https://www.youtube-nocookie.com/embed/JaItcGTxbYA"
       ]
     },
     "languages": [
@@ -1232,11 +1218,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pP6SnedE0hiHpP",
+    "name": "TV Arapuan",
+    "sources": {
+      "streams": [
+        "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qIar6axvqjptwG",
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Nra05vPf748"
+        "https://www.youtube-nocookie.com/embed/2YkDyIWwgt4"
       ]
     },
     "languages": [
@@ -1617,20 +1617,6 @@
     "sources": {
       "streams": [
         "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "w2GfVNVMjp9Up3",
-    "name": "TV Petropolis",
-    "sources": {
-      "streams": [
-        "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
       ]
     },
     "languages": [
