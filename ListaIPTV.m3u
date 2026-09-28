@@ -955,6 +955,8 @@ http://168.197.104.22/REDE_FAMILIA/index.m3u8
 http://186.219.52.187/rede_familia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Globo" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Rede Globo
 https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
+#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-name="Rede Globo (1080p)" tvg-logo="" group-title="BRAZIL",Rede Globo (1080p)
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-id="" tvg-name="Rede Gospel" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Rede Gospel
 https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Gospel" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Rede Gospel
