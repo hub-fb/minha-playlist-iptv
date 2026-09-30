@@ -173,7 +173,7 @@ http://170.83.16.50/AXN/index.m3u8
 http://170.83.49.66:8083/AXNHD/index.m3u8
 #EXTINF:-1 tvg-id="US17000208H" tvg-name="BABY SHARK TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US17000208H_20260915T035035SQUARE.png" group-title="BRAZIL",Baby Shark TV
 https://jmp2.uk/plu-63da6bcd60bc8f0008a5d364.m3u8
-#EXTINF:-1 tvg-id="5ebac49ce4dc8b00078b23bc" tvg-name="Babyfirst" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="BRAZIL",Babyfirst
+#EXTINF:-1 tvg-id="BabyFirst.us@Brazil" tvg-name="Babyfirst" tvg-logo="" group-title="BRAZIL",Babyfirst
 https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Band" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Band
 https://media.cdntvms.com.br/band_sat/index.m3u8
@@ -4127,7 +4127,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1398
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=60
 #EXTINF:-1 tvg-id="" tvg-name="Baby Einstein 3" tvg-logo="https://i.imgur.com/04IizxF.png" group-title="INFANTIS EM INGLÊS",Baby Einstein 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=563
-#EXTINF:-1 tvg-id="5ebac49ce4dc8b00078b23bc" tvg-name="Babyfirst" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="INFANTIS EM INGLÊS",Babyfirst
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="Babyfirst" tvg-logo="https://i.imgur.com/GnHvrdA.png" group-title="INFANTIS EM INGLÊS",Babyfirst
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=442
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="Babyfirst 2" tvg-logo="https://i.imgur.com/GnHvrdA.png" group-title="INFANTIS EM INGLÊS",Babyfirst 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1055
