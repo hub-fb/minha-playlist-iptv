@@ -1205,6 +1205,8 @@ https://jmp2.uk/plu-68b88821e542386ab0bf5bef.m3u8
 https://jmp2.uk/plu-68b8875777201ec428d9eaa5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TCM 10 HD" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TCM 10 HD
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 tvg-id="TelecineAction.br@SD" tvg-name="Telecine Action (1080p)" tvg-logo="" group-title="BRAZIL",Telecine Action (1080p)
+http://46.151.196.223:14326/
 #EXTINF:-1 tvg-id="USBD3500015R5" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500015R5_20260915T035116SQUARE.png" group-title="BRAZIL",Teletubbies
 https://jmp2.uk/plu-64e50055286f6b000838c067.m3u8
 #EXTINF:-1 tvg-id="TendaTV.br" tvg-name="Tenda TV | Brasil" tvg-logo="https://i.imgur.com/tEQn90j.png" group-title="BRAZIL",Tenda TV | Brasil
