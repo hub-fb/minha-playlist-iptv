@@ -413,7 +413,7 @@ http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
 https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
 #EXTINF:-1 tvg-id="ElementalChannel.br@SD" tvg-name="Elemental Channel (1080p)" tvg-logo="" group-title="BRAZIL",Elemental Channel (1080p)
 https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
-#EXTINF:-1 tvg-id="ElyTV.br@SD" tvg-name="ElyTV (360p)" tvg-logo="" group-title="BRAZIL",ElyTV (360p)
+#EXTINF:-1 tvg-id="" tvg-name="ElyTV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",ElyTV
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN.br@SD" tvg-name="ESPN (1080p)" tvg-logo="" group-title="BRAZIL",ESPN (1080p)
 http://181.78.197.59:8000/play/a07z/index.m3u8
@@ -646,7 +646,7 @@ https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NickJrClub.us@BR" tvg-name="Nick Jr. Club (720p)" tvg-logo="" group-title="BRAZIL",Nick Jr. Club (720p)
 https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Nickelodeon
-https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="NickelodeonClassico.us@BR" tvg-name="Nickelodeon Clássico (720p)" tvg-logo="" group-title="BRAZIL",Nickelodeon Clássico (720p)
 https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
 #EXTINF:-1 tvg-id="620ff0a01f9e8700076c6f9d" tvg-name="Nickelodeon iCarly" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="BRAZIL",Nickelodeon iCarly
@@ -659,8 +659,6 @@ https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 https://x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NickOnlineBobEsponja.br@HD" tvg-name="NickOnline Bob Esponja (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",NickOnline Bob Esponja (720p) [Not 24/7]
 https://bob.x1colegal.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NickToons Brasil" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",NickToons Brasil
-https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nosey Escândalos | Samsung" tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png" group-title="BRAZIL",Nosey Escândalos | Samsung
 https://nosey-4-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br@SD" tvg-name="Nova Era TV (1080p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",Nova Era TV (1080p) [Not 24/7]
@@ -1137,7 +1135,7 @@ https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m
 https://jmp2.uk/plu-6660b636cb3ea10008429c6a.m3u8
 #EXTINF:-1 tvg-id="ShowdoMilhao.br@SD" tvg-name="Show do Milhao (1080p) [Geo-blocked]" tvg-logo="" group-title="BRAZIL",Show do Milhao (1080p) [Geo-blocked]
 https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SIC TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",SIC TV
+#EXTINF:-1 tvg-id="SICTV.br@SD" tvg-name="SIC TV (720p)" tvg-logo="" group-title="BRAZIL",SIC TV (720p)
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SIC | Portugal" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",SIC | Portugal
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
@@ -1295,9 +1293,9 @@ http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="BR - TV Aparecida" tvg-logo="https://iptv-epg.org/images/kYT6RRrdTnnihZU7AYqoa8_cAQifZoENzKSNOLu5Qv3KCEj1B81PY2H6xvBNFNLh-U6SDlao72P8bBF44ZWNegXukBye4Deo67Mcy8h3mnaBtQ3B" group-title="BRAZIL",TV Aparecida | PUC TV Goiás
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Arapuan" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Arapuan
+#EXTINF:-1 tvg-id="TVArapuan.br@SD" tvg-name="TV Arapuan (720p)" tvg-logo="" group-title="BRAZIL",TV Arapuan (720p)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Assembleia Piaui" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Assembleia Piaui
+#EXTINF:-1 tvg-id="TVAssembleiaPiaui.br@SD" tvg-name="TV Assembleia Piaui" tvg-logo="" group-title="BRAZIL",TV Assembleia Piaui
 https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAssembleiaCeara.br@SD" tvg-name="TV Assembléia Ceará (720p)" tvg-logo="" group-title="BRAZIL",TV Assembléia Ceará (720p)
 https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
@@ -1323,7 +1321,7 @@ http://186.219.52.187/tv_brasil/index.m3u8
 http://45.162.64.114/TV_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil (720p)" tvg-logo="" group-title="BRAZIL",TV Brasil (720p)
 http://45.177.114.115/TV_BRASIL/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Brasil Oeste" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Brasil Oeste
+#EXTINF:-1 tvg-id="TVBrasilOeste.br@SD" tvg-name="TV Brasil Oeste (720p)" tvg-logo="" group-title="BRAZIL",TV Brasil Oeste (720p)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV BRICS Portuguese" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV BRICS Portuguese
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
@@ -1479,7 +1477,7 @@ http://45.162.64.114/TV_JUSTICA/index.m3u8
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Life America" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Life America
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
-#EXTINF:-1 tvg-id="TVLitoralRN.br@SD" tvg-name="TV Litoral RN (720p)" tvg-logo="" group-title="BRAZIL",TV Litoral RN (720p)
+#EXTINF:-1 tvg-id="" tvg-name="TV Litoral RN" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Litoral RN
 https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMackenzie.br@SD" tvg-name="TV Mackenzie (480p)" tvg-logo="" group-title="BRAZIL",TV Mackenzie (480p)
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
@@ -3993,7 +3991,7 @@ https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
 https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
 #EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="INDIA",Aaj Tak Ⓨ
 https://www.youtube.com/watch?v=Nq2wYlWFucg
-#EXTINF:-1 tvg-id="IN4000006CF" tvg-name="ABP Ananda" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000006CF_20260623T013530SQUARE.png" group-title="INDIA",ABP Ananda
+#EXTINF:-1 tvg-id="IN4000006CF" tvg-name="ABP Ananda" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000006CF_20261006T042343SQUARE.png" group-title="INDIA",ABP Ananda
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
 #EXTINF:-1 tvg-id="IN4600012BD" tvg-name="ABP News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600012BD_20260922T204819SQUARE.png" group-title="INDIA",ABP News
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
