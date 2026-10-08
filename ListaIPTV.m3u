@@ -359,7 +359,7 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m
 https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
 #EXTINF:-1 tvg-id="Combate.br@SD" tvg-name="Combate (720p)" tvg-logo="" group-title="BRAZIL",Combate (720p)
 http://143.14.134.107/167/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralBrasil.br@SD" tvg-name="Comedy Central Brasil (480p)" tvg-logo="" group-title="BRAZIL",Comedy Central Brasil (480p)
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Brasil" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Comedy Central Brasil
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-id="DEAK3504500A" tvg-name="Comedy Central Pluto TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504500A_20260908T033437SQUARE.png" group-title="BRAZIL",Comedy Central Pluto TV
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
@@ -567,7 +567,7 @@ https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
 https://edge17.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
 #EXTINF:-1 tvg-id="LiderTV.br@SD" tvg-name="Lider TV (720p)" tvg-logo="" group-title="BRAZIL",Lider TV (720p)
 https://cdn-tiva-video08-logicahost-com-br.smartbit.co/lidertvssp/lidertvssp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Loading" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Loading
+#EXTINF:-1 tvg-id="Loading.br@SD" tvg-name="Loading (720p)" tvg-logo="" group-title="BRAZIL",Loading (720p)
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="M2O" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",M2O
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
@@ -659,7 +659,7 @@ https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NickOnline" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",NickOnline
 https://x1colegal.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NickOnline Bob Esponja" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",NickOnline Bob Esponja
+#EXTINF:-1 tvg-id="NickOnlineBobEsponja.br@HD" tvg-name="NickOnline Bob Esponja (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",NickOnline Bob Esponja (720p) [Not 24/7]
 https://bob.x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nosey Escândalos | Samsung" tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png" group-title="BRAZIL",Nosey Escândalos | Samsung
 https://nosey-4-br.samsung.wurl.tv/playlist.m3u8
@@ -1325,7 +1325,7 @@ http://45.177.114.115/TV_BRASIL/index.m3u8
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV BRICS Portuguese" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV BRICS Portuguese
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Brusque" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Brusque
+#EXTINF:-1 tvg-id="TVBrusque.br@SD" tvg-name="TV Brusque (720p)" tvg-logo="" group-title="BRAZIL",TV Brusque (720p)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Camara" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
@@ -1461,7 +1461,7 @@ http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Guara" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Guara
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
-#EXTINF:-1 tvg-id="TVGuarapari.br@SD" tvg-name="TV Guarapari (720p)" tvg-logo="" group-title="BRAZIL",TV Guarapari (720p)
+#EXTINF:-1 tvg-id="" tvg-name="TV Guarapari" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Guarapari
 https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
 #EXTINF:-1 tvg-id="TVInterlagos.br@SD" tvg-name="TV Interlagos (360p)" tvg-logo="" group-title="BRAZIL",TV Interlagos (360p)
 https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8
@@ -1479,7 +1479,7 @@ http://45.162.64.114/TV_JUSTICA/index.m3u8
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Life America" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Life America
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Litoral RN" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Litoral RN
+#EXTINF:-1 tvg-id="TVLitoralRN.br@SD" tvg-name="TV Litoral RN (720p)" tvg-logo="" group-title="BRAZIL",TV Litoral RN (720p)
 https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMackenzie.br@SD" tvg-name="TV Mackenzie (480p)" tvg-logo="" group-title="BRAZIL",TV Mackenzie (480p)
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
@@ -2521,7 +2521,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=793
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1665
 #EXTINF:-1 tvg-id="" tvg-name="Toro TV | EUA 3" tvg-logo="https://i.imgur.com/JrurF3g.png" group-title="CINEMA EM INGLÊS",Toro TV | EUA 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1686
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-60ede94f7da2ef002c55ce9b" tvg-name="Tribeca Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3609f1e-21bc-4899-9399-2f6ab8f9b49d/TribecaChannel_Logo_Dark.png" group-title="CINEMA EM INGLÊS",Tribeca Channel
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-60ede94f7da2ef002c55ce9b" tvg-name="Tribeca Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3609f1e-21bc-4899-9399-2f6ab8f9b49d/TribecaChannel_Logo_Dark.png" group-title="CINEMA EM INGLÊS",Tribeca Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=822
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ede94f7da2ef002c55ce9b" tvg-name="Tribeca Channel 2" tvg-logo="https://i.imgur.com/6zYBr7B.png" group-title="CINEMA EM INGLÊS",Tribeca Channel 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1850
@@ -3357,7 +3357,7 @@ https://bloomberg.com/media-manifest/streams/us.m3u8
 http://23.237.104.106:8080/USA_BUZZR/index.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://i.imgur.com/nki2HDQ.png" group-title="ESTADOS UNIDOS",CBS News
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f6b8e5900b0950040d0f2af" tvg-name="Cheddar" tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/4947c924b33dec83b2b00bb560bf2eb6.png" group-title="ESTADOS UNIDOS",Cheddar
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5f6b8e5900b0950040d0f2af" tvg-name="Cheddar" tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/4947c924b33dec83b2b00bb560bf2eb6.png" group-title="ESTADOS UNIDOS",Cheddar
 https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="https://i.imgur.com/BTasyOy.png" group-title="ESTADOS UNIDOS",CNBC Ⓨ
 https://www.youtube.com/c/CNBC/live
@@ -4133,7 +4133,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=442
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1055
 #EXTINF:-1 tvg-id="" tvg-name="Camp Cool Kids | TG" tvg-logo="https://i.imgur.com/7Q2o4Ar.png" group-title="INFANTIS EM INGLÊS",Camp Cool Kids | TG
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=285
-#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6164a963766ab4f9f57e81b1" tvg-name="Camp Spoopy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/camp-spoopy-logo_dark.png" group-title="INFANTIS EM INGLÊS",Camp Spoopy
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6164a963766ab4f9f57e81b1" tvg-name="Camp Spoopy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/camp-spoopy-logo_dark.png" group-title="INFANTIS EM INGLÊS",Camp Spoopy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=264
 #EXTINF:-1 tvg-id="" tvg-name="Canal Criança 1" tvg-logo="https://i.imgur.com/g505N5r.png" group-title="INFANTIS EM INGLÊS",Canal Criança 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=631
@@ -5737,7 +5737,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2704
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fe27da28c198b002d179199" tvg-name="Stingray Qello Concerts" tvg-logo="https://i.imgur.com/z0mmnRk.png" group-title="MÚSICA",Stingray Qello Concerts
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=568
-#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-61aaa17a784a2161d3caf801" tvg-name="Stingray Soul Storm" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45da3b94-2c9d-453d-ab75-692b36245244/13212_SM_Plex_Logos_Soul-Storm_1500x1000_V01-white_-_Olivia_bronfman.png" group-title="MÚSICA",Stingray Soul Storm
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-61aaa17a784a2161d3caf801" tvg-name="Stingray Soul Storm" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45da3b94-2c9d-453d-ab75-692b36245244/13212_SM_Plex_Logos_Soul-Storm_1500x1000_V01-white_-_Olivia_bronfman.png" group-title="MÚSICA",Stingray Soul Storm
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1390
 #EXTINF:-1 tvg-id="USBD3500009Y3" tvg-name="Stingray Today's Latin Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20260421T141859SQUARE.png" group-title="MÚSICA",Stingray Today's Latin Pop
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2583
@@ -6391,7 +6391,7 @@ http://linear-219.frequency.stream/219/hls/master/playlist.m3u8
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FilmRise Mysteries 24/7 | EUA" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="REALITY SHOWS EM INGLÊS: CRIMES E JULGAMENTOS",FilmRise Mysteries 24/7 | EUA
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f5132da62fe160040f26b5b" tvg-name="Judge Faith" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7d32af01-5d94-4992-809c-4dd54b7099ea/judge_faith_White.png" group-title="REALITY SHOWS EM INGLÊS: CRIMES E JULGAMENTOS",Judge Faith
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5f5132da62fe160040f26b5b" tvg-name="Judge Faith" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7d32af01-5d94-4992-809c-4dd54b7099ea/judge_faith_White.png" group-title="REALITY SHOWS EM INGLÊS: CRIMES E JULGAMENTOS",Judge Faith
 https://35f8d561e25c470b974ab6f6b3df22cc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_JudgeFaith/playlist.m3u8?ads.wurl_channel=536&ads.wurl_name=JudgeFaith&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=vB1fQVteisRvSpyJtSgH&ads.plex_id=5f5132da62fe160040f26b5b&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 tvg-id="" tvg-name="Justice for All" tvg-logo="https://i.imgur.com/wfhyh8W.png" group-title="REALITY SHOWS EM INGLÊS: CRIMES E JULGAMENTOS",Justice for All
 http://linear-220.frequency.stream/220/hls/master/playlist.m3u8
@@ -7783,7 +7783,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2580
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2592
 #EXTINF:-1 tvg-id="" tvg-name="Dungeon TV | Galxy TV 4" tvg-logo="https://i.imgur.com/wdQb0AU.png" group-title="VIDEOGAME",Dungeon TV | Galxy TV 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1954
-#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-5f12332eeca6a20040b328e5" tvg-name="SKWAD" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" group-title="VIDEOGAME",SKWAD
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-5f12332eeca6a20040b328e5" tvg-name="SKWAD" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" group-title="VIDEOGAME",SKWAD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=38
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d62b898490041b49374" tvg-name="SKWAD 2" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" group-title="VIDEOGAME",SKWAD 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=39
@@ -7921,7 +7921,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612ce23f51cce000078eeed5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="Forensic Files – Pluto TV" tvg-logo="https://i.imgur.com/hF5maH7.png" group-title="VOD ITALY",Forensic Files – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ec5cf50f73a800081310a5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="VOD ITALY",FUEL TV
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-62ffc5cfa6cad6f2991745c2" tvg-name="FUEL TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="VOD ITALY",FUEL TV
 https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Full Moon" tvg-logo="https://i.imgur.com/0xT7bZP.jpg" group-title="VOD ITALY",Full Moon
 https://minerva-fullmoon-1-it.samsung.wurl.tv/playlist.m3u8
@@ -8131,7 +8131,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=95&deviceId=5ca525b650be2571e3943c63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="5f4d86f519358a00072b978e" tvg-name="90s Throwback" tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png" group-title="VOD MOVIES (EN)",90s Throwback
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=94&deviceId=5f4d86f519358a00072b978e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-66be944f8711311880995280" tvg-name="Action Hollywood Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="VOD MOVIES (EN)",Action Hollywood Movies
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-66be944f8711311880995280" tvg-name="Action Hollywood Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="VOD MOVIES (EN)",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Black Cinema" tvg-logo="https://i.imgur.com/Zh1QGW9.png" group-title="VOD MOVIES (EN)",Black Cinema
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -8141,7 +8141,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 tvg-id="FilmRiseFreeMovies.us" tvg-name="FilmRise Movies" tvg-logo="https://i.imgur.com/jGzMaRD.png" group-title="VOD MOVIES (EN)",FilmRise Movies
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872" tvg-name="FilmRise Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52e549aa-1c71-4285-a47c-63be6a60aa54/FilmRise_SciFi_1500x1000_Light_Logo.png" group-title="VOD MOVIES (EN)",FilmRise Sci-Fi
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f06" tvg-name="FilmRise Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a082f488-9d7e-4e89-be52-4b7e5c8d91d3/FilmRise_SciFi_1500x1000_Light_Logo.png" group-title="VOD MOVIES (EN)",FilmRise Sci-Fi
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
 #EXTINF:-1 tvg-id="58e55b14ad8e9c364d55f717" tvg-name="Flicks of Fury" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="VOD MOVIES (EN)",Flicks of Fury
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
