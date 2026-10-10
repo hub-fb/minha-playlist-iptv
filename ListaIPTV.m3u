@@ -3616,7 +3616,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-name="Euronews Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/500px-Euronews_2022.svg.png" group-title="GERMANY",Euronews Deutsch Ⓨ
 https://www.youtube.com/euronewsde/live
 #EXTINF:-1 tvg-id="HRFernsehen.de" tvg-name="HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/500px-HR-Fernsehen_Logo_2023.svg.png" group-title="GERMANY",HR Ⓖ
-https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
+https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
 #EXTINF:-1 tvg-id="KIKA.de" tvg-name="KiKa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/500px-Kika_2012.svg.png" group-title="GERMANY",KiKa Ⓖ
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-id="MDRFernsehenSachsen.de" tvg-name="MDR Sachsen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/500px-MDR_Logo_2017.svg.png" group-title="GERMANY",MDR Sachsen Ⓖ
