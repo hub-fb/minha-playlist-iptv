@@ -289,10 +289,6 @@ https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 http://170.82.202.31/OFF/index.m3u8
 #EXTINF:-1 tvg-id="CanalRicos.br@SD" tvg-name="Canal Ricos (480p)" tvg-logo="" group-title="BRAZIL",Canal Ricos (480p)
 https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-name="Canal Rural (1080p)" tvg-logo="" group-title="BRAZIL",Canal Rural (1080p)
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-name="Canal Rural (1080p)" tvg-logo="" group-title="BRAZIL",Canal Rural (1080p)
-https://cdn2.easy.tv.br/canalrural/index.m3u8
 #EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-name="Canal Rural (720p)" tvg-logo="" group-title="BRAZIL",Canal Rural (720p)
 http://170.83.49.66:8083/CANALRURALHD/index.m3u8
 #EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-name="Canal Rural (720p)" tvg-logo="" group-title="BRAZIL",Canal Rural (720p)
@@ -1187,8 +1183,6 @@ https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
 https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
 #EXTINF:-1 tvg-id="SpaceTodayTV.br" tvg-name="Space Today TV | Brasil" tvg-logo="https://yt3.googleusercontent.com/WAZB0H8e-u5ypkyl_lol08jLETezqqNbtIaafgp7O5m_WtpSb8OVXqmNO0_GW2Q8UFXdXB2E1w=s400-c-k-c0x00ffffff-no-rj" group-title="BRAZIL",Space Today TV | Brasil
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
-#EXTINF:-1 tvg-id="SporTV.br@SD" tvg-name="SporTV (1080p)" tvg-logo="" group-title="BRAZIL",SporTV (1080p)
-http://195.178.110.110/sportv/index.m3u8
 #EXTINF:-1 tvg-id="SporTV2.br@SD" tvg-name="SporTV 2 (1080p)" tvg-logo="" group-title="BRAZIL",SporTV 2 (1080p)
 http://195.178.110.110/sportv2/index.m3u8
 #EXTINF:-1 tvg-id="SporTV3.br@SD" tvg-name="SporTV 3 (1080p)" tvg-logo="" group-title="BRAZIL",SporTV 3 (1080p)
@@ -1347,8 +1341,6 @@ http://170.83.49.66:8083/TVCAMARAHD/index.m3u8
 http://186.219.52.187/tv_camara/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-name="TV Camara (720p)" tvg-logo="" group-title="BRAZIL",TV Camara (720p)
 http://45.162.64.114/TV_CAMARA/index.m3u8
-#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-name="TV Cancao Nova (576p)" tvg-logo="" group-title="BRAZIL",TV Cancao Nova (576p)
-https://cdn-5.nxplay.com.br/CANCAO_NOVA/index.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-name="TV Cancao Nova (720p)" tvg-logo="" group-title="BRAZIL",TV Cancao Nova (720p)
 http://168.197.104.22/CANCAO_NOVA/index.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-name="TV Cancao Nova (720p)" tvg-logo="" group-title="BRAZIL",TV Cancao Nova (720p)
@@ -1357,8 +1349,6 @@ http://170.83.16.50/CANCAO_NOVA/index.m3u8
 http://186.219.52.187/cancao_nova/index.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-name="TV Cancao Nova (720p)" tvg-logo="" group-title="BRAZIL",TV Cancao Nova (720p)
 http://45.162.64.114/CANCAO_NOVA/index.m3u8
-#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-name="TV Cancao Nova (720p)" tvg-logo="" group-title="BRAZIL",TV Cancao Nova (720p)
-https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCarioca.br@SD" tvg-name="TV Carioca (720p)" tvg-logo="" group-title="BRAZIL",TV Carioca (720p)
 https://cdn-tiva-video03-logicahost-com-br.smartbit.co/cariocainternacional1/cariocainternacional1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCidadedePetropolis.br@SD" tvg-name="TV Cidade de Petrópolis (1080p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",TV Cidade de Petrópolis (1080p) [Not 24/7]
@@ -1444,13 +1434,7 @@ https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-name="TV Galega | Blumenau SC Brasil - link 2" tvg-logo="https://i.imgur.com/PMSiLyy.png" group-title="BRAZIL",TV Galega | Blumenau SC Brasil - link 2
 https://cdn.live.br1.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-name="TV Gazeta (720p)" tvg-logo="" group-title="BRAZIL",TV Gazeta (720p)
-http://168.197.104.22/GAZETA/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-name="TV Gazeta (720p)" tvg-logo="" group-title="BRAZIL",TV Gazeta (720p)
-http://170.84.165.204/Gazeta_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-name="TV Gazeta (720p)" tvg-logo="" group-title="BRAZIL",TV Gazeta (720p)
 http://186.219.52.187/gazeta/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-name="TV Gazeta (720p)" tvg-logo="" group-title="BRAZIL",TV Gazeta (720p)
-http://45.162.64.114/GAZETA/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-name="TV Gazeta (720p)" tvg-logo="" group-title="BRAZIL",TV Gazeta (720p)
 http://45.162.64.114/TV_GAZETA/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-name="TV Gazeta (720p)" tvg-logo="" group-title="BRAZIL",TV Gazeta (720p)
