@@ -131,7 +131,7 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alpha FM | Goiânia" tvg-logo="https://i.imgur.com/XKDj8Qh.png" group-title="BRAZIL",Alpha FM | Goiânia
 https://ice.fabricahost.com.br/alphafm1021
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Sat" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Amazon Sat
+#EXTINF:-1 tvg-id="AmazonSat.br@SD" tvg-name="Amazon Sat (1080p)" tvg-logo="" group-title="BRAZIL",Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Anime TV - WebTV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Anime TV - WebTV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
@@ -551,7 +551,7 @@ https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
 https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kids Mais" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Kids Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KpopTV Play" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",KpopTV Play
+#EXTINF:-1 tvg-id="KpopTVPlay.br@SD" tvg-name="KpopTV Play (576p)" tvg-logo="" group-title="BRAZIL",KpopTV Play (576p)
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KroneHIT" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",KroneHIT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
@@ -561,7 +561,7 @@ https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L!ke" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",L!ke
 https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Laboral TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Laboral TV
+#EXTINF:-1 tvg-id="LaboralTV.br@SD" tvg-name="Laboral TV (360p)" tvg-logo="" group-title="BRAZIL",Laboral TV (360p)
 https://tv.laboralsst.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lamore Rock Show WebTV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Lamore Rock Show WebTV
 https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
@@ -661,7 +661,7 @@ https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NickOnline" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",NickOnline
 https://x1colegal.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NickOnline Bob Esponja" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",NickOnline Bob Esponja
+#EXTINF:-1 tvg-id="NickOnlineBobEsponja.br@HD" tvg-name="NickOnline Bob Esponja (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",NickOnline Bob Esponja (720p) [Not 24/7]
 https://bob.x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nosey Escândalos | Samsung" tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png" group-title="BRAZIL",Nosey Escândalos | Samsung
 https://nosey-4-br.samsung.wurl.tv/playlist.m3u8
@@ -1169,7 +1169,7 @@ http://45.177.114.115/SONY_MOVIES/index.m3u8
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony One Shark Tank Brasil (720p)" tvg-logo="" group-title="BRAZIL",Sony One Shark Tank Brasil (720p)
 https://jmp2.uk/plu-6647c0b91050b60008390de4.m3u8
-#EXTINF:-1 tvg-id="SOUTV.br@SD" tvg-name="SOU TV" tvg-logo="" group-title="BRAZIL",SOU TV
+#EXTINF:-1 tvg-id="" tvg-name="SOU TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",SOU TV
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Soul Cine Clube | Brasil" tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="BRAZIL",Soul Cine Clube | Brasil
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
@@ -1275,7 +1275,7 @@ https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/index.m3u8
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 #EXTINF:-1 tvg-id="Assembleia.go" tvg-name="TV Alego | GO Brasil" tvg-logo="https://i.imgur.com/UyRDotD.png" group-title="BRAZIL",TV Alego | GO Brasil
 https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Alianca Catarinense" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Alianca Catarinense
+#EXTINF:-1 tvg-id="TVAliancaCatarinense.br@SD" tvg-name="TV Aliança Catarinense (720p)" tvg-logo="" group-title="BRAZIL",TV Aliança Catarinense (720p)
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 #EXTINF:-1 tvg-id="TVALMG.br" tvg-name="TV ALMG | MG Brasil" tvg-logo="https://i.imgur.com/SyzEjqx.png" group-title="BRAZIL",TV ALMG | MG Brasil
 https://streaming.almg.gov.br/live/tvalmg.m3u8
@@ -1557,7 +1557,7 @@ https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSolComunidade.br@SD" tvg-name="TV Sol Comunidade (480p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",TV Sol Comunidade (480p) [Not 24/7]
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Sul Bahia" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Sul Bahia
+#EXTINF:-1 tvg-id="TVSulBahia.br@SD" tvg-name="TV Sul Bahia (320p)" tvg-logo="" group-title="BRAZIL",TV Sul Bahia (320p)
 https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSuldeMinas.br@SD" tvg-name="TV Sul de Minas (720p)" tvg-logo="" group-title="BRAZIL",TV Sul de Minas (720p)
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
@@ -1583,7 +1583,7 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 #EXTINF:-1 tvg-id="IT18000033C" tvg-name="TV5 Monde Info" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT18000033C_20251013T054515SQUARE.png" group-title="BRAZIL",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVC-Rio" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TVC-Rio
+#EXTINF:-1 tvg-id="TVCRio.br@SD" tvg-name="TVC-Rio" tvg-logo="" group-title="BRAZIL",TVC-Rio
 https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVCOM Maceio" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TVCOM Maceio
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
