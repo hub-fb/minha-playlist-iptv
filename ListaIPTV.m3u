@@ -473,7 +473,7 @@ https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fuel Tv | SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",Fuel Tv | SamsungTv
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-id="Futura.br@SD" tvg-name="Futura (720p)" tvg-logo="" group-title="BRAZIL",Futura (720p)
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Canal_Futura_2022.svg" group-title="BRAZIL",Futura
 http://168.197.104.22/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="Futura.br@SD" tvg-name="Futura (720p)" tvg-logo="" group-title="BRAZIL",Futura (720p)
 http://170.83.49.66:8083/FUTURAHD/index.m3u8
