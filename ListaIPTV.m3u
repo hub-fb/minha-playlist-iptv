@@ -5811,7 +5811,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1302
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=710
 #EXTINF:-1 tvg-id="L1TV.nl" tvg-name="L1" tvg-logo="https://i.imgur.com/Jyhn1iP.png" group-title="NETHERLANDS",L1 Ⓢ
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NH Nieuws" tvg-logo="https://i.imgur.com/SQPVOwn.png" group-title="NETHERLANDS",NH Nieuws
+#EXTINF:-1 tvg-id="NH.nl" tvg-name="NH Nieuws" tvg-logo="https://i.imgur.com/SQPVOwn.png" group-title="NETHERLANDS",NH Nieuws
 https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1 tvg-id="OmroepBrabantTV.nl" tvg-name="Omroep Brabant" tvg-logo="https://i.imgur.com/Jv7IjHJ.png" group-title="NETHERLANDS",Omroep Brabant
 http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
