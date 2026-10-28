@@ -3467,6 +3467,8 @@ https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m
 http://145.239.5.177/314/index.m3u8
 #EXTINF:-1 tvg-id="Africanews.cg" tvg-name="Africanews" tvg-logo="https://i.imgur.com/xocvePC.png" group-title="FRANCE",Africanews Ⓨ
 https://www.youtube.com/c/Africanewsfr/live
+#EXTINF:-1 tvg-id="" tvg-name="Air Connect TV" tvg-logo="onnectTV.f" group-title="FRANCE",Air Connect TV
+https://tv.airconnectradio.com/live.m3u8
 #EXTINF:-1 tvg-id="FRBD410000783" tvg-name="BFM TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000783_20251209T004432SQUARE.png" group-title="FRANCE",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN Français" tvg-logo="https://i.imgur.com/fMsJYzl.png" group-title="FRANCE",CGTN Français
