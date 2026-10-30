@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-br.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
 #EXTINF:-1 tvg-id="" tvg-name="+MaisUm" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",+MaisUm
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="1001Noites.br@SD" tvg-name="1001 Noites (480p)" tvg-logo="" group-title="BRAZIL",1001 Noites (480p)
+#EXTINF:-1 tvg-id="" tvg-name="1001 Noites" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",1001 Noites
 https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
 #EXTINF:-1 tvg-id="1001Noites.br@SD" tvg-name="1001 Noites (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",1001 Noites (720p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
@@ -377,7 +377,7 @@ https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
 http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ConecTV Brasil" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",ConecTV Brasil
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:-1 tvg-id="ConexaoTV.br@SD" tvg-name="Conexão TV (720p)" tvg-logo="" group-title="BRAZIL",Conexão TV (720p)
+#EXTINF:-1 tvg-id="" tvg-name="Conexao TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Conexao TV
 https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="63eb9255c111bc0008fe6ec4" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title="BRAZIL",CSI: Miami
 https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
@@ -953,7 +953,7 @@ http://168.205.87.198:8555/live/1368/123456/150.m3u8
 http://168.197.104.22/REDE_FAMILIA/index.m3u8
 #EXTINF:-1 tvg-id="RedeFamilia.br@SD" tvg-name="Rede Familia (720p)" tvg-logo="" group-title="BRAZIL",Rede Familia (720p)
 http://186.219.52.187/rede_familia/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rede Globo" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Rede Globo
+#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-name="Rede Globo (1080p)" tvg-logo="" group-title="BRAZIL",Rede Globo (1080p)
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-name="Rede Globo (720p)" tvg-logo="" group-title="BRAZIL",Rede Globo (720p)
 https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
@@ -1111,7 +1111,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u
 https://media.cdntvms.com.br/sbt_sat/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT News" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",SBT News
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
-#EXTINF:-1 tvg-id="SBTNovaMutum.br@SD" tvg-name="SBT Nova Mutum" tvg-logo="" group-title="BRAZIL",SBT Nova Mutum
+#EXTINF:-1 tvg-id="" tvg-name="SBT Nova Mutum" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",SBT Nova Mutum
 https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT Rondonopolis" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",SBT Rondonopolis
 https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
@@ -1171,7 +1171,7 @@ http://45.177.114.115/SONY_MOVIES/index.m3u8
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony One Shark Tank Brasil (720p)" tvg-logo="" group-title="BRAZIL",Sony One Shark Tank Brasil (720p)
 https://jmp2.uk/plu-6647c0b91050b60008390de4.m3u8
-#EXTINF:-1 tvg-id="SOUTV.br@SD" tvg-name="SOU TV" tvg-logo="" group-title="BRAZIL",SOU TV
+#EXTINF:-1 tvg-id="" tvg-name="SOU TV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",SOU TV
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Soul Cine Clube | Brasil" tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="BRAZIL",Soul Cine Clube | Brasil
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
@@ -1277,7 +1277,7 @@ https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/index.m3u8
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 #EXTINF:-1 tvg-id="Assembleia.go" tvg-name="TV Alego | GO Brasil" tvg-logo="https://i.imgur.com/UyRDotD.png" group-title="BRAZIL",TV Alego | GO Brasil
 https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/master.m3u8
-#EXTINF:-1 tvg-id="TVAliancaCatarinense.br@SD" tvg-name="TV Aliança Catarinense (720p)" tvg-logo="" group-title="BRAZIL",TV Aliança Catarinense (720p)
+#EXTINF:-1 tvg-id="" tvg-name="TV Alianca Catarinense" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Alianca Catarinense
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 #EXTINF:-1 tvg-id="TVALMG.br" tvg-name="TV ALMG | MG Brasil" tvg-logo="https://i.imgur.com/SyzEjqx.png" group-title="BRAZIL",TV ALMG | MG Brasil
 https://streaming.almg.gov.br/live/tvalmg.m3u8
@@ -1299,7 +1299,7 @@ http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="BR - TV Aparecida" tvg-logo="https://iptv-epg.org/images/kYT6RRrdTnnihZU7AYqoa8_cAQifZoENzKSNOLu5Qv3KCEj1B81PY2H6xvBNFNLh-U6SDlao72P8bBF44ZWNegXukBye4Deo67Mcy8h3mnaBtQ3B" group-title="BRAZIL",TV Aparecida | PUC TV Goiás
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Arapuan" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Arapuan
+#EXTINF:-1 tvg-id="TVArapuan.br@SD" tvg-name="TV Arapuan (720p)" tvg-logo="" group-title="BRAZIL",TV Arapuan (720p)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAssembleiaPiaui.br@SD" tvg-name="TV Assembleia Piaui" tvg-logo="" group-title="BRAZIL",TV Assembleia Piaui
 https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
@@ -1557,7 +1557,7 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Sim Cachoeiro" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Sim Cachoeiro
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSimSaoMateus.br@SD" tvg-name="TV Sim São Mateus (720p)" tvg-logo="" group-title="BRAZIL",TV Sim São Mateus (720p)
+#EXTINF:-1 tvg-id="" tvg-name="TV Sim Sao Mateus" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TV Sim Sao Mateus
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSolComunidade.br@SD" tvg-name="TV Sol Comunidade (480p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",TV Sol Comunidade (480p) [Not 24/7]
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
@@ -6289,15 +6289,15 @@ https://stream.zeno.fm/auauo2vfekltv.m3u
 https://stream.zeno.fm/auauo2vfekltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[Radio] REGIONAL FM (102,3MHz) Santo Adré SP" tvg-logo="https://images.zeno.fm/Xe8rRTTnBtG_p3-EYnCR7VslgqputCf0P8cuRmItxx8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDQ5M2RjNWUtNjAzYS00ZTJkLWE0NDAtYzFjYzhkYjA5Y2NmL2ltYWdlLz91PTE3NDEyODg4MTMwMDA.webp" group-title="RADIOS",[Radio] REGIONAL FM (102,3MHz) Santo Adré SP
 https://stream.zeno.fm/auauo2vfekltv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Conflicto TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Conflicto | Galxy TV
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Conflicto | Galxy TV" tvg-logo="https://i.imgur.com/aR114pI.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Conflicto | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2581
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Conflicto TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Conflicto | Galxy TV 2
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Conflicto | Galxy TV 2" tvg-logo="https://i.imgur.com/aR114pI.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Conflicto | Galxy TV 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2593
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Conflicto TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Conflicto | Galxy TV 3
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Conflicto | Galxy TV 3" tvg-logo="https://i.imgur.com/aR114pI.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Conflicto | Galxy TV 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1956
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Conflicto TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Tribunal del Pueblo | Distro TV
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Tribunal del Pueblo | Distro TV" tvg-logo="https://i.imgur.com/ssMfHz5.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Tribunal del Pueblo | Distro TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Conflicto TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Tribunal del Pueblo | Galxy TV
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-name="El Tribunal del Pueblo | Galxy TV" tvg-logo="https://i.imgur.com/ssMfHz5.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",El Tribunal del Pueblo | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=80
 #EXTINF:-1 tvg-id="" tvg-name="Got Talent Global | vários idiomas" tvg-logo="https://i.imgur.com/WTFbvqm.png" group-title="REALITY E GAME SHOWS EM ESPANHOL",Got Talent Global | vários idiomas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=117
