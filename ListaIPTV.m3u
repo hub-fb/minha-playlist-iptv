@@ -287,8 +287,6 @@ http://45.177.114.115/TV_BRASIL_2/index.m3u8
 https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Metropolitano de Noticias" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Canal Metropolitano de Noticias
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalOff.br@SD" tvg-name="Canal Off (1080p)" tvg-logo="" group-title="BRAZIL",Canal Off (1080p)
-http://170.82.202.31/OFF/index.m3u8
 #EXTINF:-1 tvg-id="CanalRicos.br@SD" tvg-name="Canal Ricos (480p)" tvg-logo="" group-title="BRAZIL",Canal Ricos (480p)
 https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-name="Canal Rural (720p)" tvg-logo="" group-title="BRAZIL",Canal Rural (720p)
