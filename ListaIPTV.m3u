@@ -315,7 +315,7 @@ https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Catve2.br@SD" tvg-name="Catve2 (720p)" tvg-logo="" group-title="BRAZIL",Catve2 (720p)
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
-#EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-name="CazeTV" tvg-logo="" group-title="BRAZIL",CazeTV
+#EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-name="CazeTV (1080p)" tvg-logo="" group-title="BRAZIL",CazeTV (1080p)
 http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
 #EXTINF:-1 tvg-id="656e2a10954b020008ed167c" tvg-name="Caçadores de Óvnis" tvg-logo="https://images.pluto.tv/channels/656e2a10954b020008ed167c/colorLogoPNG_1732041732595.png" group-title="BRAZIL",Caçadores de Óvnis
 https://jmp2.uk/plu-656e2a10954b020008ed167c.m3u8
@@ -1005,7 +1005,7 @@ http://170.83.49.66:8083/REDETVHD/index.m3u8
 http://186.219.52.187/rede_tv/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-name="Rede TV! (720p)" tvg-logo="" group-title="BRAZIL",Rede TV! (720p)
 http://45.162.64.114/REDE_TV/index.m3u8
-#EXTINF:-1 tvg-id="RedeTVMais.br@SD" tvg-name="Rede TV! Mais" tvg-logo="" group-title="BRAZIL",Rede TV! Mais
+#EXTINF:-1 tvg-id="RedeTVMais.br@SD" tvg-name="Rede TV! Mais (720p)" tvg-logo="" group-title="BRAZIL",Rede TV! Mais (720p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-name="Rede TV! SP (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",Rede TV! SP (720p) [Not 24/7]
 https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
@@ -1095,7 +1095,7 @@ https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBN Global" tvg-logo="https://i.imgur.com/f35Nxu2.png" group-title="BRAZIL",SBN Global
 https://acesso.ecast.site:3500/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="SBTCuiaba.br@SD" tvg-name="SBT Cuiaba" tvg-logo="" group-title="BRAZIL",SBT Cuiaba
+#EXTINF:-1 tvg-id="SBTCuiaba.br@SD" tvg-name="SBT Cuiaba (818p)" tvg-logo="" group-title="BRAZIL",SBT Cuiaba (818p)
 https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br@SD" tvg-name="SBT Interior (720p)" tvg-logo="" group-title="BRAZIL",SBT Interior (720p)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
@@ -1109,7 +1109,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u
 https://media.cdntvms.com.br/sbt_sat/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT News" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",SBT News
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
-#EXTINF:-1 tvg-id="SBTNovaMutum.br@SD" tvg-name="SBT Nova Mutum" tvg-logo="" group-title="BRAZIL",SBT Nova Mutum
+#EXTINF:-1 tvg-id="SBTNovaMutum.br@SD" tvg-name="SBT Nova Mutum (818p)" tvg-logo="" group-title="BRAZIL",SBT Nova Mutum (818p)
 https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT Rondonopolis" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",SBT Rondonopolis
 https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
@@ -1206,7 +1206,7 @@ https://jmp2.uk/plu-68b8875777201ec428d9eaa5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TCM 10 HD" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TCM 10 HD
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-id="TelecineAction.br@SD" tvg-name="Telecine Action (1080p)" tvg-logo="" group-title="BRAZIL",Telecine Action (1080p)
-http://46.151.196.223:14326/
+http://46.151.196.223:14326
 #EXTINF:-1 tvg-id="USBD3500015R5" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500015R5_20260915T035116SQUARE.png" group-title="BRAZIL",Teletubbies
 https://jmp2.uk/plu-64e50055286f6b000838c067.m3u8
 #EXTINF:-1 tvg-id="TendaTV.br" tvg-name="Tenda TV | Brasil" tvg-logo="https://i.imgur.com/tEQn90j.png" group-title="BRAZIL",Tenda TV | Brasil
@@ -1444,7 +1444,7 @@ https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.
 #EXTINF:-1 tvg-id="TVGideoes.br@SD" tvg-name="TV Gideoes (1080p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",TV Gideoes (1080p) [Not 24/7]
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGloboBrasilia.br@SD" tvg-name="TV Globo Brasilia (1080p)" tvg-logo="" group-title="BRAZIL",TV Globo Brasilia (1080p)
-http://79.127.238.228:14173/
+http://79.127.238.228:14173
 #EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD" tvg-name="TV Globo Sao Paulo (720p)" tvg-logo="" group-title="BRAZIL",TV Globo Sao Paulo (720p)
 http://170.84.165.204/Globo_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD" tvg-name="TV Globo Sao Paulo (720p)" tvg-logo="" group-title="BRAZIL",TV Globo Sao Paulo (720p)
