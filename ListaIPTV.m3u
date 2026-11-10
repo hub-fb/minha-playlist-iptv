@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-br.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
 #EXTINF:-1 tvg-id="" tvg-name="+MaisUm" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",+MaisUm
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="1001Noites.br@SD" tvg-name="1001 Noites (480p)" tvg-logo="" group-title="BRAZIL",1001 Noites (480p)
+#EXTINF:-1 tvg-id="" tvg-name="1001 Noites" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",1001 Noites
 https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
 #EXTINF:-1 tvg-id="1001Noites.br@SD" tvg-name="1001 Noites (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",1001 Noites (720p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
@@ -865,7 +865,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/pla
 https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
 #EXTINF:-1 tvg-id="RBATV.br" tvg-name="RBA TV | Rio do Sul | SC" tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="BRAZIL",RBA TV | Rio do Sul | SC
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
-#EXTINF:-1 tvg-id="RBATV.br@SD" tvg-name="RBATV (720p)" tvg-logo="" group-title="BRAZIL",RBATV (720p)
+#EXTINF:-1 tvg-id="" tvg-name="RBATV" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",RBATV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-id="RBC.br" tvg-name="RBC" tvg-logo="https://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" group-title="BRAZIL",RBC Ⓨ
 https://www.youtube.com/watch?v=oUdd3CsxYaE
@@ -3803,7 +3803,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvpluschivetv/CDN/playlist
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01325-rarefiedatmosph-chivetv-tcl/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f76" tvg-name="Comedy Dynamics | EUA" tvg-logo="https://i.imgur.com/IBLybMe.png" group-title="HUMOR EM INGLÊS",Comedy Dynamics | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=580
-#EXTINF:-1 tvg-id="GBBD25000038Y" tvg-name="Comedy Hub" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20260901T102435SQUARE.png" group-title="HUMOR EM INGLÊS",Comedy Hub
+#EXTINF:-1 tvg-id="GBBD25000038Y" tvg-name="Comedy Hub" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20261110T043925SQUARE.png" group-title="HUMOR EM INGLÊS",Comedy Hub
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="localnow_LN Comedy" tvg-name="Comedy | EUA" tvg-logo="https://i.imgur.com/XGj7WOi.png" group-title="HUMOR EM INGLÊS",Comedy | EUA
 http://linear-89.frequency.stream/89/hls/master/playlist.m3u8
@@ -7019,7 +7019,7 @@ https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="IB3.es" tvg-name="IB3 Global" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/ib3-es.png" group-title="SPAIN",IB3 Global Ⓨ
 https://www.youtube.com/c/ib3/live
-#EXTINF:-1 tvg-id="ESBC4100001NZ" tvg-name="La 1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20261026T043200SQUARE.png" group-title="SPAIN",La 1
+#EXTINF:-1 tvg-id="ESBC4100001NZ" tvg-name="La 1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20261110T043507SQUARE.png" group-title="SPAIN",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 (Canarias)" tvg-logo="https://i.imgur.com/NbesiPn.png" group-title="SPAIN",La 1 (Canarias)
 https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_dvr.m3u8
@@ -7283,7 +7283,7 @@ https://lo3.gemporia.com/abrjewellerymaker/smil:livestreamFullHD.smil/playlist.m
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-id="Now70s.uk" tvg-name="Now 70s" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="UK",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GBBC900003B2" tvg-name="Now 80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900003B2_20250107T022856SQUARE.png" group-title="UK",Now 80s
+#EXTINF:-1 tvg-id="GBBC900003B2" tvg-name="Now 80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900003B2_20261110T044758SQUARE.png" group-title="UK",Now 80s
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NowRock.uk" tvg-name="Now Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png" group-title="UK",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
