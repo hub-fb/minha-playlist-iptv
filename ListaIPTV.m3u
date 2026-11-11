@@ -110,19 +110,11 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-name="AgroCanal" tvg-logo="" group-title="BRAZIL",AgroCanal
 https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-name="AgroCanal (720p)" tvg-logo="" group-title="BRAZIL",AgroCanal (720p)
-http://168.197.104.22/AGRO_CANAL/index.m3u8
-#EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-name="AgroCanal (720p)" tvg-logo="" group-title="BRAZIL",AgroCanal (720p)
 http://170.83.49.66:8083/AGROCANALHD/index.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-name="AgroCanal (720p)" tvg-logo="" group-title="BRAZIL",AgroCanal (720p)
 http://186.219.52.187/agro_canal/index.m3u8
-#EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-name="AgroCanal (720p)" tvg-logo="" group-title="BRAZIL",AgroCanal (720p)
-http://45.162.64.114/AGRO_CANAL/index.m3u8
-#EXTINF:-1 tvg-id="AgroMais.br@SD" tvg-name="AgroMais (720p)" tvg-logo="" group-title="BRAZIL",AgroMais (720p)
-http://168.197.104.22/AGROMAIS/index.m3u8
 #EXTINF:-1 tvg-id="AgroMais.br@SD" tvg-name="AgroMais (720p)" tvg-logo="" group-title="BRAZIL",AgroMais (720p)
 http://170.83.16.50/AGRO_MAIS/index.m3u8
-#EXTINF:-1 tvg-id="AgroMais.br@SD" tvg-name="AgroMais (720p)" tvg-logo="" group-title="BRAZIL",AgroMais (720p)
-http://45.162.64.114/AGROMAIS/index.m3u8
 #EXTINF:-1 tvg-id="AgroMais.br@SD" tvg-name="AgroMais (720p)" tvg-logo="" group-title="BRAZIL",AgroMais (720p)
 http://45.177.114.115/AGROMAIS_HD/index.m3u8
 #EXTINF:-1 tvg-id="AgroMais.br@SD" tvg-name="AgroMais (720p)" tvg-logo="" group-title="BRAZIL",AgroMais (720p)
@@ -148,11 +140,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Arte1.br@SD" tvg-name="Arte 1 (720p)" tvg-logo="" group-title="BRAZIL",Arte 1 (720p)
-http://168.197.104.22/ARTE1/index.m3u8
-#EXTINF:-1 tvg-id="Arte1.br@SD" tvg-name="Arte 1 (720p)" tvg-logo="" group-title="BRAZIL",Arte 1 (720p)
 http://170.83.16.50/ARTE_1/index.m3u8
-#EXTINF:-1 tvg-id="Arte1.br@SD" tvg-name="Arte 1 (720p)" tvg-logo="" group-title="BRAZIL",Arte 1 (720p)
-http://45.162.64.114/ARTE1/index.m3u8
 #EXTINF:-1 tvg-id="Arte1.br@SD" tvg-name="Arte 1 (720p)" tvg-logo="" group-title="BRAZIL",Arte 1 (720p)
 http://45.177.114.115/ARTE1/index.m3u8
 #EXTINF:-1 tvg-id="ARTV" tvg-name="ARTV Canal Parlamento | Portugal" tvg-logo="https://i.imgur.com/UaQXbL1.png" group-title="BRAZIL",ARTV Canal Parlamento | Portugal
@@ -191,18 +179,12 @@ https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 http://170.83.16.50/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="BandSports.br@SD" tvg-name="Band Sports (720p)" tvg-logo="" group-title="BRAZIL",Band Sports (720p)
 http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD" tvg-name="Band Sports (720p)" tvg-logo="" group-title="BRAZIL",Band Sports (720p)
-http://45.162.64.114/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br@SD" tvg-name="BandNews (1080p)" tvg-logo="" group-title="BRAZIL",BandNews (1080p)
 https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD" tvg-name="BandNews (720p)" tvg-logo="" group-title="BRAZIL",BandNews (720p)
-http://168.197.104.22/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br@SD" tvg-name="BandNews (720p)" tvg-logo="" group-title="BRAZIL",BandNews (720p)
 http://170.83.16.50/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br@SD" tvg-name="BandNews (720p)" tvg-logo="" group-title="BRAZIL",BandNews (720p)
 http://170.83.49.66:8083/BANDNEWSHD/index.m3u8
-#EXTINF:-1 tvg-id="BandNews.br@SD" tvg-name="BandNews (720p)" tvg-logo="" group-title="BRAZIL",BandNews (720p)
-http://45.162.64.114/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br@SD" tvg-name="BandNews (720p)" tvg-logo="" group-title="BRAZIL",BandNews (720p)
 http://45.177.114.115/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BemMaisTV.br@HD" tvg-name="Bem Mais TV (1080p)" tvg-logo="" group-title="BRAZIL",Bem Mais TV (1080p)
@@ -244,23 +226,15 @@ https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal38.br@SD" tvg-name="Canal 38 (720p)" tvg-logo="" group-title="BRAZIL",Canal 38 (720p)
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-name="Canal do Boi (720p)" tvg-logo="" group-title="BRAZIL",Canal do Boi (720p)
-http://168.197.104.22/CANAL_DO_BOI/index.m3u8
-#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-name="Canal do Boi (720p)" tvg-logo="" group-title="BRAZIL",Canal do Boi (720p)
 http://170.83.16.50/CANAL_DO_BOI/index.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-name="Canal do Boi (720p)" tvg-logo="" group-title="BRAZIL",Canal do Boi (720p)
 http://170.83.49.66:8083/CANALDOBOIHD/index.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-name="Canal do Boi (720p)" tvg-logo="" group-title="BRAZIL",Canal do Boi (720p)
 http://186.219.52.187/canal_do_boi/index.m3u8
-#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-name="Canal do Boi (720p)" tvg-logo="" group-title="BRAZIL",Canal do Boi (720p)
-http://45.162.64.114/CANAL_DO_BOI/index.m3u8
 #EXTINF:-1 tvg-id="CanaldoCriador.br@SD" tvg-name="Canal do Criador (1080p)" tvg-logo="" group-title="BRAZIL",Canal do Criador (1080p)
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanaldoInter.br@SD" tvg-name="Canal do Inter (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",Canal do Inter (720p) [Not 24/7]
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalEducacao.br@SD" tvg-name="Canal Educacao (720p)" tvg-logo="" group-title="BRAZIL",Canal Educacao (720p)
-http://168.197.104.22/CANAL_EDUCACAO/index.m3u8
-#EXTINF:-1 tvg-id="CanalEducacao.br@SD" tvg-name="Canal Educacao (720p)" tvg-logo="" group-title="BRAZIL",Canal Educacao (720p)
-http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br@SD" tvg-name="Canal Educacao (720p)" tvg-logo="" group-title="BRAZIL",Canal Educacao (720p)
 http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br@SD" tvg-name="Canal Educação (720p)" tvg-logo="" group-title="BRAZIL",Canal Educação (720p)
@@ -273,10 +247,6 @@ https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 http://170.83.16.50/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="CanalFutura.br@SD" tvg-name="Canal Futura (720p)" tvg-logo="" group-title="BRAZIL",Canal Futura (720p)
 http://186.219.52.187/futura/index.m3u8
-#EXTINF:-1 tvg-id="CanalFutura.br@SD" tvg-name="Canal Futura (720p)" tvg-logo="" group-title="BRAZIL",Canal Futura (720p)
-http://45.162.64.114/FUTURA/index.m3u8
-#EXTINF:-1 tvg-id="CanalGov.br@SD" tvg-name="Canal Gov (720p)" tvg-logo="" group-title="BRAZIL",Canal Gov (720p)
-http://168.197.104.22/TV_BRASIL_2/index.m3u8
 #EXTINF:-1 tvg-id="CanalGov.br@SD" tvg-name="Canal Gov (720p)" tvg-logo="" group-title="BRAZIL",Canal Gov (720p)
 http://45.177.114.115/TV_BRASIL_2/index.m3u8
 #EXTINF:-1 tvg-id="CanalGov.br@SD" tvg-name="Canal Gov (720p)" tvg-logo="" group-title="BRAZIL",Canal Gov (720p)
@@ -327,8 +297,6 @@ https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
 https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="67f9602ee173fa5664fafae8" tvg-name="Charmed: Jovens Bruxas" tvg-logo="https://images.pluto.tv/channels/67f9602ee173fa5664fafae8/colorLogoPNG_1747333127716.png" group-title="BRAZIL",Charmed: Jovens Bruxas
 https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
-#EXTINF:-1 tvg-id="ChefTV.br@SD" tvg-name="Chef TV (720p)" tvg-logo="" group-title="BRAZIL",Chef TV (720p)
-http://168.197.104.22/CHEF_TV/index.m3u8
 #EXTINF:-1 tvg-id="ChromaTV.br@SD" tvg-name="Chroma TV (480p)" tvg-logo="" group-title="BRAZIL",Chroma TV (480p)
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="CINDIETV.br@HD" tvg-name="CINDIE TV (1080p)" tvg-logo="" group-title="BRAZIL",CINDIE TV (1080p)
@@ -408,11 +376,7 @@ https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DJing" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",DJing
 https://www.djing.com/tv/a-28904-04.m3u8
 #EXTINF:-1 tvg-id="DumDum.br@SD" tvg-name="DumDum (720p)" tvg-logo="" group-title="BRAZIL",DumDum (720p)
-http://168.197.104.22/ZOOMOO/index.m3u8
-#EXTINF:-1 tvg-id="DumDum.br@SD" tvg-name="DumDum (720p)" tvg-logo="" group-title="BRAZIL",DumDum (720p)
 http://186.219.52.187/zoomoo/index.m3u8
-#EXTINF:-1 tvg-id="DumDum.br@SD" tvg-name="DumDum (720p)" tvg-logo="" group-title="BRAZIL",DumDum (720p)
-http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
 #EXTINF:-1 tvg-id="ElementalChannel.br@SD" tvg-name="Elemental Channel" tvg-logo="" group-title="BRAZIL",Elemental Channel
 https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
 #EXTINF:-1 tvg-id="ElementalChannel.br@SD" tvg-name="Elemental Channel (1080p)" tvg-logo="" group-title="BRAZIL",Elemental Channel (1080p)
@@ -456,11 +420,7 @@ https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
 #EXTINF:-1 tvg-id="FishTV.br@SD" tvg-name="Fish TV (1080p)" tvg-logo="" group-title="BRAZIL",Fish TV (1080p)
 http://190.128.214.97:64333/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="FishTV.br@SD" tvg-name="Fish TV (720p)" tvg-logo="" group-title="BRAZIL",Fish TV (720p)
-http://168.197.104.22/FISH_TV/index.m3u8
-#EXTINF:-1 tvg-id="FishTV.br@SD" tvg-name="Fish TV (720p)" tvg-logo="" group-title="BRAZIL",Fish TV (720p)
 http://170.83.16.50/FISH_TV/index.m3u8
-#EXTINF:-1 tvg-id="FishTV.br@SD" tvg-name="Fish TV (720p)" tvg-logo="" group-title="BRAZIL",Fish TV (720p)
-http://45.162.64.114/FISH_TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FM O DIA 100.5 - ESTACAO AO VIVO" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",FM O DIA 100.5 - ESTACAO AO VIVO
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 #EXTINF:-1 tvg-id="FonteTV.br@SD" tvg-name="Fonte TV" tvg-logo="" group-title="BRAZIL",Fonte TV
@@ -630,8 +590,6 @@ https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
 #EXTINF:-1 tvg-id="625463563b8ddc0007134aeb" tvg-name="MTV Shore" tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="BRAZIL",MTV Shore
 https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
 #EXTINF:-1 tvg-id="MusicBoxBrazil.br@SD" tvg-name="Music Box Brazil (720p)" tvg-logo="" group-title="BRAZIL",Music Box Brazil (720p)
-http://168.197.104.22/MUSIC/index.m3u8
-#EXTINF:-1 tvg-id="MusicBoxBrazil.br@SD" tvg-name="Music Box Brazil (720p)" tvg-logo="" group-title="BRAZIL",Music Box Brazil (720p)
 http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MyTime Movie Network | Brasil" tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="BRAZIL",MyTime Movie Network | Brasil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -674,11 +632,7 @@ https://newidco-newkid-1-mx.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Novo Kpop 3 | SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",Novo Kpop 3 | SamsungTv
 https://newidco-newkid-1-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br@SD" tvg-name="Novo Tempo (720p)" tvg-logo="" group-title="BRAZIL",Novo Tempo (720p)
-http://168.197.104.22/NOVO_TEMPO/index.m3u8
-#EXTINF:-1 tvg-id="NovoTempo.br@SD" tvg-name="Novo Tempo (720p)" tvg-logo="" group-title="BRAZIL",Novo Tempo (720p)
 http://186.219.52.187/novo_tempo/index.m3u8
-#EXTINF:-1 tvg-id="NovoTempo.br@SD" tvg-name="Novo Tempo (720p)" tvg-logo="" group-title="BRAZIL",Novo Tempo (720p)
-http://45.162.64.114/NOVO_TEMPO/index.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="Novo Tempo | Brasil" tvg-logo="https://i.imgur.com/5uTSYY6.png" group-title="BRAZIL",Novo Tempo | Brasil
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.br@SD" tvg-name="NTV (720p)" tvg-logo="" group-title="BRAZIL",NTV (720p)
@@ -719,10 +673,6 @@ https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Phoenix TV | Soul TV Brasil" tvg-logo="https://i.imgur.com/dUdZVhT.png" group-title="BRAZIL",Phoenix TV | Soul TV Brasil
 http://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlayTV.br@SD" tvg-name="Play TV (720p)" tvg-logo="" group-title="BRAZIL",Play TV (720p)
-http://168.197.104.22/PLAY_TV/index.m3u8
-#EXTINF:-1 tvg-id="PlayTV.br@SD" tvg-name="Play TV (720p)" tvg-logo="" group-title="BRAZIL",Play TV (720p)
-http://45.162.64.114/PLAY_TV/index.m3u8
 #EXTINF:-1 tvg-id="PlayTV.br@SD" tvg-name="Play TV (720p)" tvg-logo="" group-title="BRAZIL",Play TV (720p)
 http://45.177.114.115/PLAY_TV/index.m3u8
 #EXTINF:-1 tvg-id="PlayTV.br@SD" tvg-name="Play TV (720p)" tvg-logo="" group-title="BRAZIL",Play TV (720p)
@@ -878,8 +828,6 @@ http://170.84.165.204/Record_HD/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-name="Record News" tvg-logo="" group-title="BRAZIL",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-name="Record News (720p)" tvg-logo="" group-title="BRAZIL",Record News (720p)
-http://168.197.104.22/RECORD_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-name="Record News (720p)" tvg-logo="" group-title="BRAZIL",Record News (720p)
 http://170.83.16.50/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-name="Record News (720p)" tvg-logo="" group-title="BRAZIL",Record News (720p)
 http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8
@@ -887,8 +835,6 @@ http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8
 http://170.84.165.204/Record_news/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-name="Record News (720p)" tvg-logo="" group-title="BRAZIL",Record News (720p)
 http://186.219.52.187/record_news/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-name="Record News (720p)" tvg-logo="" group-title="BRAZIL",Record News (720p)
-http://45.162.64.114/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-name="Record News (720p)" tvg-logo="" group-title="BRAZIL",Record News (720p)
 http://45.177.114.115/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-name="Record News (720p)" tvg-logo="" group-title="BRAZIL",Record News (720p)
@@ -932,19 +878,13 @@ http://170.84.165.204/REDEBRASIL/index.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br@SD" tvg-name="Rede Brasil (720p)" tvg-logo="" group-title="BRAZIL",Rede Brasil (720p)
 https://cdn-tiva-video09-logicahost-com-br.smartbit.co/redebrasiloficial/redebrasiloficial/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br@SD" tvg-name="Rede CNT Rio de Janeiro (720p)" tvg-logo="" group-title="BRAZIL",Rede CNT Rio de Janeiro (720p)
-http://168.197.104.22/CNT/index.m3u8
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br@SD" tvg-name="Rede CNT Rio de Janeiro (720p)" tvg-logo="" group-title="BRAZIL",Rede CNT Rio de Janeiro (720p)
 http://170.83.49.66:8083/REDECNTHD/index.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br@SD" tvg-name="Rede CNT Rio de Janeiro (720p)" tvg-logo="" group-title="BRAZIL",Rede CNT Rio de Janeiro (720p)
 http://170.84.165.204/CNT_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br@SD" tvg-name="Rede CNT Rio de Janeiro (720p)" tvg-logo="" group-title="BRAZIL",Rede CNT Rio de Janeiro (720p)
 http://186.219.52.187/cnt/index.m3u8
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br@SD" tvg-name="Rede CNT Rio de Janeiro (720p)" tvg-logo="" group-title="BRAZIL",Rede CNT Rio de Janeiro (720p)
-http://45.162.64.114/CNT/index.m3u8
 #EXTINF:-1 tvg-id="RedeCNTSalvador.br@SD" tvg-name="Rede CNT Salvador (576i)" tvg-logo="" group-title="BRAZIL",Rede CNT Salvador (576i)
 http://168.205.87.198:8555/live/1368/123456/150.m3u8
-#EXTINF:-1 tvg-id="RedeFamilia.br@SD" tvg-name="Rede Familia (720p)" tvg-logo="" group-title="BRAZIL",Rede Familia (720p)
-http://168.197.104.22/REDE_FAMILIA/index.m3u8
 #EXTINF:-1 tvg-id="RedeFamilia.br@SD" tvg-name="Rede Familia (720p)" tvg-logo="" group-title="BRAZIL",Rede Familia (720p)
 http://186.219.52.187/rede_familia/index.m3u8
 #EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-name="Rede Globo (1080p)" tvg-logo="" group-title="BRAZIL",Rede Globo (1080p)
@@ -977,8 +917,6 @@ https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/play
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br@SD" tvg-name="Rede Seculo 21 (720p)" tvg-logo="" group-title="BRAZIL",Rede Seculo 21 (720p)
 http://186.219.52.187/seculo21/index.m3u8
-#EXTINF:-1 tvg-id="RedeSeculo21.br@SD" tvg-name="Rede Seculo 21 (720p)" tvg-logo="" group-title="BRAZIL",Rede Seculo 21 (720p)
-http://45.162.64.114/REDE_SECULO_21/index.m3u8
 #EXTINF:-1 tvg-id="RedeSPTV.br@SD" tvg-name="Rede SPTV (360p)" tvg-logo="" group-title="BRAZIL",Rede SPTV (360p)
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede SPTV | SP Brasil" tvg-logo="https://i.imgur.com/1JqP03l.png" group-title="BRAZIL",Rede SPTV | SP Brasil
@@ -990,15 +928,11 @@ https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/master.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="BR - RedeTV!" tvg-logo="https://iptv-epg.org/images/wHL4M3uHZOQLY2wg1RpWKz-uBP4D6IYRk0c4rkZQhO5xQof_qrSdO5JsHPuiklEopUqodef7dLJtFebtwdOR8_Zk7LYVyXS84H6QzdIWsw" group-title="BRAZIL",Rede TV | PR Brasil
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-name="Rede TV! (720p)" tvg-logo="" group-title="BRAZIL",Rede TV! (720p)
-http://168.197.104.22/REDE_TV/index.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-name="Rede TV! (720p)" tvg-logo="" group-title="BRAZIL",Rede TV! (720p)
 http://170.83.16.50/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-name="Rede TV! (720p)" tvg-logo="" group-title="BRAZIL",Rede TV! (720p)
 http://170.83.49.66:8083/REDETVHD/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-name="Rede TV! (720p)" tvg-logo="" group-title="BRAZIL",Rede TV! (720p)
 http://186.219.52.187/rede_tv/index.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-name="Rede TV! (720p)" tvg-logo="" group-title="BRAZIL",Rede TV! (720p)
-http://45.162.64.114/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-id="RedeTVMais.br@SD" tvg-name="Rede TV! Mais (720p)" tvg-logo="" group-title="BRAZIL",Rede TV! Mais (720p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-name="Rede TV! SP (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",Rede TV! SP (720p) [Not 24/7]
@@ -1007,8 +941,6 @@ https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
 https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br@SD" tvg-name="Rede Vida (576p)" tvg-logo="" group-title="BRAZIL",Rede Vida (576p)
 https://cdn-5.nxplay.com.br/REDE_VIDA/index.m3u8
-#EXTINF:-1 tvg-id="RedeVida.br@SD" tvg-name="Rede Vida (720p)" tvg-logo="" group-title="BRAZIL",Rede Vida (720p)
-http://168.197.104.22/REDE_VIDA/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br@SD" tvg-name="Rede Vida (720p)" tvg-logo="" group-title="BRAZIL",Rede Vida (720p)
 http://170.84.165.204/REDEVIDA_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br@SD" tvg-name="Rede Vida (720p)" tvg-logo="" group-title="BRAZIL",Rede Vida (720p)
@@ -1125,8 +1057,6 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2
 http://170.83.49.66:8083/SESCTVHD/index.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br@SD" tvg-name="SESC TV (720p)" tvg-logo="" group-title="BRAZIL",SESC TV (720p)
 http://186.219.52.187/sesc_tv/index.m3u8
-#EXTINF:-1 tvg-id="SESCTV.br@SD" tvg-name="SESC TV (720p)" tvg-logo="" group-title="BRAZIL",SESC TV (720p)
-http://45.162.64.114/SESC_TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SETE LAGOAS" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",SETE LAGOAS
 https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SFT Combat (720p)" tvg-logo="" group-title="BRAZIL",SFT Combat (720p)
@@ -1150,11 +1080,7 @@ http://170.83.16.50/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-name="Sony Channel (720p)" tvg-logo="" group-title="BRAZIL",Sony Channel (720p)
 https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br@SD" tvg-name="Sony Movies (720p)" tvg-logo="" group-title="BRAZIL",Sony Movies (720p)
-http://168.197.104.22/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.br@SD" tvg-name="Sony Movies (720p)" tvg-logo="" group-title="BRAZIL",Sony Movies (720p)
 http://170.83.16.50/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.br@SD" tvg-name="Sony Movies (720p)" tvg-logo="" group-title="BRAZIL",Sony Movies (720p)
-http://45.162.64.114/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br@SD" tvg-name="Sony Movies (720p)" tvg-logo="" group-title="BRAZIL",Sony Movies (720p)
 http://45.177.114.115/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony One Classics | SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",Sony One Classics | SamsungTv
@@ -1212,13 +1138,9 @@ https://jmp2.uk/plu-64e50055286f6b000838c067.m3u8
 #EXTINF:-1 tvg-id="TendaTV.br" tvg-name="Tenda TV | Brasil" tvg-logo="https://i.imgur.com/tEQn90j.png" group-title="BRAZIL",Tenda TV | Brasil
 https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br@SD" tvg-name="Terra Viva (720p)" tvg-logo="" group-title="BRAZIL",Terra Viva (720p)
-http://168.197.104.22/TERRAVIVA/index.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br@SD" tvg-name="Terra Viva (720p)" tvg-logo="" group-title="BRAZIL",Terra Viva (720p)
 http://170.83.16.50/TERRA_VIVA/index.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br@SD" tvg-name="Terra Viva (720p)" tvg-logo="" group-title="BRAZIL",Terra Viva (720p)
 http://170.83.49.66:8083/TERRAVIVAHD/index.m3u8
-#EXTINF:-1 tvg-id="TerraViva.br@SD" tvg-name="Terra Viva (720p)" tvg-logo="" group-title="BRAZIL",Terra Viva (720p)
-http://45.162.64.114/TERRAVIVA/index.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br@SD" tvg-name="Terra Viva (720p)" tvg-logo="" group-title="BRAZIL",Terra Viva (720p)
 http://45.177.114.115/TERRAVIVA/index.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br@SD" tvg-name="Terra Viva (720p)" tvg-logo="" group-title="BRAZIL",Terra Viva (720p)
@@ -1254,8 +1176,6 @@ https://video03.logicahost.com.br/topmixtv/topmixtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca | Xiaomi" tvg-logo="https://i.imgur.com/453JQfl.png" group-title="BRAZIL",Trace Brazuca | Xiaomi
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="TravelBoxBrazil.br@SD" tvg-name="Travel Box Brazil (720p)" tvg-logo="" group-title="BRAZIL",Travel Box Brazil (720p)
-http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br@SD" tvg-name="Travel Box Brazil (720p)" tvg-logo="" group-title="BRAZIL",Travel Box Brazil (720p)
 http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TSPB" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",TSPB
 https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
@@ -1284,13 +1204,9 @@ https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br@SD" tvg-name="TV Aparecida (1080p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",TV Aparecida (1080p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br@SD" tvg-name="TV Aparecida (720p)" tvg-logo="" group-title="BRAZIL",TV Aparecida (720p)
-http://168.197.104.22/TV_APARECIDA/index.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br@SD" tvg-name="TV Aparecida (720p)" tvg-logo="" group-title="BRAZIL",TV Aparecida (720p)
 http://170.83.16.50/TV_APARECIDA/index.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br@SD" tvg-name="TV Aparecida (720p)" tvg-logo="" group-title="BRAZIL",TV Aparecida (720p)
 http://170.83.49.66:8083/TVAPARECIDAHD/index.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br@SD" tvg-name="TV Aparecida (720p)" tvg-logo="" group-title="BRAZIL",TV Aparecida (720p)
-http://45.162.64.114/TV_APARECIDA/index.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br@SD" tvg-name="TV Aparecida (720p)" tvg-logo="" group-title="BRAZIL",TV Aparecida (720p)
 http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="BR - TV Aparecida" tvg-logo="https://iptv-epg.org/images/kYT6RRrdTnnihZU7AYqoa8_cAQifZoENzKSNOLu5Qv3KCEj1B81PY2H6xvBNFNLh-U6SDlao72P8bBF44ZWNegXukBye4Deo67Mcy8h3mnaBtQ3B" group-title="BRAZIL",TV Aparecida | Brasil
@@ -1312,15 +1228,11 @@ https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/tvdigitalbirigui/play
 #EXTINF:-1 tvg-id="TVBirigui.br@SD" tvg-name="TV Birigui (640p)" tvg-logo="" group-title="BRAZIL",TV Birigui (640p)
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil (720p)" tvg-logo="" group-title="BRAZIL",TV Brasil (720p)
-http://168.197.104.22/TV_BRASIL/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil (720p)" tvg-logo="" group-title="BRAZIL",TV Brasil (720p)
 http://170.83.49.66:8083/TVBRASILHD/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil (720p)" tvg-logo="" group-title="BRAZIL",TV Brasil (720p)
 http://170.84.165.204/TVBRASIL/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil (720p)" tvg-logo="" group-title="BRAZIL",TV Brasil (720p)
 http://186.219.52.187/tv_brasil/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil (720p)" tvg-logo="" group-title="BRAZIL",TV Brasil (720p)
-http://45.162.64.114/TV_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil (720p)" tvg-logo="" group-title="BRAZIL",TV Brasil (720p)
 http://45.177.114.115/TV_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil (720p)" tvg-logo="" group-title="BRAZIL",TV Brasil (720p)
@@ -1330,21 +1242,13 @@ https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlis
 #EXTINF:-1 tvg-id="TVBrusque.br@SD" tvg-name="TV Brusque (720p)" tvg-logo="" group-title="BRAZIL",TV Brusque (720p)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-name="TV Camara (720p)" tvg-logo="" group-title="BRAZIL",TV Camara (720p)
-http://168.197.104.22/TV_CAMARA/index.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-name="TV Camara (720p)" tvg-logo="" group-title="BRAZIL",TV Camara (720p)
 http://170.83.49.66:8083/TVCAMARAHD/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-name="TV Camara (720p)" tvg-logo="" group-title="BRAZIL",TV Camara (720p)
 http://186.219.52.187/tv_camara/index.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-name="TV Camara (720p)" tvg-logo="" group-title="BRAZIL",TV Camara (720p)
-http://45.162.64.114/TV_CAMARA/index.m3u8
-#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-name="TV Cancao Nova (720p)" tvg-logo="" group-title="BRAZIL",TV Cancao Nova (720p)
-http://168.197.104.22/CANCAO_NOVA/index.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-name="TV Cancao Nova (720p)" tvg-logo="" group-title="BRAZIL",TV Cancao Nova (720p)
 http://170.83.16.50/CANCAO_NOVA/index.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-name="TV Cancao Nova (720p)" tvg-logo="" group-title="BRAZIL",TV Cancao Nova (720p)
 http://186.219.52.187/cancao_nova/index.m3u8
-#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-name="TV Cancao Nova (720p)" tvg-logo="" group-title="BRAZIL",TV Cancao Nova (720p)
-http://45.162.64.114/CANCAO_NOVA/index.m3u8
 #EXTINF:-1 tvg-id="TVCarioca.br@SD" tvg-name="TV Carioca (720p)" tvg-logo="" group-title="BRAZIL",TV Carioca (720p)
 https://cdn-tiva-video03-logicahost-com-br.smartbit.co/cariocainternacional1/cariocainternacional1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCidadedePetropolis.br@SD" tvg-name="TV Cidade de Petrópolis (1080p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",TV Cidade de Petrópolis (1080p) [Not 24/7]
@@ -1360,15 +1264,11 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-name="TV Cultura (480p)" tvg-logo="" group-title="BRAZIL",TV Cultura (480p)
 https://cdn-5.nxplay.com.br/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-name="TV Cultura (720p)" tvg-logo="" group-title="BRAZIL",TV Cultura (720p)
-http://168.197.104.22/TV_CULTURA/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-name="TV Cultura (720p)" tvg-logo="" group-title="BRAZIL",TV Cultura (720p)
 http://170.83.16.50/CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-name="TV Cultura (720p)" tvg-logo="" group-title="BRAZIL",TV Cultura (720p)
 http://170.84.165.204/CULTURA_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-name="TV Cultura (720p)" tvg-logo="" group-title="BRAZIL",TV Cultura (720p)
 http://186.219.52.187/cultura/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-name="TV Cultura (720p)" tvg-logo="" group-title="BRAZIL",TV Cultura (720p)
-http://45.162.64.114/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-name="TV Cultura (720p)" tvg-logo="" group-title="BRAZIL",TV Cultura (720p)
 http://45.177.114.115/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-name="TV Cultura (720p)" tvg-logo="" group-title="BRAZIL",TV Cultura (720p)
@@ -1410,15 +1310,11 @@ https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/pla
 #EXTINF:-1 tvg-id="TVEvangelizar.br@SD" tvg-name="TV Evangelizar (480p)" tvg-logo="" group-title="BRAZIL",TV Evangelizar (480p)
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br@SD" tvg-name="TV Evangelizar (720p)" tvg-logo="" group-title="BRAZIL",TV Evangelizar (720p)
-http://168.197.104.22/EVANGELIZAR/index.m3u8
-#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" tvg-name="TV Evangelizar (720p)" tvg-logo="" group-title="BRAZIL",TV Evangelizar (720p)
 http://170.83.16.50/TV_EVANGELIZAR/index.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br@SD" tvg-name="TV Evangelizar (720p)" tvg-logo="" group-title="BRAZIL",TV Evangelizar (720p)
 http://170.83.49.66:8083/EVANGELIZARHD/index.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br@SD" tvg-name="TV Evangelizar (720p)" tvg-logo="" group-title="BRAZIL",TV Evangelizar (720p)
 http://186.219.52.187/tv_evangelizar/index.m3u8
-#EXTINF:-1 tvg-id="TVEvangelizar.br@SD" tvg-name="TV Evangelizar (720p)" tvg-logo="" group-title="BRAZIL",TV Evangelizar (720p)
-http://45.162.64.114/EVANGELIZAR/index.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br@SD" tvg-name="TV Evangelizar (720p)" tvg-logo="" group-title="BRAZIL",TV Evangelizar (720p)
 https://cdn-tiva-tvevangelizar-brasilstream-com-br.smartbit.co/hls/tvevangelizar/index.m3u8
 #EXTINF:-1 tvg-id="TVFronteira.br@SD" tvg-name="TV Fronteira (480i)" tvg-logo="" group-title="BRAZIL",TV Fronteira (480i)
@@ -1431,8 +1327,6 @@ https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-name="TV Gazeta (720p)" tvg-logo="" group-title="BRAZIL",TV Gazeta (720p)
 http://186.219.52.187/gazeta/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-name="TV Gazeta (720p)" tvg-logo="" group-title="BRAZIL",TV Gazeta (720p)
-http://45.162.64.114/TV_GAZETA/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-name="TV Gazeta (720p)" tvg-logo="" group-title="BRAZIL",TV Gazeta (720p)
 https://tv.nuvemplay.live/hls/40gtv/stream.m3u8
 #EXTINF:-1 tvg-id="TVGazin.br@SD" tvg-name="TV Gazin (720p)" tvg-logo="" group-title="BRAZIL",TV Gazin (720p)
@@ -1458,15 +1352,11 @@ https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-id="TVInterlagos.br@SD" tvg-name="TV Interlagos (360p)" tvg-logo="" group-title="BRAZIL",TV Interlagos (360p)
 https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-name="TV Justica (720p)" tvg-logo="" group-title="BRAZIL",TV Justica (720p)
-http://168.197.104.22/TV_JUSTICA/index.m3u8
-#EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-name="TV Justica (720p)" tvg-logo="" group-title="BRAZIL",TV Justica (720p)
 http://170.83.16.50/TV_JUSTICA/index.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-name="TV Justica (720p)" tvg-logo="" group-title="BRAZIL",TV Justica (720p)
 http://170.83.49.66:8083/TVJUSTICAHD/index.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-name="TV Justica (720p)" tvg-logo="" group-title="BRAZIL",TV Justica (720p)
 http://186.219.52.187/tv_justica/index.m3u8
-#EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-name="TV Justica (720p)" tvg-logo="" group-title="BRAZIL",TV Justica (720p)
-http://45.162.64.114/TV_JUSTICA/index.m3u8
 #EXTINF:-1 tvg-id="TVLiberdade.br@SD" tvg-name="TV Liberdade (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",TV Liberdade (720p) [Not 24/7]
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLifeAmerica.br@HD" tvg-name="TV Life America (720p)" tvg-logo="" group-title="BRAZIL",TV Life America (720p)
@@ -1500,11 +1390,7 @@ https://acesso.ecast.site:3675/live/novatvlive.m3u8
 #EXTINF:-1 tvg-id="TVPadreCicero.br@SD" tvg-name="TV Padre Cicero (720p)" tvg-logo="" group-title="BRAZIL",TV Padre Cicero (720p)
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br@SD" tvg-name="TV Pai Eterno (720p)" tvg-logo="" group-title="BRAZIL",TV Pai Eterno (720p)
-http://168.197.104.22/TV_PAI_ETERNO/index.m3u8
-#EXTINF:-1 tvg-id="TVPaiEterno.br@SD" tvg-name="TV Pai Eterno (720p)" tvg-logo="" group-title="BRAZIL",TV Pai Eterno (720p)
 http://186.219.52.187/pai_eterno/index.m3u8
-#EXTINF:-1 tvg-id="TVPaiEterno.br@SD" tvg-name="TV Pai Eterno (720p)" tvg-logo="" group-title="BRAZIL",TV Pai Eterno (720p)
-http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br@SD" tvg-name="TV Pai Eterno (720p)" tvg-logo="" group-title="BRAZIL",TV Pai Eterno (720p)
 https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno | GO Brasil" tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="BRAZIL",TV Pai Eterno | GO Brasil
@@ -1523,10 +1409,6 @@ https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 https://stmv.webtvninjas.com.br/tvprofissao/tvprofissao/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR.br" tvg-name="TV R | Brasil" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_CERTP_PNG__MOAFOfq.png" group-title="BRAZIL",TV R | Brasil
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRaTimBum.br@SD" tvg-name="TV Ra Tim Bum (576p)" tvg-logo="" group-title="BRAZIL",TV Ra Tim Bum (576p)
-http://45.162.64.114/RA_TIM_BUM/index.m3u8
-#EXTINF:-1 tvg-id="TVRaTimBum.br@SD" tvg-name="TV Ra Tim Bum (720p)" tvg-logo="" group-title="BRAZIL",TV Ra Tim Bum (720p)
-http://168.197.104.22/RA_TIM_BUM/index.m3u8
 #EXTINF:-1 tvg-id="TVRaTimBum.br@SD" tvg-name="TV Ra Tim Bum (720p)" tvg-logo="" group-title="BRAZIL",TV Ra Tim Bum (720p)
 http://170.83.49.66:8083/TVRATIMBUMHD/index.m3u8
 #EXTINF:-1 tvg-id="TVRaTimBum.br@SD" tvg-name="TV Ra Tim Bum (720p)" tvg-logo="" group-title="BRAZIL",TV Ra Tim Bum (720p)
@@ -1534,15 +1416,11 @@ http://186.219.52.187/ratimbum/index.m3u8
 #EXTINF:-1 tvg-id="TVRaTimBum.br@SD" tvg-name="TV Ra Tim Bum (720p)" tvg-logo="" group-title="BRAZIL",TV Ra Tim Bum (720p)
 http://45.177.114.115/TV_RA_TIM_BUM/index.m3u8
 #EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-name="TV Senado (720p)" tvg-logo="" group-title="BRAZIL",TV Senado (720p)
-http://168.197.104.22/TV_SENADO/index.m3u8
-#EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-name="TV Senado (720p)" tvg-logo="" group-title="BRAZIL",TV Senado (720p)
 http://170.83.16.50/TV_SENADO/index.m3u8
 #EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-name="TV Senado (720p)" tvg-logo="" group-title="BRAZIL",TV Senado (720p)
 http://170.83.49.66:8083/TVSENADOHD/index.m3u8
 #EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-name="TV Senado (720p)" tvg-logo="" group-title="BRAZIL",TV Senado (720p)
 http://186.219.52.187/tv_senado/index.m3u8
-#EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-name="TV Senado (720p)" tvg-logo="" group-title="BRAZIL",TV Senado (720p)
-http://45.162.64.114/TV_SENADO/index.m3u8
 #EXTINF:-1 tvg-id="TVSeries.br@SD" tvg-name="TV Series 1 As Panteras (480p)" tvg-logo="" group-title="BRAZIL",TV Series 1 As Panteras (480p)
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="TVShowFortaleza.br@SD" tvg-name="TV Show Fortaleza (720p)" tvg-logo="" group-title="BRAZIL",TV Show Fortaleza (720p)
@@ -1652,13 +1530,9 @@ https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WeatherSpy 2 | SamsungTv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/01/samsung-logo-1-1-1080x165.png" group-title="BRAZIL",WeatherSpy 2 | SamsungTv
 https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-name="WooHoo (720p)" tvg-logo="" group-title="BRAZIL",WooHoo (720p)
-http://168.197.104.22/WOOHOO/index.m3u8
-#EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-name="WooHoo (720p)" tvg-logo="" group-title="BRAZIL",WooHoo (720p)
 http://170.83.16.50/WOOHOO/index.m3u8
 #EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-name="WooHoo (720p)" tvg-logo="" group-title="BRAZIL",WooHoo (720p)
 http://186.219.52.187/woohoo/index.m3u8
-#EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-name="WooHoo (720p)" tvg-logo="" group-title="BRAZIL",WooHoo (720p)
-http://45.162.64.114/WOOHOO/index.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGWorld Poker Tour" tvg-name="World Poker Tour" tvg-logo="" group-title="BRAZIL",World Poker Tour
 https://jmp2.uk/plu-63eba66da8b2270008436b10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WTJ TV | MG Brasil" tvg-logo="https://zettafibra.com.br/wp-content/uploads/2021/06/tvwtjminas.png" group-title="BRAZIL",WTJ TV | MG Brasil
