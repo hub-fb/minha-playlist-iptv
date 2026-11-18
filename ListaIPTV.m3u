@@ -133,7 +133,7 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aracati" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Aracati
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-#EXTINF:-1 tvg-id="ArarunaTV.br@SD" tvg-name="Araruna TV" tvg-logo="" group-title="BRAZIL",Araruna TV
+#EXTINF:-1 tvg-id="ArarunaTV.br@SD" tvg-name="Araruna TV (614p)" tvg-logo="" group-title="BRAZIL",Araruna TV (614p)
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AratuOn.br@SD" tvg-name="Aratu On (1080p)" tvg-logo="" group-title="BRAZIL",Aratu On (1080p)
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
@@ -265,7 +265,7 @@ http://186.219.52.187/canal_rural/index.m3u8
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
 #EXTINF:-1 tvg-id="CanalSaude.br@SD" tvg-name="Canal Saúde (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",Canal Saúde (720p) [Not 24/7]
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalSete.br@SD" tvg-name="Canal Sete" tvg-logo="" group-title="BRAZIL",Canal Sete
+#EXTINF:-1 tvg-id="CanalSete.br@SD" tvg-name="Canal Sete (1080p)" tvg-logo="" group-title="BRAZIL",Canal Sete (1080p)
 http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSTART.br@SD" tvg-name="Canal START (720p)" tvg-logo="" group-title="BRAZIL",Canal START (720p)
 https://cdn-tiva-srv5-zcast-com-br.smartbit.co/canalstart/canalstart/playlist.m3u8
@@ -663,7 +663,7 @@ https://jmp2.uk/plu-63221e41af69b500076f84e7.m3u8
 https://jmp2.uk/plu-68b88ae1943f6fb1fb2ad749.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pegadinhas Just for Laughs (720p)" tvg-logo="" group-title="BRAZIL",Pegadinhas Just for Laughs (720p)
 https://jmp2.uk/plu-67802a22a5d8215f99dcee30.m3u8
-#EXTINF:-1 tvg-id="PetloversTV.br@SD" tvg-name="Petlovers TV" tvg-logo="" group-title="BRAZIL",Petlovers TV
+#EXTINF:-1 tvg-id="PetloversTV.br@SD" tvg-name="Petlovers TV (720p)" tvg-logo="" group-title="BRAZIL",Petlovers TV (720p)
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-id="PFLMMA.us@SD" tvg-name="PFL MMA (720p)" tvg-logo="" group-title="BRAZIL",PFL MMA (720p)
 https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
@@ -677,7 +677,7 @@ https://isaocorp.cloudecast.com/playtv/index.m3u8
 https://isaocorp.cloudecast.com/playtv/mono.m3u8
 #EXTINF:-1 tvg-id="PlenaTV.br@SD" tvg-name="Plena TV (720p)" tvg-logo="" group-title="BRAZIL",Plena TV (720p)
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-#EXTINF:-1 tvg-id="PlenitudeTV.br@SD" tvg-name="Plenitude TV" tvg-logo="" group-title="BRAZIL",Plenitude TV
+#EXTINF:-1 tvg-id="PlenitudeTV.br@SD" tvg-name="Plenitude TV (1080p)" tvg-logo="" group-title="BRAZIL",Plenitude TV (1080p)
 https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
 #EXTINF:-1 tvg-id="6806d65e84f24b70109485fa" tvg-name="Pluto TV Aliens" tvg-logo="https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png" group-title="BRAZIL",Pluto TV Aliens
 https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
@@ -945,7 +945,7 @@ http://186.219.52.187/rede_vida/index.m3u8
 http://46.151.196.223:14244
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-name="BR - Rede Vida" tvg-logo="https://iptv-epg.org/images/eybTqefOZEvlGk8wuoRgjr0nUyPMxv-wih3hbS44trGsuopRjfInFg83cUjzNy7nhoPAuM-SlWVLo426kJKrQslkk22OwXBynrep3eBVfCjA" group-title="BRAZIL",Rede Vida | Brasil
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
-#EXTINF:-1 tvg-id="RedeTVParana.br@SD" tvg-name="RedeTV! Parana" tvg-logo="" group-title="BRAZIL",RedeTV! Parana
+#EXTINF:-1 tvg-id="RedeTVParana.br@SD" tvg-name="RedeTV! Parana (1080p)" tvg-logo="" group-title="BRAZIL",RedeTV! Parana (1080p)
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retro Cartoon" tvg-logo="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-do-brasil.png" group-title="BRAZIL",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
@@ -1083,7 +1083,7 @@ http://45.177.114.115/SONY_MOVIES/index.m3u8
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony One Shark Tank Brasil (720p)" tvg-logo="" group-title="BRAZIL",Sony One Shark Tank Brasil (720p)
 https://jmp2.uk/plu-6647c0b91050b60008390de4.m3u8
-#EXTINF:-1 tvg-id="SOUTV.br@SD" tvg-name="SOU TV" tvg-logo="" group-title="BRAZIL",SOU TV
+#EXTINF:-1 tvg-id="SOUTV.br@SD" tvg-name="SOU TV (720p)" tvg-logo="" group-title="BRAZIL",SOU TV (720p)
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Soul Cine Clube | Brasil" tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="BRAZIL",Soul Cine Clube | Brasil
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
@@ -7115,7 +7115,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_h
 http://193.46.58.239:8080/Channel5/index.m3u8
 #EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="UK",France 24 Ⓨ
 https://www.youtube.com/c/france24english/live
-#EXTINF:-1 tvg-id="GBBB1600008R3" tvg-name="GB News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600008R3_20250107T022831SQUARE.png" group-title="UK",GB News
+#EXTINF:-1 tvg-id="GBBB1600008R3" tvg-name="GB News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600008R3_20261118T005901SQUARE.png" group-title="UK",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:-1 tvg-id="GemsTV.uk" tvg-name="GemsTV" tvg-logo="https://i.imgur.com/IR2sTag.png" group-title="UK",GemsTV Ⓢ
 https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
