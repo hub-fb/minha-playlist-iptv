@@ -1365,6 +1365,8 @@ https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 #EXTINF:-1 tvg-id="TVLitoralRN.br@SD" tvg-name="TV Litoral RN (720p)" tvg-logo="" group-title="BRAZIL",TV Litoral RN (720p)
 https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMaanaim.br@SD" tvg-name="TV Maanaim (720p) [Not 24/7]" tvg-logo="" group-title="BRAZIL",TV Maanaim (720p) [Not 24/7]
+https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8
 #EXTINF:-1 tvg-id="TVMackenzie.br@SD" tvg-name="TV Mackenzie (480p)" tvg-logo="" group-title="BRAZIL",TV Mackenzie (480p)
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMaisMarica.br@SD" tvg-name="TV Mais Maricá (1080p)" tvg-logo="" group-title="BRAZIL",TV Mais Maricá (1080p)
