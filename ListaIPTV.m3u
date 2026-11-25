@@ -477,7 +477,7 @@ https://jmp2.uk/plu-65d9167818036500080e8780.m3u8
 https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="69162648d03565d6c8c8df97" tvg-name="Inspetor Bugiganga" tvg-logo="https://images.pluto.tv/channels/69162648d03565d6c8c8df97/colorLogoPNG_1769479138027.png" group-title="BRAZIL",Inspetor Bugiganga
 https://jmp2.uk/plu-69162648d03565d6c8c8df97.m3u8
-#EXTINF:-1 tvg-id="IT800001SW" tvg-name="Inuyasha" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800001SW_20251013T054512SQUARE.png" group-title="BRAZIL",Inuyasha
+#EXTINF:-1 tvg-id="IT800001SW" tvg-name="Inuyasha" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800001SW_20261124T073320SQUARE.png" group-title="BRAZIL",Inuyasha
 https://jmp2.uk/plu-66b26681d2d50d00083abe8b.m3u8
 #EXTINF:-1 tvg-id="ISTVHD.br" tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" group-title="BRAZIL",ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
@@ -2653,7 +2653,7 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="Dw.de" tvg-name="Deutsche Welle | DW+ | Alemanha" tvg-logo="https://i.imgur.com/CsHdYhG.png" group-title="DOCUMENTÁRIOS EM ALEMÃO",Deutsche Welle | DW+ | Alemanha
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="CHBA3300028G3" tvg-name="Wilder Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20261026T041721SQUARE.png" group-title="DOCUMENTÁRIOS EM ALEMÃO",Wilder Planet
+#EXTINF:-1 tvg-id="CHBA3300028G3" tvg-name="Wilder Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20261124T072241SQUARE.png" group-title="DOCUMENTÁRIOS EM ALEMÃO",Wilder Planet
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Andalucía Turismo | Espanha" tvg-logo="https://i.imgur.com/MK9DPEK.png" group-title="DOCUMENTÁRIOS EM ESPANHOL",Andalucía Turismo | Espanha
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1253
@@ -3669,7 +3669,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvpluschivetv/CDN/playlist
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01325-rarefiedatmosph-chivetv-tcl/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f76" tvg-name="Comedy Dynamics | EUA" tvg-logo="https://i.imgur.com/IBLybMe.png" group-title="HUMOR EM INGLÊS",Comedy Dynamics | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=580
-#EXTINF:-1 tvg-id="GBBD25000038Y" tvg-name="Comedy Hub" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20261110T043925SQUARE.png" group-title="HUMOR EM INGLÊS",Comedy Hub
+#EXTINF:-1 tvg-id="GBBD25000038Y" tvg-name="Comedy Hub" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20261124T073223SQUARE.png" group-title="HUMOR EM INGLÊS",Comedy Hub
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="localnow_LN Comedy" tvg-name="Comedy | EUA" tvg-logo="https://i.imgur.com/XGj7WOi.png" group-title="HUMOR EM INGLÊS",Comedy | EUA
 http://linear-89.frequency.stream/89/hls/master/playlist.m3u8
