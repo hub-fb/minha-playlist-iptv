@@ -477,7 +477,7 @@ https://jmp2.uk/plu-65d9167818036500080e8780.m3u8
 https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="69162648d03565d6c8c8df97" tvg-name="Inspetor Bugiganga" tvg-logo="https://images.pluto.tv/channels/69162648d03565d6c8c8df97/colorLogoPNG_1769479138027.png" group-title="BRAZIL",Inspetor Bugiganga
 https://jmp2.uk/plu-69162648d03565d6c8c8df97.m3u8
-#EXTINF:-1 tvg-id="IT800001SW" tvg-name="Inuyasha" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800001SW_20261124T073320SQUARE.png" group-title="BRAZIL",Inuyasha
+#EXTINF:-1 tvg-id="66b26665d512590008c507b7" tvg-name="Inuyasha" tvg-logo="https://images.pluto.tv/channels/66b26665d512590008c507b7/colorLogoPNG.png" group-title="BRAZIL",Inuyasha
 https://jmp2.uk/plu-66b26681d2d50d00083abe8b.m3u8
 #EXTINF:-1 tvg-id="ISTVHD.br" tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" group-title="BRAZIL",ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
@@ -2953,7 +2953,7 @@ https://spartantv-lg.amagi.tv/playlist.m3u8
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="Sports Tonight | Reino Unido" tvg-logo="https://i.imgur.com/Nh4LyPv.png" group-title="ESPORTES EM INGLÊS",Sports Tonight | Reino Unido
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41" tvg-name="Surfer TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png" group-title="ESPORTES EM INGLÊS",Surf Now TV | Plex EUA
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41" tvg-name="Surfer TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8fb31408-0b3a-47bb-a8b0-8a818eea2670/PLEX_surf1500X1000_PNG_tBLUE_RDX.png" group-title="ESPORTES EM INGLÊS",Surf Now TV | Plex EUA
 https://0e52d42a12b74a218576cd628069fa50.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SurfNowTV/11100072-01d6-4819-ba9a-a99ad479a5c7/3.m3u8
 #EXTINF:-1 tvg-id="USBB10000058A" tvg-name="SURFER TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000058A_20250826T234505SQUARE.png" group-title="ESPORTES EM INGLÊS",Surf Now TV | Samsung EUA
 https://dgwfm675921lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/SurfNowTv-prod/playlist.m3u8
